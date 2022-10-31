@@ -1,4 +1,4 @@
-name: qself-brandur CI
+name: qself-nowosad CI
 
 on:
   pull_request:
