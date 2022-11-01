@@ -1,9 +1,59 @@
 
 [[tweets]]
+  created_at = 2022-11-01T19:50:17Z
+  favorite_count = 221
+  id = 1587532501563707392
+  retweet_count = 29
+  text = "RT @tylermorganwall: 👇Using the {lidR} package to both create a DEM as well as extract tree canopies, and then plotting the data (using the new `render_tree()` function) in 3D with #rayshader + #rayrender: the reason #RStats is so awesome is you have tools to do everything! https://t.co/h7WIe01ozG"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1587419573707542528
+      type = "video"
+      url = "https://pbs.twimg.com/ext_tw_video_thumb/1587419573707542528/pu/img/19vmUoEhgCYwmSLt.jpg"
+
+    [[tweets.entities.user_mentions]]
+      user = "tylermorganwall"
+      user_id = 273781698
+
+  [tweets.retweet]
+    status_id = 1587420963716714497
+    user = "tylermorganwall"
+    user_id = 273781698
+
+[[tweets]]
+  created_at = 2022-11-01T19:45:16Z
+  favorite_count = 49
+  id = 1587531239149420556
+  retweet_count = 34
+  text = "RT @_R_Foundation: The R Foundation Conference Committee invites proposals to organize a hybrid useR! conference in 2023 or 2024.\n\nThe call is open to teams worldwide, the deadline for outline proposals is Wednesday 30 November 2022. #RStats \n@_useRconf \n\nhttps://t.co/AtJHOW8BjY"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "r-project.org/conferences/us…"
+      expanded_url = "https://www.r-project.org/conferences/useR_2023_call.html"
+      url = "https://t.co/AtJHOW8BjY"
+
+    [[tweets.entities.user_mentions]]
+      user = "_R_Foundation"
+      user_id = 794458165987438592
+
+    [[tweets.entities.user_mentions]]
+      user = "_useRconf"
+      user_id = 1280779280579022848
+
+  [tweets.retweet]
+    status_id = 1587162165022261253
+    user = "_R_Foundation"
+    user_id = 794458165987438592
+
+[[tweets]]
   created_at = 2022-10-31T15:38:12Z
-  favorite_count = 439
+  favorite_count = 446
   id = 1587106672383762434
-  retweet_count = 88
+  retweet_count = 91
   text = "\"Geocomputation with R’s guide to reproducible spatial data analysis\" \n\nSlides: https://t.co/eNcn3oVbRm\nVideo: https://t.co/2HBE393OHL\n\nIt introduces geocomp with R and highlights some important reproducibility methods and tools. Exercises included.\n\n#rstats #rspatial @opengeohub https://t.co/a3S3NNVNxo"
 
   [tweets.entities]
@@ -907,9 +957,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1148
+  favorite_count = 1168
   id = 1576838607498878976
-  retweet_count = 413
+  retweet_count = 417
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -4988,7 +5038,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22840
+  favorite_count = 22843
   id = 1546126992168439808
   retweet_count = 4902
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -25531,7 +25581,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37730
+  favorite_count = 37725
   id = 1367166556501925891
   retweet_count = 2948
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -26506,7 +26556,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48838
+  favorite_count = 48830
   id = 1359904039379603457
   retweet_count = 3861
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
