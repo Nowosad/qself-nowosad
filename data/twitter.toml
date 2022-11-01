@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-10-31T15:38:12Z
-  favorite_count = 291
+  favorite_count = 351
   id = 1587106672383762434
-  retweet_count = 58
+  retweet_count = 69
   text = "\"Geocomputation with R’s guide to reproducible spatial data analysis\" \n\nSlides: https://t.co/eNcn3oVbRm\nVideo: https://t.co/2HBE393OHL\n\nIt introduces geocomp with R and highlights some important reproducibility methods and tools. Exercises included.\n\n#rstats #rspatial @opengeohub https://t.co/a3S3NNVNxo"
 
   [tweets.entities]
@@ -70,7 +70,7 @@
 
 [[tweets]]
   created_at = 2022-10-29T07:12:18Z
-  favorite_count = 190
+  favorite_count = 193
   id = 1586254583734702080
   retweet_count = 42
   text = "RT @giswqs: The ESA global land cover product (10-m) for 2021 has been release. Now we have both 2020 and 2021 ESA global land cover products. \n\nhttps://t.co/3bjhFrNGN7\n\n#openaccess #EarthObservation #geospatial https://t.co/c3H7WoO86P"
@@ -907,9 +907,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1077
+  favorite_count = 1081
   id = 1576838607498878976
-  retweet_count = 386
+  retweet_count = 390
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -1741,10 +1741,6 @@
     [[tweets.entities.user_mentions]]
       user = "GregDuveiller"
       user_id = 940688020805685249
-
-    [[tweets.entities.user_mentions]]
-      user = "miguelmahechag1"
-      user_id = 2919801897
 
   [tweets.retweet]
     status_id = 1569716082591629312
@@ -4992,7 +4988,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22854
+  favorite_count = 22851
   id = 1546126992168439808
   retweet_count = 4903
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -10464,7 +10460,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3552
+  favorite_count = 3549
   id = 1490054004671496198
   retweet_count = 595
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -26510,7 +26506,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48857
+  favorite_count = 48849
   id = 1359904039379603457
   retweet_count = 3861
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
@@ -34747,7 +34743,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1872
+  favorite_count = 1875
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -38791,7 +38787,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 617
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 136
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -49503,7 +49499,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2953
+  favorite_count = 2949
   id = 1165010087171280896
   retweet_count = 763
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -57525,7 +57521,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 464
+  favorite_count = 460
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59070,7 +59066,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5601
+  favorite_count = 5593
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62040,7 +62036,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2792
+  favorite_count = 2787
   id = 1039472133481615360
   retweet_count = 1050
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -68857,7 +68853,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 316
+  favorite_count = 312
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
