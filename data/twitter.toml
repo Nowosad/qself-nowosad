@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-10-31T15:38:12Z
-  favorite_count = 387
+  favorite_count = 415
   id = 1587106672383762434
-  retweet_count = 77
+  retweet_count = 83
   text = "\"Geocomputation with R’s guide to reproducible spatial data analysis\" \n\nSlides: https://t.co/eNcn3oVbRm\nVideo: https://t.co/2HBE393OHL\n\nIt introduces geocomp with R and highlights some important reproducibility methods and tools. Exercises included.\n\n#rstats #rspatial @opengeohub https://t.co/a3S3NNVNxo"
 
   [tweets.entities]
@@ -907,9 +907,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1092
+  favorite_count = 1117
   id = 1576838607498878976
-  retweet_count = 393
+  retweet_count = 403
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -10460,7 +10460,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3549
+  favorite_count = 3546
   id = 1490054004671496198
   retweet_count = 595
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -26506,7 +26506,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48844
+  favorite_count = 48848
   id = 1359904039379603457
   retweet_count = 3861
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
@@ -31747,7 +31747,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 823
+  favorite_count = 826
   id = 1322224591750766594
   retweet_count = 315
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -31810,7 +31810,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2212
+  favorite_count = 2216
   id = 1319740736372355072
   retweet_count = 807
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -34743,7 +34743,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1875
+  favorite_count = 1878
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -38787,7 +38787,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 617
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 136
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -57521,7 +57521,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 464
+  favorite_count = 460
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59066,7 +59066,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5601
+  favorite_count = 5593
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62036,7 +62036,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2792
+  favorite_count = 2786
   id = 1039472133481615360
   retweet_count = 1050
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66137,7 +66137,7 @@
 
 [[tweets]]
   created_at = 2018-03-31T15:12:13Z
-  favorite_count = 325
+  favorite_count = 322
   id = 980100457271103488
   retweet_count = 79
   text = "RT @jcheng: We're getting close to releasing a new version of the Leaflet R package. Tons of changes under the hood, so PLEASE test your scripts, docs, apps, & packages with the new version! devtools::install_github(\"rstudio/leaflet\") #rstats #rspatial"
@@ -68853,7 +68853,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 316
+  favorite_count = 312
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
