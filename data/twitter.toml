@@ -35,9 +35,9 @@
 
 [[tweets]]
   created_at = 2022-11-01T19:50:17Z
-  favorite_count = 484
+  favorite_count = 509
   id = 1587532501563707392
-  retweet_count = 70
+  retweet_count = 77
   text = "RT @tylermorganwall: 👇Using the {lidR} package to both create a DEM as well as extract tree canopies, and then plotting the data (using the new `render_tree()` function) in 3D with #rayshader + #rayrender: the reason #RStats is so awesome is you have tools to do everything! https://t.co/h7WIe01ozG"
 
   [tweets.entities]
@@ -58,7 +58,7 @@
 
 [[tweets]]
   created_at = 2022-11-01T19:45:16Z
-  favorite_count = 56
+  favorite_count = 59
   id = 1587531239149420556
   retweet_count = 37
   text = "RT @_R_Foundation: The R Foundation Conference Committee invites proposals to organize a hybrid useR! conference in 2023 or 2024.\n\nThe call is open to teams worldwide, the deadline for outline proposals is Wednesday 30 November 2022. #RStats \n@_useRconf \n\nhttps://t.co/AtJHOW8BjY"
@@ -991,9 +991,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1202
+  favorite_count = 1209
   id = 1576838607498878976
-  retweet_count = 436
+  retweet_count = 438
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -3587,10 +3587,6 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -14718,7 +14714,7 @@
   favorite_count = 57
   id = 1454758536890748928
   retweet_count = 10
-  text = "RT @rstudio: R Views - Top 40 New CRAN Packages - September 2021\nIncluding packages in Art, Computational Methods, Econometrics, Finance and Insurance, Genomics, ML, Medicine, Networks and Graphs, Time Series, Utilities, and Visualization.\nhttps://t.co/p3eqSJBnao\n#rstats https://t.co/DYK9T2zZFU"
+  text = "RT @posit_pbc: R Views - Top 40 New CRAN Packages - September 2021\nIncluding packages in Art, Computational Methods, Econometrics, Finance and Insurance, Genomics, ML, Medicine, Networks and Graphs, Time Series, Utilities, and Visualization.\nhttps://t.co/p3eqSJBnao\n#rstats https://t.co/DYK9T2zZFU"
 
   [tweets.entities]
 
@@ -14732,13 +14728,9 @@
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
   [tweets.retweet]
     status_id = 1453789661114081283
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -33813,7 +33805,7 @@
   favorite_count = 95
   id = 1305904548968648704
   retweet_count = 30
-  text = "RT @rstudio: Announcing the RStudio Table Contest\nOne thing we love about the #RStats community is how open & generous it is. We hope this contest encourages more sharing, & helps to recognize the many outstanding ways people work with and display data in R.\nhttps://t.co/xNeK88ZkzP"
+  text = "RT @posit_pbc: Announcing the RStudio Table Contest\nOne thing we love about the #RStats community is how open & generous it is. We hope this contest encourages more sharing, & helps to recognize the many outstanding ways people work with and display data in R.\nhttps://t.co/xNeK88ZkzP"
 
   [tweets.entities]
 
@@ -33828,7 +33820,7 @@
 
   [tweets.retweet]
     status_id = 1305877788155674626
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -34827,7 +34819,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1871
+  favorite_count = 1874
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -38871,7 +38863,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 617
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 136
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -46509,7 +46501,7 @@
   favorite_count = 81
   id = 1189640530424152064
   retweet_count = 23
-  text = "RT @rstudio: Sept 2019: \"Top 40\" New R Packages from RViews\nhttps://t.co/Lpiu2M9xrN"
+  text = "RT @posit_pbc: Sept 2019: \"Top 40\" New R Packages from RViews\nhttps://t.co/Lpiu2M9xrN"
 
   [tweets.entities]
 
@@ -46524,7 +46516,7 @@
 
   [tweets.retweet]
     status_id = 1189532656385560581
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -49583,7 +49575,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2953
+  favorite_count = 2950
   id = 1165010087171280896
   retweet_count = 763
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -52607,7 +52599,7 @@
   favorite_count = 28
   id = 1148898358767099905
   retweet_count = 11
-  text = "RT @rstudio: Follow @UseR2019_Conf keynote live streaming via R Consortium's YouTube,\nhttps://t.co/r51vXFqMEj\n\n#rstats #user2019 https://t.co/3Oi8nscpFA"
+  text = "RT @posit_pbc: Follow @UseR2019_Conf keynote live streaming via R Consortium's YouTube,\nhttps://t.co/r51vXFqMEj\n\n#rstats #user2019 https://t.co/3Oi8nscpFA"
 
   [tweets.entities]
 
@@ -52631,7 +52623,7 @@
 
   [tweets.retweet]
     status_id = 1148855124535709701
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -57605,7 +57597,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 464
+  favorite_count = 460
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -58279,7 +58271,7 @@
   favorite_count = 15
   id = 1092036439200727041
   retweet_count = 7
-  text = "RT @rstudio: Here's the latest post from RViews \"December 2108: “Top 40” New CRAN Packages\" https://t.co/zJrggYoUyw"
+  text = "RT @posit_pbc: Here's the latest post from RViews \"December 2108: “Top 40” New CRAN Packages\" https://t.co/zJrggYoUyw"
 
   [tweets.entities]
 
@@ -58288,13 +58280,9 @@
       expanded_url = "http://zpr.io/gGqVc"
       url = "https://t.co/zJrggYoUyw"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
   [tweets.retweet]
     status_id = 1090713834761961481
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -59150,7 +59138,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5601
+  favorite_count = 5591
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -61425,7 +61413,7 @@
   favorite_count = 110
   id = 1052205542897270784
   retweet_count = 30
-  text = "RT @rstudio: Here are the winners from the first #Bookdown contest!\nhttps://t.co/VfnS7zyZ4e https://t.co/nhl9uCMKOU"
+  text = "RT @posit_pbc: Here are the winners from the first #Bookdown contest!\nhttps://t.co/VfnS7zyZ4e https://t.co/nhl9uCMKOU"
 
   [tweets.entities]
 
@@ -61445,7 +61433,7 @@
 
   [tweets.retweet]
     status_id = 1052202549422510083
-    user = "rstudio"
+    user = "posit_pbc"
     user_id = 235261861
 
 [[tweets]]
@@ -74687,10 +74675,6 @@
       user = "JanStanstrup"
       user_id = 1612630964
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
   [tweets.reply]
     status_id = 793124424211836928
     user = "hadleywickham"
@@ -74776,10 +74760,6 @@
     [[tweets.entities.user_mentions]]
       user = "JennyBryan"
       user_id = 2167059661
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -75090,10 +75070,6 @@
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
       user_id = 69133574
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
   [tweets.reply]
     status_id = 783391754850623488
@@ -75758,10 +75734,6 @@
       expanded_url = "https://www.rstudio.com/products/rstudio/download/preview/"
       url = "https://t.co/G1MayQP024"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
   id = 768930631510216704
@@ -75951,10 +75923,6 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -76753,10 +76721,6 @@
       expanded_url = "http://rstudio.github.io/rstudioaddins/"
       url = "https://t.co/OTKW7yEQDr"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
 [[tweets]]
   created_at = 2015-12-18T20:27:41Z
   id = 677948370225397764
@@ -77343,7 +77307,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2447
+  favorite_count = 2450
   id = 578278362667458560
   retweet_count = 4274
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
