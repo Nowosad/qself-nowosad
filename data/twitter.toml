@@ -1,5 +1,56 @@
 
 [[tweets]]
+  created_at = 2022-11-02T19:21:43Z
+  favorite_count = 47
+  id = 1587887700442599426
+  retweet_count = 16
+  text = "RT @shinysci: #30DayMapChallenge | Day 2 | #lines\n\nDay 2 was an opportunity to finally understand how to implement graticules in #ggplot2 with geom_sf that I can fully control.\n\n💻 Code: https://t.co/qz3kqaIEN4\n\n#rstats #rspatial #gischat #dataviz https://t.co/IgIwJJOEoq"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1587793771550457862
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fgj6BdHXwAYp_IY.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "gist.github.com/marcosci/ce0d7…"
+      expanded_url = "https://gist.github.com/marcosci/ce0d7739a11a77a930c7c2072d0c74ee"
+      url = "https://t.co/qz3kqaIEN4"
+
+    [[tweets.entities.user_mentions]]
+      user = "shinysci"
+      user_id = 1307060010669793280
+
+  [tweets.retweet]
+    status_id = 1587886007629774849
+    user = "shinysci"
+    user_id = 1307060010669793280
+
+[[tweets]]
+  created_at = 2022-11-02T18:44:26Z
+  favorite_count = 7
+  id = 1587878314257031170
+  retweet_count = 1
+  text = "RT @loreabad6: #sfnetworks ❤️ https://t.co/MbpNo1RiHr"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/npalomin/statu…"
+      expanded_url = "https://twitter.com/npalomin/status/1587750798209212416"
+      url = "https://t.co/MbpNo1RiHr"
+
+    [[tweets.entities.user_mentions]]
+      user = "loreabad6"
+      user_id = 233748559
+
+  [tweets.retweet]
+    status_id = 1587818022936403968
+    user = "loreabad6"
+    user_id = 233748559
+
+[[tweets]]
   created_at = 2022-11-02T11:07:49Z
   favorite_count = 1
   id = 1587763405837959169
@@ -35,9 +86,9 @@
 
 [[tweets]]
   created_at = 2022-11-01T19:50:17Z
-  favorite_count = 523
+  favorite_count = 544
   id = 1587532501563707392
-  retweet_count = 79
+  retweet_count = 82
   text = "RT @tylermorganwall: 👇Using the {lidR} package to both create a DEM as well as extract tree canopies, and then plotting the data (using the new `render_tree()` function) in 3D with #rayshader + #rayrender: the reason #RStats is so awesome is you have tools to do everything! https://t.co/h7WIe01ozG"
 
   [tweets.entities]
@@ -85,9 +136,9 @@
 
 [[tweets]]
   created_at = 2022-10-31T15:38:12Z
-  favorite_count = 453
+  favorite_count = 456
   id = 1587106672383762434
-  retweet_count = 94
+  retweet_count = 96
   text = "\"Geocomputation with R’s guide to reproducible spatial data analysis\" \n\nSlides: https://t.co/eNcn3oVbRm\nVideo: https://t.co/2HBE393OHL\n\nIt introduces geocomp with R and highlights some important reproducibility methods and tools. Exercises included.\n\n#rstats #rspatial @opengeohub https://t.co/a3S3NNVNxo"
 
   [tweets.entities]
@@ -991,9 +1042,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1216
+  favorite_count = 1222
   id = 1576838607498878976
-  retweet_count = 440
+  retweet_count = 441
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -14728,6 +14779,10 @@
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
+
   [tweets.retweet]
     status_id = 1453789661114081283
     user = "posit_pbc"
@@ -26582,7 +26637,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48808
+  favorite_count = 48798
   id = 1359904039379603457
   retweet_count = 3861
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
@@ -42204,7 +42259,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "fly_upside_down"
@@ -49575,7 +49630,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2953
+  favorite_count = 2950
   id = 1165010087171280896
   retweet_count = 763
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -62112,7 +62167,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2785
+  favorite_count = 2782
   id = 1039472133481615360
   retweet_count = 1050
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -68929,7 +68984,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 312
+  favorite_count = 316
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -74679,6 +74734,10 @@
       user = "JanStanstrup"
       user_id = 1612630964
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
+
   [tweets.reply]
     status_id = 793124424211836928
     user = "hadleywickham"
@@ -74764,6 +74823,10 @@
     [[tweets.entities.user_mentions]]
       user = "JennyBryan"
       user_id = 2167059661
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -75074,6 +75137,10 @@
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
       user_id = 69133574
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 783391754850623488
@@ -75582,7 +75649,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 778864755666747392
@@ -75737,6 +75804,10 @@
       display_url = "rstudio.com/products/rstud…"
       expanded_url = "https://www.rstudio.com/products/rstudio/download/preview/"
       url = "https://t.co/G1MayQP024"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -75907,7 +75978,7 @@
 
 [[tweets]]
   created_at = 2016-07-20T06:59:41Z
-  favorite_count = 40
+  favorite_count = 39
   id = 755658420599021570
   retweet_count = 10
   text = "RT @pssGuy: 1st stab at @RStudio #rstats book\nhttps://t.co/1X1q8y2R4b …\nInc embedded videos and shinyapps\nht @xieyihui https://t.co/ThyraeOzy8"
@@ -75927,6 +75998,10 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -76725,6 +76800,10 @@
       expanded_url = "http://rstudio.github.io/rstudioaddins/"
       url = "https://t.co/OTKW7yEQDr"
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
+
 [[tweets]]
   created_at = 2015-12-18T20:27:41Z
   id = 677948370225397764
@@ -77311,7 +77390,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2450
+  favorite_count = 2445
   id = 578278362667458560
   retweet_count = 4274
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
@@ -77638,7 +77717,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 558662912467013632
