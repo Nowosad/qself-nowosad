@@ -35,9 +35,9 @@
 
 [[tweets]]
   created_at = 2022-11-01T19:50:17Z
-  favorite_count = 509
+  favorite_count = 523
   id = 1587532501563707392
-  retweet_count = 77
+  retweet_count = 79
   text = "RT @tylermorganwall: 👇Using the {lidR} package to both create a DEM as well as extract tree canopies, and then plotting the data (using the new `render_tree()` function) in 3D with #rayshader + #rayrender: the reason #RStats is so awesome is you have tools to do everything! https://t.co/h7WIe01ozG"
 
   [tweets.entities]
@@ -991,9 +991,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1209
+  favorite_count = 1216
   id = 1576838607498878976
-  retweet_count = 438
+  retweet_count = 440
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -5068,7 +5068,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22839
+  favorite_count = 22836
   id = 1546126992168439808
   retweet_count = 4901
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -6258,7 +6258,7 @@
 
 [[tweets]]
   created_at = 2022-06-05T16:46:49Z
-  favorite_count = 2823
+  favorite_count = 2820
   id = 1533490538111959043
   retweet_count = 502
   text = "RT @BlakeRobMills: ✨✨ PACKAGE UPDATE ✨✨\nMetBrewer 0.2.0 is officially out 🥳 Available both on Cran and through my GitHub here: https://t.co/wYHMEKoJLH\n\nNew Palettes are out and some amazing new features. Full description of what has changed below :)\n\n#MetBrewer #rstats #r4ds #dataviz https://t.co/XU3q7h7ZJT"
@@ -18453,7 +18453,7 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2241
+  favorite_count = 2238
   id = 1427711108668874752
   retweet_count = 747
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
@@ -23969,7 +23969,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3010
+  favorite_count = 3013
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25607,7 +25607,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37719
+  favorite_count = 37725
   id = 1367166556501925891
   retweet_count = 2948
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -26582,7 +26582,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48799
+  favorite_count = 48808
   id = 1359904039379603457
   retweet_count = 3861
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
@@ -34819,7 +34819,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1874
+  favorite_count = 1871
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -49575,7 +49575,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2950
+  favorite_count = 2953
   id = 1165010087171280896
   retweet_count = 763
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -57597,7 +57597,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 460
+  favorite_count = 464
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -58279,6 +58279,10 @@
       display_url = "zpr.io/gGqVc"
       expanded_url = "http://zpr.io/gGqVc"
       url = "https://t.co/zJrggYoUyw"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1090713834761961481
@@ -59138,7 +59142,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5591
+  favorite_count = 5601
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -68925,7 +68929,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 316
+  favorite_count = 312
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
