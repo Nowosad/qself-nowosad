@@ -66,9 +66,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:53:18Z
-  favorite_count = 55
+  favorite_count = 83
   id = 1588076840656175104
-  retweet_count = 17
+  retweet_count = 23
   text = "RT @humus_rocks: I've been a bit daunted by putting any of my {reticulate}-based packages on CRAN... But I am now happy to share that {rgeedim} 📦was published today!\n\nPlease try to break it and post any issues here: https://t.co/gi0ChqQ3hn\n\n#Rstats #Rspatial #python #EarthEngine https://t.co/CoPae17bIw"
 
   [tweets.entities]
@@ -131,7 +131,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:43Z
-  favorite_count = 415
+  favorite_count = 429
   id = 1588076691783651328
   retweet_count = 43
   text = "RT @samiasab90: #30daymapchallenge\nDay 2: Lines\na map of all the bike paths in #Netherlands\nmade using #RStats \n#DataViz #DataVisualization #GIS #maps #openstreetmap https://t.co/VpTXPCw8qc"
@@ -154,9 +154,9 @@
 
 [[tweets]]
   created_at = 2022-11-02T19:21:43Z
-  favorite_count = 119
+  favorite_count = 127
   id = 1587887700442599426
-  retweet_count = 23
+  retweet_count = 27
   text = "RT @shinysci: #30DayMapChallenge | Day 2 | #lines\n\nDay 2 was an opportunity to finally understand how to implement graticules in #ggplot2 with geom_sf that I can fully control.\n\n💻 Code: https://t.co/qz3kqaIEN4\n\n#rstats #rspatial #gischat #dataviz https://t.co/IgIwJJOEoq"
 
   [tweets.entities]
@@ -239,9 +239,9 @@
 
 [[tweets]]
   created_at = 2022-11-01T19:50:17Z
-  favorite_count = 566
+  favorite_count = 571
   id = 1587532501563707392
-  retweet_count = 86
+  retweet_count = 88
   text = "RT @tylermorganwall: 👇Using the {lidR} package to both create a DEM as well as extract tree canopies, and then plotting the data (using the new `render_tree()` function) in 3D with #rayshader + #rayrender: the reason #RStats is so awesome is you have tools to do everything! https://t.co/h7WIe01ozG"
 
   [tweets.entities]
@@ -1195,9 +1195,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1243
+  favorite_count = 1248
   id = 1576838607498878976
-  retweet_count = 449
+  retweet_count = 451
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -3791,10 +3791,6 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -10571,7 +10567,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "ellamkaye"
@@ -14935,6 +14931,10 @@
       display_url = "rviews.rstudio.com/2021/10/28/sep…"
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1453789661114081283
@@ -24177,7 +24177,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3010
+  favorite_count = 3013
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25815,7 +25815,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37714
+  favorite_count = 37709
   id = 1367166556501925891
   retweet_count = 2948
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -48864,7 +48864,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1169179511633666048
@@ -52823,7 +52823,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -53114,7 +53114,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -62690,7 +62690,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -71850,7 +71850,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74889,7 +74889,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 793124424211836928
@@ -74976,6 +74976,10 @@
     [[tweets.entities.user_mentions]]
       user = "JennyBryan"
       user_id = 2167059661
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -75287,6 +75291,10 @@
       user = "hadleywickham"
       user_id = 69133574
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
+
   [tweets.reply]
     status_id = 783391754850623488
     user = "ericJpedersen"
@@ -75410,7 +75418,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 783386139231031296
@@ -75794,7 +75802,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 778864755666747392
@@ -75949,6 +75957,10 @@
       display_url = "rstudio.com/products/rstud…"
       expanded_url = "https://www.rstudio.com/products/rstudio/download/preview/"
       url = "https://t.co/G1MayQP024"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76139,6 +76151,10 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -76936,6 +76952,10 @@
       display_url = "rstudio.github.io/rstudioaddins/"
       expanded_url = "http://rstudio.github.io/rstudioaddins/"
       url = "https://t.co/OTKW7yEQDr"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2015-12-18T20:27:41Z
@@ -77850,7 +77870,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 558662912467013632
