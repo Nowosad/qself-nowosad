@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T16:46:21Z
-  favorite_count = 141
+  favorite_count = 162
   id = 1588210985629847554
-  retweet_count = 34
+  retweet_count = 39
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nUpdated Bridges to GIS software chapter:\n\n- {qgisprocess} @paleolimbot \n- {Rsagacmd} @StevenPawley\n- {rgrass} @RogerBivand \n- {rstac}\n- {gdalcubes} @appelmar \n- ...\n\nRead it at https://t.co/K3yScDrpA5.\n\n#rstats #rspatial #geocompr https://t.co/bACWnxgBi1"
 
   [tweets.entities]
@@ -116,7 +116,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:53:18Z
-  favorite_count = 147
+  favorite_count = 153
   id = 1588076840656175104
   retweet_count = 34
   text = "RT @humus_rocks: I've been a bit daunted by putting any of my {reticulate}-based packages on CRAN... But I am now happy to share that {rgeedim} 📦was published today!\n\nPlease try to break it and post any issues here: https://t.co/gi0ChqQ3hn\n\n#Rstats #Rspatial #python #EarthEngine https://t.co/CoPae17bIw"
@@ -154,7 +154,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:48Z
-  favorite_count = 11
+  favorite_count = 14
   id = 1588076713686274048
   retweet_count = 3
   text = "RT @samiasab90: @TimVosskaemper thank you! for r, I'd recommend the r4ds book and for GIS with R, https://t.co/I2T94hA88f. ultimately, think much of my learning comes from lots and lots of stackoverflow searches after coming up with a project idea lol"
@@ -1245,9 +1245,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1261
+  favorite_count = 1265
   id = 1576838607498878976
-  retweet_count = 454
+  retweet_count = 455
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -10621,7 +10621,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "ellamkaye"
@@ -14985,10 +14985,6 @@
       display_url = "rviews.rstudio.com/2021/10/28/sep…"
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1453789661114081283
@@ -24967,7 +24963,7 @@
 
 [[tweets]]
   created_at = 2021-03-23T19:38:44Z
-  favorite_count = 1516
+  favorite_count = 1513
   id = 1374445529703145475
   retweet_count = 445
   text = "RT @dr_xeo: I couldn't resist making a detailed European animation of the idea from @ZLabe. The average temperature of 24 hours in August 2020. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/cZcGLcZU9b"
@@ -25869,7 +25865,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37699
+  favorite_count = 37692
   id = 1367166556501925891
   retweet_count = 2948
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -26844,7 +26840,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T16:36:03Z
-  favorite_count = 48755
+  favorite_count = 48751
   id = 1359904039379603457
   retweet_count = 3860
   text = "RT @KarynAmira: Email your professors with your life updates after you graduate. We LOVE. IT."
@@ -35081,7 +35077,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1877
+  favorite_count = 1872
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36685,7 +36681,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 316
+  favorite_count = 313
   id = 1284853446164832256
   retweet_count = 68
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -39125,7 +39121,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 614
+  favorite_count = 617
   id = 1258796175077015552
   retweet_count = 136
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -42466,7 +42462,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "fly_upside_down"
@@ -42993,7 +42989,7 @@
 
 [[tweets]]
   created_at = 2020-02-04T16:36:42Z
-  favorite_count = 1019
+  favorite_count = 1021
   id = 1224733530615373825
   retweet_count = 318
   text = "RT @zevross: I had the privilege of teaching a two-day workshop, Modern Geospatial Data Analysis with R, at the @rstudio conference with an amazing group of TAs and participants. I've made the slides available here: https://t.co/rSzPTt6VBk, #rstats, #rspatial, #gischat https://t.co/3v7UVd0UT5"
@@ -43016,7 +43012,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1224686455274070017
@@ -43025,7 +43021,7 @@
 
 [[tweets]]
   created_at = 2020-01-31T02:44:07Z
-  favorite_count = 57
+  favorite_count = 56
   id = 1223074449584533505
   retweet_count = 15
   text = "RT @TinaACormier: So humbled to present at #rstudioconf2020 on #rspatial. My presentation, code, and data are available here: https://t.co/SrsJBnOAmc. Thanks to the @rstudio community for being so welcoming and generous with your time and knowledge! #rstats #RLadies https://t.co/PK57ruMHic"
@@ -43048,7 +43044,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1223019216502059008
@@ -46188,7 +46184,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1194990222007840768
@@ -46774,7 +46770,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1189532656385560581
@@ -61695,7 +61691,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1052202549422510083
@@ -62238,7 +62234,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1046390226212585472
@@ -62374,7 +62370,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2781
+  favorite_count = 2786
   id = 1039472133481615360
   retweet_count = 1050
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62744,7 +62740,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -75345,10 +75341,6 @@
       user = "hadleywickham"
       user_id = 69133574
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.reply]
     status_id = 783391754850623488
     user = "ericJpedersen"
@@ -75472,7 +75464,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 783386139231031296
@@ -75856,7 +75848,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 778864755666747392
@@ -76014,7 +76006,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76185,7 +76177,7 @@
 
 [[tweets]]
   created_at = 2016-07-20T06:59:41Z
-  favorite_count = 39
+  favorite_count = 40
   id = 755658420599021570
   retweet_count = 10
   text = "RT @pssGuy: 1st stab at @RStudio #rstats book\nhttps://t.co/1X1q8y2R4b …\nInc embedded videos and shinyapps\nht @xieyihui https://t.co/ThyraeOzy8"
@@ -76205,10 +76197,6 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -76621,7 +76609,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-03-29T12:17:11Z
@@ -77009,7 +76997,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2015-12-18T20:27:41Z
@@ -77719,7 +77707,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2015-02-06T19:06:24Z
