@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T16:46:21Z
-  favorite_count = 177
+  favorite_count = 191
   id = 1588210985629847554
-  retweet_count = 45
+  retweet_count = 47
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nUpdated Bridges to GIS software chapter:\n\n- {qgisprocess} @paleolimbot \n- {Rsagacmd} @StevenPawley\n- {rgrass} @RogerBivand \n- {rstac}\n- {gdalcubes} @appelmar \n- ...\n\nRead it at https://t.co/K3yScDrpA5.\n\n#rstats #rspatial #geocompr https://t.co/bACWnxgBi1"
 
   [tweets.entities]
@@ -116,9 +116,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:53:18Z
-  favorite_count = 160
+  favorite_count = 164
   id = 1588076840656175104
-  retweet_count = 39
+  retweet_count = 40
   text = "RT @humus_rocks: I've been a bit daunted by putting any of my {reticulate}-based packages on CRAN... But I am now happy to share that {rgeedim} 📦was published today!\n\nPlease try to break it and post any issues here: https://t.co/gi0ChqQ3hn\n\n#Rstats #Rspatial #python #EarthEngine https://t.co/CoPae17bIw"
 
   [tweets.entities]
@@ -181,7 +181,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:43Z
-  favorite_count = 452
+  favorite_count = 455
   id = 1588076691783651328
   retweet_count = 45
   text = "RT @samiasab90: #30daymapchallenge\nDay 2: Lines\na map of all the bike paths in #Netherlands\nmade using #RStats \n#DataViz #DataVisualization #GIS #maps #openstreetmap https://t.co/VpTXPCw8qc"
@@ -1245,9 +1245,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1265
+  favorite_count = 1268
   id = 1576838607498878976
-  retweet_count = 455
+  retweet_count = 459
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -3731,7 +3731,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1561636628325597185
@@ -3841,10 +3841,6 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -18150,9 +18146,9 @@
 
 [[tweets]]
   created_at = 2021-08-30T15:16:14Z
-  favorite_count = 1158
+  favorite_count = 1155
   id = 1432361526468427785
-  retweet_count = 322
+  retweet_count = 321
   text = "RT @kyle_e_walker: The pre-print version of my book \"Analyzing US Census Data: Methods, Maps, and Models in #rstats\" is now available to read for free online: https://t.co/48fG6HhhXE.  Read on in this thread for an overview of the book's content! https://t.co/US4nt1PBtB"
 
   [tweets.entities]
@@ -34078,7 +34074,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1305877788155674626
@@ -35081,7 +35077,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1875
+  favorite_count = 1872
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -61695,7 +61691,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1052202549422510083
@@ -62374,7 +62370,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2780
+  favorite_count = 2784
   id = 1039472133481615360
   retweet_count = 1050
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62744,7 +62740,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -71904,7 +71900,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -71965,7 +71961,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74156,7 +74152,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -74943,7 +74939,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 793124424211836928
@@ -75345,10 +75341,6 @@
       user = "hadleywickham"
       user_id = 69133574
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 235261861
-
   [tweets.reply]
     status_id = 783391754850623488
     user = "ericJpedersen"
@@ -75472,7 +75464,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 783386139231031296
@@ -75856,7 +75848,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 778864755666747392
@@ -76014,7 +76006,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76205,10 +76197,6 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -77719,7 +77707,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2015-02-06T19:06:24Z
@@ -77924,7 +77912,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 558662912467013632
