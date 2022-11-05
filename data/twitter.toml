@@ -3731,7 +3731,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1561636628325597185
@@ -3841,6 +3841,10 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -5322,7 +5326,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22808
+  favorite_count = 22805
   id = 1546126992168439808
   retweet_count = 4898
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -14981,6 +14985,10 @@
       display_url = "rviews.rstudio.com/2021/10/28/sep…"
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1453789661114081283
@@ -25861,9 +25869,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37674
+  favorite_count = 37669
   id = 1367166556501925891
-  retweet_count = 2947
+  retweet_count = 2946
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -32379,7 +32387,7 @@
 
 [[tweets]]
   created_at = 2020-10-19T14:19:16Z
-  favorite_count = 390
+  favorite_count = 387
   id = 1318195012346220544
   retweet_count = 107
   text = "Did you know that the tmap package has its own website?\n\nIt contains examples for each tmap function and a few articles.\n\nVisit it at https://t.co/ZaMUkjxy7j\n\n#tmap #rstats #rspatial https://t.co/wsqdcsmRnc"
@@ -34560,7 +34568,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1996
+  favorite_count = 1992
   id = 1302134558649995264
   retweet_count = 544
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35073,7 +35081,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1878
+  favorite_count = 1872
   id = 1299086851484061699
   retweet_count = 684
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36677,7 +36685,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 316
+  favorite_count = 313
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -48910,7 +48918,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1169179511633666048
@@ -52869,7 +52877,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -67225,7 +67233,7 @@
 
 [[tweets]]
   created_at = 2018-03-03T13:53:15Z
-  favorite_count = 1179
+  favorite_count = 1182
   id = 969933726825287685
   retweet_count = 423
   text = "RT @Emil_Hvitfeldt: Hey #stats community! I have spend some time organizing the various color palettes in R in one place https://t.co/cpNYEOeTF3 🌈  I hope you can use it and if I missed some please let me know!  #tidyverse https://t.co/xOC2na6MYr"
@@ -69183,7 +69191,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -71896,7 +71904,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -71924,7 +71932,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -71957,7 +71965,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74148,7 +74156,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -74935,7 +74943,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 793124424211836928
@@ -75337,6 +75345,10 @@
       user = "hadleywickham"
       user_id = 69133574
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 235261861
+
   [tweets.reply]
     status_id = 783391754850623488
     user = "ericJpedersen"
@@ -75460,7 +75472,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 783386139231031296
@@ -75844,7 +75856,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 778864755666747392
@@ -76002,7 +76014,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76193,6 +76205,10 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -77703,7 +77719,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2015-02-06T19:06:24Z
@@ -77908,7 +77924,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 558662912467013632
