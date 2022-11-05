@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T16:46:21Z
-  favorite_count = 200
+  favorite_count = 203
   id = 1588210985629847554
-  retweet_count = 49
+  retweet_count = 50
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nUpdated Bridges to GIS software chapter:\n\n- {qgisprocess} @paleolimbot \n- {Rsagacmd} @StevenPawley\n- {rgrass} @RogerBivand \n- {rstac}\n- {gdalcubes} @appelmar \n- ...\n\nRead it at https://t.co/K3yScDrpA5.\n\n#rstats #rspatial #geocompr https://t.co/bACWnxgBi1"
 
   [tweets.entities]
