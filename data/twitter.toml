@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 5188
+  favorite_count = 5467
   id = 1589374569260933120
-  retweet_count = 795
+  retweet_count = 838
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -74,9 +74,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1780
+  favorite_count = 1784
   id = 1589187266991501313
-  retweet_count = 297
+  retweet_count = 298
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -23915,7 +23915,7 @@
 
 [[tweets]]
   created_at = 2021-05-01T15:57:40Z
-  favorite_count = 281
+  favorite_count = 278
   id = 1388523022991171586
   retweet_count = 87
   text = "RT @udemsar: I just had to have a go for GIScience... 😄 With contribution from @mfbenitez https://t.co/8XQgN9ACK6 https://t.co/RZG5wAwKSt"
@@ -24327,7 +24327,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3007
+  favorite_count = 3004
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25965,7 +25965,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37605
+  favorite_count = 37608
   id = 1367166556501925891
   retweet_count = 2946
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -34664,7 +34664,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1993
+  favorite_count = 1990
   id = 1302134558649995264
   retweet_count = 544
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -34737,7 +34737,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 252
+  favorite_count = 249
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -35177,7 +35177,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1875
+  favorite_count = 1872
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37625,7 +37625,7 @@
 
 [[tweets]]
   created_at = 2020-06-25T08:58:31Z
-  favorite_count = 754
+  favorite_count = 751
   id = 1276077302137475072
   retweet_count = 158
   text = "RT @ClausWilke: Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1"
@@ -43089,7 +43089,7 @@
 
 [[tweets]]
   created_at = 2020-02-04T16:36:42Z
-  favorite_count = 1017
+  favorite_count = 1018
   id = 1224733530615373825
   retweet_count = 317
   text = "RT @zevross: I had the privilege of teaching a two-day workshop, Modern Geospatial Data Analysis with R, at the @rstudio conference with an amazing group of TAs and participants. I've made the slides available here: https://t.co/rSzPTt6VBk, #rstats, #rspatial, #gischat https://t.co/3v7UVd0UT5"
@@ -43112,7 +43112,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1224686455274070017
@@ -49014,7 +49014,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1169179511633666048
@@ -49983,7 +49983,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T14:08:58Z
-  favorite_count = 36
+  favorite_count = 35
   id = 1164902353008582656
   retweet_count = 10
   text = "RT @robinlovelace: Preparing to teach workshop on open source and reproducible geographic research at @RGS_IBG next week. Tested @mybinderteam running @rstudio Server and, thanks2 @_inundata, it works perfectly 🚀 \n\nTry it here: https://t.co/LawxHsrCtZ \n\n#rstats #geocompr https://t.co/3SJbY7jPIQ"
@@ -50014,7 +50014,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "_inundata"
@@ -52973,7 +52973,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -57955,7 +57955,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 455
+  favorite_count = 459
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59500,7 +59500,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5574
+  favorite_count = 5584
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62470,7 +62470,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2769
+  favorite_count = 2775
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -72000,7 +72000,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74252,7 +74252,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
