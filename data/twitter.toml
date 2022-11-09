@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6344
+  favorite_count = 6401
   id = 1589374569260933120
-  retweet_count = 1010
+  retweet_count = 1019
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -32271,7 +32271,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2205
+  favorite_count = 2200
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35204,7 +35204,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1878
+  favorite_count = 1875
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -43872,9 +43872,9 @@
 
 [[tweets]]
   created_at = 2020-01-19T15:12:02Z
-  favorite_count = 319
+  favorite_count = 316
   id = 1218914015658889218
-  retweet_count = 112
+  retweet_count = 111
   text = "A new report about the waterquality R package is published. It describes methods for the detection and quantification of water quality proxies via remote sensing data and shows a case study of the package use. Read it at https://t.co/evbyKJFaGF #rstats #rspatial #remotesensing https://t.co/lmSA1i1rv3"
 
   [tweets.entities]
@@ -45268,7 +45268,7 @@
 
 [[tweets]]
   created_at = 2019-12-08T13:30:38Z
-  favorite_count = 302
+  favorite_count = 299
   id = 1203668208022151169
   retweet_count = 89
   text = "Inset maps enable multiple places to be shown in the same geographic data visualization. They can be easily created in #rstats using the #ggplot2 package. You can read how to make them in a blog post at https://t.co/3fdQqeEadk. #geocompr #viz #rspatial https://t.co/c2dn7tskya"
@@ -49041,7 +49041,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.retweet]
     status_id = 1169179511633666048
@@ -50010,7 +50010,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T14:08:58Z
-  favorite_count = 35
+  favorite_count = 36
   id = 1164902353008582656
   retweet_count = 10
   text = "RT @robinlovelace: Preparing to teach workshop on open source and reproducible geographic research at @RGS_IBG next week. Tested @mybinderteam running @rstudio Server and, thanks2 @_inundata, it works perfectly 🚀 \n\nTry it here: https://t.co/LawxHsrCtZ \n\n#rstats #geocompr https://t.co/3SJbY7jPIQ"
@@ -50041,7 +50041,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "_inundata"
@@ -53000,7 +53000,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -62867,7 +62867,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -76137,7 +76137,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76328,6 +76328,10 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
@@ -76808,7 +76812,7 @@
 
 [[tweets]]
   created_at = 2016-03-21T15:38:51Z
-  favorite_count = 133
+  favorite_count = 130
   id = 711940142768922624
   retweet_count = 51
   text = "RT @drob: Introducing the fuzzyjoin package: merge dataframes based on fuzzy matching of columns, e.g. string distance https://t.co/rQrCrpstZV #rstats"
@@ -78241,7 +78245,7 @@
   created_at = 2014-11-27T14:15:46Z
   favorite_count = 97
   id = 537973055000444928
-  retweet_count = 216
+  retweet_count = 213
   text = "RT @odroku: I laughed. RT @WyoWeeds: @ramez Is truncating the y-axis dishonest? http://t.co/orNh2YqkYc"
 
   [tweets.entities]
