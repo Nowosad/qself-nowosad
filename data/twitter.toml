@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6512
+  favorite_count = 6521
   id = 1589374569260933120
-  retweet_count = 1046
+  retweet_count = 1047
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -101,9 +101,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1804
+  favorite_count = 1816
   id = 1589187266991501313
-  retweet_count = 304
+  retweet_count = 311
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -15283,7 +15283,7 @@
 
 [[tweets]]
   created_at = 2021-10-17T14:57:32Z
-  favorite_count = 689
+  favorite_count = 685
   id = 1449751437689466894
   retweet_count = 178
   text = "RT @mapserving: Happy 23rd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/3IG45zVvJT"
@@ -20606,10 +20606,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
-
-    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -20643,7 +20639,7 @@
 
   [tweets.reply]
     status_id = 1412054993515995136
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -24354,7 +24350,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3004
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -24592,7 +24588,7 @@
 
 [[tweets]]
   created_at = 2021-04-05T04:56:02Z
-  favorite_count = 146
+  favorite_count = 143
   id = 1378934430581002243
   retweet_count = 34
   text = "RT @paleolimbot: Wrote up a post on how to use the #rstats geos 📦 and sf to analyze stream networks! Still double-checking the results, but it looks like I can extract a drainage network for 650 lakes from 250,000 river segments in <3 seconds! https://t.co/MPokzG5snj #rspatial https://t.co/V514uTs9xm"
@@ -25992,7 +25988,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37611
+  favorite_count = 37607
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -32271,7 +32267,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2200
+  favorite_count = 2203
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -34764,7 +34760,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 249
+  favorite_count = 252
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -35204,7 +35200,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1872
+  favorite_count = 1878
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -53000,7 +52996,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -57982,7 +57978,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 459
+  favorite_count = 455
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59527,7 +59523,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5584
+  favorite_count = 5575
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -60345,9 +60341,15 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
+
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "compostpraxis"
+    user = "coreypembleton"
     user_id = 2651047838
 
 [[tweets]]
@@ -62861,7 +62863,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -72021,7 +72023,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74273,7 +74275,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
