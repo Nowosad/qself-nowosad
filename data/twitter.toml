@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-08T16:36:56Z
-  favorite_count = 18
+  favorite_count = 21
   id = 1590020557902422017
   retweet_count = 4
   text = "RT @krzysztof_dyba: In the dev version of {stars} there is new function `st_res()`. Now you can get the raster spatial (and not only) resolution more easily! Thanks to @edzerpebesma!\n#rspatial https://t.co/ADBMt7sDF9"
@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6240
+  favorite_count = 6344
   id = 1589374569260933120
-  retweet_count = 998
+  retweet_count = 1010
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -101,9 +101,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1789
+  favorite_count = 1792
   id = 1589187266991501313
-  retweet_count = 302
+  retweet_count = 305
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -5449,9 +5449,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22774
+  favorite_count = 22769
   id = 1546126992168439808
-  retweet_count = 4893
+  retweet_count = 4890
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -6044,7 +6044,7 @@
 
 [[tweets]]
   created_at = 2022-06-24T20:14:36Z
-  favorite_count = 214
+  favorite_count = 211
   id = 1540428196117565440
   retweet_count = 54
   text = "RT @humus_rocks: 🚨 New blog post (first in ~2 years!)\n\nMusing on #Rstats {terra}📦for direct download of #GoogleEarthEngine images! Exploiting the REST API via GDAL \"EEDAI\" raster driver. No Python or JavaScript required--access GEE data with R+GDAL!\n#Rspatial #gischat \nhttps://t.co/wyINe6knX5 https://t.co/agq0BWSRQv"
@@ -10813,9 +10813,9 @@
 
 [[tweets]]
   created_at = 2022-02-12T18:16:49Z
-  favorite_count = 772
+  favorite_count = 769
   id = 1492563357693616132
-  retweet_count = 257
+  retweet_count = 256
   text = "RT @JacquelynGill: Roll-call for women in geoscience, climate change, paleontology/paleoecology, archaeology, and ecology! Introduce yourself in a comment, and feel free to drop a photo or links to your work. Let's connect and follow some new folks. #WomenInScience #WomeninScienceDay #WomenInSTEM"
 
   [tweets.entities]
@@ -32208,7 +32208,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 825
+  favorite_count = 821
   id = 1322224591750766594
   retweet_count = 315
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -50010,7 +50010,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T14:08:58Z
-  favorite_count = 36
+  favorite_count = 35
   id = 1164902353008582656
   retweet_count = 10
   text = "RT @robinlovelace: Preparing to teach workshop on open source and reproducible geographic research at @RGS_IBG next week. Tested @mybinderteam running @rstudio Server and, thanks2 @_inundata, it works perfectly 🚀 \n\nTry it here: https://t.co/LawxHsrCtZ \n\n#rstats #geocompr https://t.co/3SJbY7jPIQ"
@@ -50041,7 +50041,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "_inundata"
@@ -54062,7 +54062,7 @@
 
 [[tweets]]
   created_at = 2019-06-18T04:41:46Z
-  favorite_count = 173
+  favorite_count = 170
   id = 1140842013606256643
   retweet_count = 26
   text = "RT @D_O_Arantes: @thomasp85 So...plotting 10k points in ggplot2_3.1.1 took 81 seconds (used a rocker/geospatial + ggplot2).\n\nIn the new version the same 10k points in geom_sf (same exact ggplot layers and all) takes ~1.5 second...\n\nI would say it is a considerable performance improvement for geom_sf!\n:) https://t.co/fp3217AGRN"
@@ -57305,7 +57305,7 @@
 
 [[tweets]]
   created_at = 2019-03-10T14:50:05Z
-  favorite_count = 34
+  favorite_count = 31
   id = 1104756316638191616
   retweet_count = 8
   text = "The final version of your article 🌎🌍🌏Global assessment and mapping of changes in mesoscale landscapes: 1992–2015 is now available online at https://t.co/khTV4ewfIU  (📰50 days' free access url) https://t.co/ua8HP0F9BH"
@@ -57949,7 +57949,7 @@
 
 [[tweets]]
   created_at = 2019-02-22T22:33:00Z
-  favorite_count = 90
+  favorite_count = 87
   id = 1099074604583272448
   retweet_count = 39
   text = "RT @lbusetto74: Interested in working with #sentinel2 data in R? Have a look at v1.0 of the new #sen2r package! Amazing work by my colleague Luigi Ranghetti:\nhttps://t.co/7qWm8S1XXf https://t.co/WSAfV9D0vA \n#rstats #rspatial https://t.co/i2LP15t0w3"
@@ -62867,7 +62867,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -65541,9 +65541,9 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
-  retweet_count = 42
+  retweet_count = 41
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
 
   [tweets.entities]
@@ -69314,7 +69314,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72027,7 +72027,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -72055,7 +72055,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -76137,7 +76137,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76328,10 +76328,6 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
