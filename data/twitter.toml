@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6401
+  favorite_count = 6439
   id = 1589374569260933120
-  retweet_count = 1019
+  retweet_count = 1028
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -101,7 +101,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1792
+  favorite_count = 1798
   id = 1589187266991501313
   retweet_count = 305
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -5449,9 +5449,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22769
+  favorite_count = 22772
   id = 1546126992168439808
-  retweet_count = 4890
+  retweet_count = 4889
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -15109,10 +15109,6 @@
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1453789661114081283
     user = "posit_pbc"
@@ -21982,9 +21978,9 @@
 
 [[tweets]]
   created_at = 2021-06-10T05:42:06Z
-  favorite_count = 502
+  favorite_count = 499
   id = 1402863622951522305
-  retweet_count = 126
+  retweet_count = 125
   text = "RT @edzerpebesma: sf 1.0-0, a.k.a. \"Round Earth\", just landed on CRAN. When your coordinates are ellipsoidal (\"long-lat\"), it uses by default a spherical geometry engine instead of the formerly used 2-D flat Earth engine. 1/6 https://t.co/5RKiWjOYy1"
 
   [tweets.entities]
@@ -24354,7 +24350,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3004
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25992,9 +25988,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37613
+  favorite_count = 37609
   id = 1367166556501925891
-  retweet_count = 2946
+  retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -32208,7 +32204,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 821
+  favorite_count = 824
   id = 1322224591750766594
   retweet_count = 315
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -49041,7 +49037,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1169179511633666048
@@ -53000,7 +52996,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -57982,7 +57978,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 455
+  favorite_count = 459
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59527,7 +59523,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5574
+  favorite_count = 5584
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62497,7 +62493,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2770
+  favorite_count = 2775
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62867,7 +62863,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -72027,7 +72023,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -72055,7 +72051,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -76137,7 +76133,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -76328,10 +76324,6 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
-
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
