@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6530
+  favorite_count = 6533
   id = 1589374569260933120
-  retweet_count = 1046
+  retweet_count = 1047
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -60337,9 +60337,15 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
+
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "compostpraxis"
+    user = "coreypembleton"
     user_id = 2651047838
 
 [[tweets]]
@@ -62853,7 +62859,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -65527,7 +65533,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 41
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
