@@ -20634,6 +20634,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
+
+    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -20667,7 +20671,7 @@
 
   [tweets.reply]
     status_id = 1412054993515995136
-    user = "compostpraxis"
+    user = "coreypembleton"
     user_id = 2651047838
 
 [[tweets]]
@@ -26016,7 +26020,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37602
+  favorite_count = 37598
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -30740,7 +30744,7 @@
 
 [[tweets]]
   created_at = 2020-11-21T07:54:03Z
-  favorite_count = 215
+  favorite_count = 212
   id = 1330056869549891585
   retweet_count = 41
   text = "RT @katiejolly6: There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn"
@@ -35228,7 +35232,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1877
+  favorite_count = 1874
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -44497,7 +44501,7 @@
 
 [[tweets]]
   created_at = 2020-01-08T05:47:13Z
-  favorite_count = 738
+  favorite_count = 735
   id = 1214785607744053248
   retweet_count = 131
   text = "RT @TheStephLocke: Instead of referring to myself as self-taught, I'm gonna start referring to myself as community-taught. \n\nThe sites, the blogs, the books, the user groups, the confs, the forums ... all community efforts that I used to learn and advance my programming and data science knowledge."
@@ -51786,7 +51790,7 @@
 
 [[tweets]]
   created_at = 2019-07-19T07:07:47Z
-  favorite_count = 193
+  favorite_count = 190
   id = 1152112783468703745
   retweet_count = 33
   text = "RT @CivicAngela: Continuing my tradition of promoting spatial analysis in the R community, I'm excited to be teaming up with @zevross for the first-ever 🗺️ #rspatial tutorial 🗺️ at this year's #rstudioconf!\n\nMore info and register here: https://t.co/HOeHJIgir1"
@@ -58006,7 +58010,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 459
+  favorite_count = 455
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59551,7 +59555,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5585
+  favorite_count = 5573
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62521,7 +62525,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2776
+  favorite_count = 2771
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62891,7 +62895,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -67750,9 +67754,9 @@
 
 [[tweets]]
   created_at = 2018-02-10T16:06:01Z
-  favorite_count = 79
+  favorite_count = 80
   id = 962356993150287874
-  retweet_count = 80
+  retweet_count = 77
   text = "RT @rOpenSci: [blog] Want to participate in #runconf18? Only takes a few minutes to nominate yourself! Deadline Mar 8th, 2018 https://t.co/z2WEjJTseU #rstats https://t.co/JJG9A7c4SA"
 
   [tweets.entities]
@@ -72051,7 +72055,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74303,7 +74307,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76161,7 +76165,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
