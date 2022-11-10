@@ -28,7 +28,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6533
+  favorite_count = 6536
   id = 1589374569260933120
   retweet_count = 1047
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -3964,6 +3964,10 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -14671,7 +14675,7 @@
 
 [[tweets]]
   created_at = 2021-11-07T12:40:21Z
-  favorite_count = 143
+  favorite_count = 146
   id = 1457327059638923269
   retweet_count = 35
   text = "RT @dakvid: What's better than seeing awesome maps to inspire you? Seeing awesome maps with code so you can immediately reproduce and adapt! 😍\nFor my #30DayMapChallengeChallenge I present a gallery of #RStats / #RSpatial maps from #30DayMapChallenge with code: https://t.co/g4IkbsZa3Z https://t.co/9MMXeSrbnr"
@@ -15104,6 +15108,10 @@
       display_url = "rviews.rstudio.com/2021/10/28/sep…"
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1453789661114081283
@@ -18265,7 +18273,7 @@
 
 [[tweets]]
   created_at = 2021-08-30T15:16:14Z
-  favorite_count = 1151
+  favorite_count = 1148
   id = 1432361526468427785
   retweet_count = 320
   text = "RT @kyle_e_walker: The pre-print version of my book \"Analyzing US Census Data: Methods, Maps, and Models in #rstats\" is now available to read for free online: https://t.co/48fG6HhhXE.  Read on in this thread for an overview of the book's content! https://t.co/US4nt1PBtB"
@@ -24346,7 +24354,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3001
+  favorite_count = 3004
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25984,7 +25992,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37605
+  favorite_count = 37608
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -63015,7 +63023,7 @@
 
 [[tweets]]
   created_at = 2018-08-24T07:22:39Z
-  favorite_count = 463
+  favorite_count = 460
   id = 1032890917114523648
   retweet_count = 141
   text = "RT @mbrcalles: During my PhD I made the switch to do all spatial work in R and how I wish I had \"Geocomputation in R\" earlier. What a fantastic resource, I really can't recommend it enough https://t.co/V3PEsEcFqm @robinlovelace"
