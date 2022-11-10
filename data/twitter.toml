@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6521
+  favorite_count = 6526
   id = 1589374569260933120
-  retweet_count = 1047
+  retweet_count = 1045
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -101,9 +101,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1816
+  favorite_count = 1822
   id = 1589187266991501313
-  retweet_count = 311
+  retweet_count = 312
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -1368,9 +1368,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1294
+  favorite_count = 1297
   id = 1576838607498878976
-  retweet_count = 464
+  retweet_count = 466
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -25988,7 +25988,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37607
+  favorite_count = 37610
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -32267,7 +32267,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2203
+  favorite_count = 2199
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -34760,7 +34760,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 252
+  favorite_count = 249
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -35200,7 +35200,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1878
+  favorite_count = 1872
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -39142,7 +39142,7 @@
 
 [[tweets]]
   created_at = 2020-05-11T09:05:11Z
-  favorite_count = 250
+  favorite_count = 254
   id = 1259771523990159360
   retweet_count = 45
   text = "RT @robinlovelace: Ever wanted to calculate slopes of roads, rivers or 2D GPS traces using open source software? If so check-out the in-development slopes package! Analysis by @rosamfelix found it's results are comparable with proprietary software 🚀 Feedback welcome: https://t.co/kE6saY5klZ https://t.co/tLTiv3wkjY"
@@ -60341,15 +60341,9 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
-
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -62863,7 +62857,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -64613,10 +64607,10 @@
 
 [[tweets]]
   created_at = 2018-06-07T18:51:37Z
-  favorite_count = 50
+  favorite_count = 49
   id = 1004798046654394368
   retweet_count = 12
-  text = "RT @coreypembleton: I was first introduced to #Rstats via @robinlovelace 's geocompR. It showed me I need to learn A LOT more; which brought me to @hadleywickham 's https://t.co/AuTsqnhnLF; which in turn sent me back to Lovelace + @csgillespie w/ Efficient R Programming https://t.co/sYOY9IDaIY;"
+  text = "RT @compostpraxis: I was first introduced to #Rstats via @robinlovelace 's geocompR. It showed me I need to learn A LOT more; which brought me to @hadleywickham 's https://t.co/AuTsqnhnLF; which in turn sent me back to Lovelace + @csgillespie w/ Efficient R Programming https://t.co/sYOY9IDaIY;"
 
   [tweets.entities]
 
@@ -64648,7 +64642,7 @@
 
   [tweets.retweet]
     status_id = 1004722103055241216
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -69310,7 +69304,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -69559,7 +69553,7 @@
   favorite_count = 11
   id = 941315140028379136
   retweet_count = 6
-  text = "RT @coreypembleton: Shifting from GUI-based to command line-based GIS has been piecemeal to learn and a bit confusing...this book pulls it all together. Thanks \n@robinlovelace, @jakub_nowosad  and Jannes Muenchow (@?) For the great work\nhttps://t.co/P3XrPvRJrO"
+  text = "RT @compostpraxis: Shifting from GUI-based to command line-based GIS has been piecemeal to learn and a bit confusing...this book pulls it all together. Thanks \n@robinlovelace, @jakub_nowosad  and Jannes Muenchow (@?) For the great work\nhttps://t.co/P3XrPvRJrO"
 
   [tweets.entities]
 
@@ -69582,7 +69576,7 @@
 
   [tweets.retweet]
     status_id = 941289256605179905
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -76324,6 +76318,10 @@
     [[tweets.entities.user_mentions]]
       user = "pssGuy"
       user_id = 197097700
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "xieyihui"
