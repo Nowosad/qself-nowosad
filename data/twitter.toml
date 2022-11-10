@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6526
+  favorite_count = 6530
   id = 1589374569260933120
-  retweet_count = 1045
+  retweet_count = 1046
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -101,9 +101,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1822
+  favorite_count = 1826
   id = 1589187266991501313
-  retweet_count = 312
+  retweet_count = 313
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -3965,10 +3965,6 @@
       user = "seandebasti"
       user_id = 1696338426
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1561640409880838145
     user = "seandebasti"
@@ -5449,9 +5445,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22776
+  favorite_count = 22772
   id = 1546126992168439808
-  retweet_count = 4890
+  retweet_count = 4889
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -15109,10 +15105,6 @@
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1453789661114081283
     user = "posit_pbc"
@@ -20606,6 +20598,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
+
+    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -20639,7 +20635,7 @@
 
   [tweets.reply]
     status_id = 1412054993515995136
-    user = "compostpraxis"
+    user = "coreypembleton"
     user_id = 2651047838
 
 [[tweets]]
@@ -23608,7 +23604,7 @@
 
 [[tweets]]
   created_at = 2021-05-06T18:28:57Z
-  favorite_count = 273
+  favorite_count = 270
   id = 1390373033433571331
   retweet_count = 50
   text = "RT @TrisalynNelson: Dear Twitterverse... what are your favourite resources for a GIScience student wanting to make the leap to R?"
@@ -25988,7 +25984,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37610
+  favorite_count = 37605
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -52996,7 +52992,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -72017,7 +72013,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74269,7 +74265,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76127,7 +76123,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
