@@ -28,7 +28,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6536
+  favorite_count = 6539
   id = 1589374569260933120
   retweet_count = 1047
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -101,9 +101,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1826
+  favorite_count = 1831
   id = 1589187266991501313
-  retweet_count = 313
+  retweet_count = 314
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -24354,7 +24354,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3004
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25992,7 +25992,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37608
+  favorite_count = 37595
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -34764,7 +34764,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 249
+  favorite_count = 252
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -35204,7 +35204,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1872
+  favorite_count = 1877
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -53000,7 +53000,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "UseR2019_Conf"
@@ -57140,7 +57140,7 @@
 
 [[tweets]]
   created_at = 2019-03-18T14:51:19Z
-  favorite_count = 287
+  favorite_count = 284
   id = 1107655726426660864
   retweet_count = 116
   text = "RT @robinlovelace: Happy to announce that, after 2+ years in development + lots of hard work the 'School travel' layer is available in the Propensity to Cycle Tool 🚀\n\n- Web app: https://t.co/QmegBACx1l\n- Article introducing it: https://t.co/kF8jKDb6NJ\n- Academic paper: https://t.co/t8KE6BnEsG https://t.co/8keIUMBR6w"
@@ -57982,7 +57982,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 455
+  favorite_count = 459
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59527,7 +59527,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5575
+  favorite_count = 5585
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62497,7 +62497,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2770
+  favorite_count = 2776
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62867,7 +62867,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -65541,7 +65541,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 107
+  favorite_count = 110
   id = 987313634144608262
   retweet_count = 41
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -67356,7 +67356,7 @@
 
 [[tweets]]
   created_at = 2018-03-03T13:53:15Z
-  favorite_count = 1173
+  favorite_count = 1176
   id = 969933726825287685
   retweet_count = 421
   text = "RT @Emil_Hvitfeldt: Hey #stats community! I have spend some time organizing the various color palettes in R in one place https://t.co/cpNYEOeTF3 🌈  I hope you can use it and if I missed some please let me know!  #tidyverse https://t.co/xOC2na6MYr"
@@ -69314,7 +69314,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72027,7 +72027,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74279,7 +74279,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76137,7 +76137,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
