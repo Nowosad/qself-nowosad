@@ -3993,10 +3993,6 @@
       user = "seandebasti"
       user_id = 1696338426
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1561640409880838145
     user = "seandebasti"
@@ -5477,7 +5473,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22757
+  favorite_count = 22760
   id = 1546126992168439808
   retweet_count = 4885
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -20033,7 +20029,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2305
+  favorite_count = 2302
   id = 1415715731648524290
   retweet_count = 218
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -24378,7 +24374,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3001
+  favorite_count = 3004
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -49984,9 +49980,9 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2940
+  favorite_count = 2936
   id = 1165010087171280896
-  retweet_count = 761
+  retweet_count = 760
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
 
   [tweets.entities]
@@ -51444,10 +51440,6 @@
     [[tweets.entities.user_mentions]]
       user = "dgkeyes"
       user_id = 543981616
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
 
   [tweets.reply]
     status_id = 1153825464869277696
@@ -60369,9 +60361,15 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
+
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "compostpraxis"
+    user = "coreypembleton"
     user_id = 2651047838
 
 [[tweets]]
@@ -62515,7 +62513,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2772
+  favorite_count = 2767
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62885,7 +62883,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
