@@ -10949,7 +10949,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3524
+  favorite_count = 3521
   id = 1490054004671496198
   retweet_count = 595
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -20634,10 +20634,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
-
-    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -20671,7 +20667,7 @@
 
   [tweets.reply]
     status_id = 1412054993515995136
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -26020,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37591
+  favorite_count = 37575
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33036,7 +33032,7 @@
 
 [[tweets]]
   created_at = 2020-10-06T06:04:47Z
-  favorite_count = 82
+  favorite_count = 79
   id = 1313359528247914496
   retweet_count = 28
   text = "RT @kyle_e_walker: {mapboxapi}, my new package that helps you use @Mapbox services in your #rstats/#rspatial projects, is now available on CRAN!  To learn more, attend my free workshop this Friday hosted by @PennMUSA:  https://t.co/HRPVgWTn9m"
@@ -58193,9 +58189,9 @@
 
 [[tweets]]
   created_at = 2019-02-17T21:26:05Z
-  favorite_count = 153
+  favorite_count = 150
   id = 1097245828262043648
-  retweet_count = 54
+  retweet_count = 53
   text = "RT @underdarkGIS: \"#RQGIS makes it possible to use #QGIS as a geoprocessing workhorse from within R\" using the #PyQGIS API. #rstats #ogr #osgeo https://t.co/70TSsnwKcL"
 
   [tweets.entities]
@@ -59555,7 +59551,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5573
+  favorite_count = 5570
   id = 1076899899348799488
   retweet_count = 1592
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62525,7 +62521,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2771
+  favorite_count = 2774
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62895,7 +62891,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -65569,7 +65565,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 107
+  favorite_count = 110
   id = 987313634144608262
   retweet_count = 41
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69342,7 +69338,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72055,7 +72051,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -72083,7 +72079,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -76940,7 +76936,7 @@
 
 [[tweets]]
   created_at = 2016-03-10T17:23:14Z
-  favorite_count = 529
+  favorite_count = 526
   id = 707980142036045824
   retweet_count = 277
   text = "RT @AcademicsSay: A dissertation is never completed, only submitted."
