@@ -56,7 +56,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6540
+  favorite_count = 6544
   id = 1589374569260933120
   retweet_count = 1046
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -101,7 +101,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T19:24:29Z
-  favorite_count = 74
+  favorite_count = 77
   id = 1589337945508810752
   retweet_count = 25
   text = "RT @robinlovelace: Following others 👣 I have taken the plunge into the world of #opensource social media 💦🐘 \nNew blog covers:\n✅ Why explore alternatives?\n✅ Which options?\n✅ Crossposting 🚀\nThanks all for info+tips, lots of links within!  https://t.co/HANFD3JNui https://t.co/XsihnSc96k"
@@ -129,9 +129,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1841
+  favorite_count = 1846
   id = 1589187266991501313
-  retweet_count = 316
+  retweet_count = 317
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -5477,7 +5477,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22766
+  favorite_count = 22762
   id = 1546126992168439808
   retweet_count = 4887
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -25913,7 +25913,7 @@
 
 [[tweets]]
   created_at = 2021-03-04T15:14:06Z
-  favorite_count = 1289
+  favorite_count = 1286
   id = 1367493563001548801
   retweet_count = 356
   text = "RT @rgeomatic: New package {mapsf}: Thematic Cartography with R.\nIts aim is to be be lightweight, versatile and user-friendly. \n\nBlog post: https://t.co/yjHZuWcwDh\nCRAN: https://t.co/OP6X5B6MQo\nGitHub: https://t.co/F8XaTdCIyg\n\n#RStats #rspatial https://t.co/UHpTjN5j1z"
@@ -26016,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37562
+  favorite_count = 37557
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -35228,7 +35228,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1874
+  favorite_count = 1871
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -46446,7 +46446,7 @@
 
 [[tweets]]
   created_at = 2019-11-10T13:14:18Z
-  favorite_count = 304
+  favorite_count = 301
   id = 1193517237266788352
   retweet_count = 101
   text = "The cartography package by @rgeomatic\nis an alternative way to create maps in #rstats. You can learn more about it using its cheat sheet 📜at https://t.co/eKHVDsKn0E and vignette 📰at https://t.co/gI5zRjQw4k. #rspatial #dataviz https://t.co/lSqGoVNsVT"
@@ -51444,10 +51444,6 @@
     [[tweets.entities.user_mentions]]
       user = "dgkeyes"
       user_id = 543981616
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
 
   [tweets.reply]
     status_id = 1153825464869277696
@@ -69338,7 +69334,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72051,7 +72047,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -72079,7 +72075,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -76161,7 +76157,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
