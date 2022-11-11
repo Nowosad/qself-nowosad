@@ -1396,7 +1396,7 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1297
+  favorite_count = 1294
   id = 1576838607498878976
   retweet_count = 466
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
@@ -3993,6 +3993,10 @@
       user = "seandebasti"
       user_id = 1696338426
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
+
   [tweets.retweet]
     status_id = 1561640409880838145
     user = "seandebasti"
@@ -5473,9 +5477,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22762
+  favorite_count = 22757
   id = 1546126992168439808
-  retweet_count = 4887
+  retweet_count = 4885
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -8045,7 +8049,7 @@
 
 [[tweets]]
   created_at = 2022-05-01T16:09:15Z
-  favorite_count = 123
+  favorite_count = 120
   id = 1520797508770967554
   retweet_count = 27
   text = "RT @dhernangomez: A new #rstat #rspatial blog post! Joyplot elevation maps with {ggridges} and {terra}. Dedicated to @dredondosanchez https://t.co/ywDuk8rmlx"
@@ -16380,9 +16384,9 @@
 
 [[tweets]]
   created_at = 2021-09-28T20:17:02Z
-  favorite_count = 201
+  favorite_count = 199
   id = 1442946472236912642
-  retweet_count = 52
+  retweet_count = 51
   text = "RT @adolfoalvarez: Do you use base #rstats pipe |> ? Or do you prefer magrittr %>% ? Other options? No pipe at all? Read about the history of the pipe here: \nhttps://t.co/lhM4GPJAMH https://t.co/ZSECPIwYhs"
 
   [tweets.entities]
@@ -16390,7 +16394,7 @@
     [[tweets.entities.medias]]
       id = 1442939778043768832
       type = "photo"
-      url = "https://pbs.twimg.com/media/FAZaFUaUcAAFXYX.png"
+      url = "https://pbs.twimg.com/media/FAZaFUaUcAA0MzC.png"
 
     [[tweets.entities.urls]]
       display_url = "adolfoalvarez.cl/blog/2021-09-1…"
@@ -26012,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37557
+  favorite_count = 37550
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -32228,7 +32232,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 824
+  favorite_count = 821
   id = 1322224591750766594
   retweet_count = 315
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -35224,7 +35228,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1868
+  favorite_count = 1871
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -42364,7 +42368,7 @@
 
 [[tweets]]
   created_at = 2020-02-23T14:43:24Z
-  favorite_count = 174
+  favorite_count = 171
   id = 1231590387925602304
   retweet_count = 54
   text = "Do you use the cartography R package? Test its new features described at https://t.co/lw1HUjGjJB. #rstats #rspatial @rgeomatic https://t.co/gonO0fXPo4"
@@ -53303,7 +53307,7 @@
     [[tweets.entities.medias]]
       id = 1146681419047084033
       type = "animated_gif"
-      url = "https://pbs.twimg.com/tweet_video_thumb/D-nUrNzXoAEkgYU.jpg"
+      url = "https://pbs.twimg.com/tweet_video_thumb/D-nUrNzXoAEaVfP.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "adolfoalvarez"
@@ -65555,9 +65559,9 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
-  retweet_count = 41
+  retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
 
   [tweets.entities]
@@ -69328,7 +69332,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70599,7 +70603,7 @@
   created_at = 2017-10-27T16:19:50Z
   favorite_count = 119
   id = 923947357615677440
-  retweet_count = 31
+  retweet_count = 28
   text = "Next week I'll give an intro to spatial #rstats at @uofcincy.The slides are at https://t.co/qrBcig5aCd. More info at https://t.co/HtZAQ9zKYv https://t.co/kkUWJbJzTI"
 
   [tweets.entities]
@@ -76151,7 +76155,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -77587,7 +77591,7 @@
     [[tweets.entities.medias]]
       id = 599203059525361665
       type = "photo"
-      url = "https://pbs.twimg.com/media/CFDMAgdWIAESAxF.jpg"
+      url = "https://pbs.twimg.com/media/CFDMAgdWIAEo7vW.jpg"
 
     [[tweets.entities.urls]]
       display_url = "adolfoalvarez.cl/connect-share-…"
@@ -77734,7 +77738,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2440
+  favorite_count = 2437
   id = 578278362667458560
   retweet_count = 4270
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
