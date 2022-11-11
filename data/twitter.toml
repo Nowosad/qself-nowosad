@@ -129,7 +129,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1846
+  favorite_count = 1850
   id = 1589187266991501313
   retweet_count = 317
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -332,7 +332,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:43Z
-  favorite_count = 461
+  favorite_count = 464
   id = 1588076691783651328
   retweet_count = 45
   text = "RT @samiasab90: #30daymapchallenge\nDay 2: Lines\na map of all the bike paths in #Netherlands\nmade using #RStats \n#DataViz #DataVisualization #GIS #maps #openstreetmap https://t.co/VpTXPCw8qc"
@@ -3655,9 +3655,9 @@
 
 [[tweets]]
   created_at = 2022-08-24T12:37:57Z
-  favorite_count = 146
+  favorite_count = 144
   id = 1562418936754364417
-  retweet_count = 85
+  retweet_count = 81
   text = "Next week (28th Aug-4 Sep), the OpenGeoHub Summer School 2022 is happening! The program is packed with many #geospatial tutorials.\n\nImportantly -- the lectures will be live-streamed at https://t.co/IvGrYvkRhY.\n\nMore info: https://t.co/5V3fLsTJNg\n\nShare widely!\n\n#rspatial #python https://t.co/MYsPesBuI5"
 
   [tweets.entities]
@@ -3993,10 +3993,6 @@
       user = "seandebasti"
       user_id = 1696338426
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1561640409880838145
     user = "seandebasti"
@@ -4291,7 +4287,7 @@
 
 [[tweets]]
   created_at = 2022-08-20T10:12:44Z
-  favorite_count = 168
+  favorite_count = 165
   id = 1560932841537544193
   retweet_count = 36
   text = "RT @TimSalabim3: Thanks to the great help by @bdon we now have a working prototype for rendering #pmtiles using @protomaps in #rstats #rspatial 📦 {leafem}. Here's rendering all ~3.3 million building footprints of New Zealand by @LandInfoNZ straight from an S3 bucket. https://t.co/zxVLFiM569"
@@ -13275,7 +13271,7 @@
 
 [[tweets]]
   created_at = 2021-12-07T12:43:05Z
-  favorite_count = 141
+  favorite_count = 138
   id = 1468199382956843012
   retweet_count = 32
   text = "RT @WeAreRLadies: OK folks, let's talk #rspatial 😍 If you are not familiar with this hashtag, you might be wondering, first of all what is R-Spatial and why it is so unique that it needs it's own #️⃣\n🧵 1/11"
@@ -32295,7 +32291,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2199
+  favorite_count = 2196
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -32637,9 +32633,9 @@
 
 [[tweets]]
   created_at = 2020-10-17T20:11:25Z
-  favorite_count = 855
+  favorite_count = 852
   id = 1317558856831127552
-  retweet_count = 226
+  retweet_count = 225
   text = "RT @mapserving: Happy 22nd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/Bcm47vGhcz"
 
   [tweets.entities]
@@ -34788,7 +34784,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 252
+  favorite_count = 249
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -35228,7 +35224,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1871
+  favorite_count = 1868
   id = 1299086851484061699
   retweet_count = 683
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -43140,7 +43136,7 @@
 
 [[tweets]]
   created_at = 2020-02-04T16:36:42Z
-  favorite_count = 1017
+  favorite_count = 1014
   id = 1224733530615373825
   retweet_count = 317
   text = "RT @zevross: I had the privilege of teaching a two-day workshop, Modern Geospatial Data Analysis with R, at the @rstudio conference with an amazing group of TAs and participants. I've made the slides available here: https://t.co/rSzPTt6VBk, #rstats, #rspatial, #gischat https://t.co/3v7UVd0UT5"
@@ -43713,7 +43709,7 @@
 
 [[tweets]]
   created_at = 2020-01-23T15:15:34Z
-  favorite_count = 163
+  favorite_count = 160
   id = 1220364456712077314
   retweet_count = 57
   text = "How to calculate landscape metrics for local landscapes? In my latest blog post at https://t.co/RwPs4BZGLF, I am explaining how to divide a categorical map into several smaller areas, and next calculate landscape metrics for each region. #rspatial #rstats  #landscapeecology https://t.co/LSikHGPi8V"
@@ -50759,7 +50755,7 @@
 
 [[tweets]]
   created_at = 2019-08-09T12:43:51Z
-  favorite_count = 153
+  favorite_count = 150
   id = 1159807501476327424
   retweet_count = 62
   text = "RT @thanhtungmilan: Beautiful #colorblind friendly palettes from the #rcartocolor package by @jakub_nowosad #rstats #Datavisualization\nhttps://t.co/WTHevGhCtL https://t.co/kWQfPOE433"
@@ -51444,6 +51440,10 @@
     [[tweets.entities.user_mentions]]
       user = "dgkeyes"
       user_id = 543981616
+
+    [[tweets.entities.user_mentions]]
+      user = "coreypembleton"
+      user_id = 2651047838
 
   [tweets.reply]
     status_id = 1153825464869277696
@@ -60365,15 +60365,9 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
-
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -61237,7 +61231,7 @@
 
 [[tweets]]
   created_at = 2018-11-11T09:56:36Z
-  favorite_count = 558
+  favorite_count = 555
   id = 1061558300171517953
   retweet_count = 52
   text = "RT @ClausWilke: I spent way too much time this weekend writing orthographic projection code. Now that it works, let's celebrate with a spinning globe. #rstats #dataviz https://t.co/f401wwjnrB"
@@ -62517,7 +62511,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2769
+  favorite_count = 2772
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62887,7 +62881,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -69334,7 +69328,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72047,7 +72041,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74299,7 +74293,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -77740,7 +77734,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2437
+  favorite_count = 2440
   id = 578278362667458560
   retweet_count = 4270
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
