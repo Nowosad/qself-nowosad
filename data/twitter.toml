@@ -56,7 +56,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6541
+  favorite_count = 6545
   id = 1589374569260933120
   retweet_count = 1044
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -5477,9 +5477,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22760
+  favorite_count = 22764
   id = 1546126992168439808
-  retweet_count = 4885
+  retweet_count = 4886
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -10949,7 +10949,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3521
+  favorite_count = 3518
   id = 1490054004671496198
   retweet_count = 595
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -18866,7 +18866,7 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2235
+  favorite_count = 2232
   id = 1427711108668874752
   retweet_count = 747
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
@@ -23192,9 +23192,9 @@
 
 [[tweets]]
   created_at = 2021-05-11T19:40:26Z
-  favorite_count = 400
+  favorite_count = 397
   id = 1392202962395713537
-  retweet_count = 108
+  retweet_count = 107
   text = "RT @GRocherRos: I have an R script to estimate river reach slope anywhere in the globe, just providing a pair of coordinates. Maybe is useful for hydrologists, biogeochemists, stream ecologists... https://t.co/Si4WxtCtTb"
 
   [tweets.entities]
@@ -24378,7 +24378,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3001
+  favorite_count = 3004
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -26016,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37546
+  favorite_count = 37543
   id = 1367166556501925891
   retweet_count = 2944
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -32769,7 +32769,7 @@
 
 [[tweets]]
   created_at = 2020-10-11T05:48:05Z
-  favorite_count = 177
+  favorite_count = 174
   id = 1315167267097804800
   retweet_count = 48
   text = "RT @paleolimbot: More @qgis -- #rstats magic! Thanks to @cahik13 for pushing functional and pipe-friendly representations, and to Jannes Muenchow for pushing explicit default value handling! https://t.co/SApE7GUUdg #rspatial https://t.co/gYxIO5JZTL"
@@ -60276,9 +60276,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2328
+  favorite_count = 2324
   id = 1070309959852806144
-  retweet_count = 1355
+  retweet_count = 1353
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -62511,7 +62511,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2770
+  favorite_count = 2765
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62881,7 +62881,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -76151,7 +76151,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
