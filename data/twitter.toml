@@ -5477,9 +5477,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22792
+  favorite_count = 22803
   id = 1546126992168439808
-  retweet_count = 4892
+  retweet_count = 4897
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -14703,7 +14703,7 @@
 
 [[tweets]]
   created_at = 2021-11-07T12:40:21Z
-  favorite_count = 146
+  favorite_count = 149
   id = 1457327059638923269
   retweet_count = 35
   text = "RT @dakvid: What's better than seeing awesome maps to inspire you? Seeing awesome maps with code so you can immediately reproduce and adapt! 😍\nFor my #30DayMapChallengeChallenge I present a gallery of #RStats / #RSpatial maps from #30DayMapChallenge with code: https://t.co/g4IkbsZa3Z https://t.co/9MMXeSrbnr"
@@ -16225,7 +16225,7 @@
 
 [[tweets]]
   created_at = 2021-09-30T19:11:50Z
-  favorite_count = 213
+  favorite_count = 209
   id = 1443654838861144070
   retweet_count = 42
   text = "RT @floledermann: For my upcoming \"foundations of cartography\" course I implemented a simple \"map projection playground\" on @observablehq. Feel free to re-use!\n\n→ https://t.co/tJxNG1UYGT https://t.co/lHGsWdfMpa"
@@ -23332,9 +23332,9 @@
 
 [[tweets]]
   created_at = 2021-05-09T17:33:14Z
-  favorite_count = 245
+  favorite_count = 242
   id = 1391446176679989248
-  retweet_count = 61
+  retweet_count = 60
   text = "I created a YouTube playlist with some recent #rspatial workshops delivered by @kyle_e_walker, @edzerpebesma, @MartijnTennekes, @StatnMap, @Dorris_Scott and @MHKHesselbarth.\n\nWatch it all at https://t.co/qt5gD2wDIK.\n\nLet me know if there are some videos worth adding to the list!"
 
   [tweets.entities]
@@ -26016,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37537
+  favorite_count = 37532
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29420,9 +29420,9 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
-  retweet_count = 64
+  retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
 
   [tweets.entities]
@@ -29928,7 +29928,7 @@
 
 [[tweets]]
   created_at = 2020-12-01T09:26:35Z
-  favorite_count = 500
+  favorite_count = 497
   id = 1333704035732516865
   retweet_count = 85
   text = "RT @dickoah: Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV"
@@ -30309,7 +30309,7 @@
 
 [[tweets]]
   created_at = 2020-11-24T06:21:16Z
-  favorite_count = 228
+  favorite_count = 225
   id = 1331120681648607234
   retweet_count = 24
   text = "RT @katiejolly6: I put together a collage last night of all the maps I’ve made this month so far! 🗺 All of my R scripts for the basic maps are available here (most of the labeling is done in Illustrator to be ⚡️faster): https://t.co/gcEmQlnPN8 https://t.co/cUI3Fvvrvn"
@@ -32189,7 +32189,7 @@
 
 [[tweets]]
   created_at = 2020-10-31T05:58:55Z
-  favorite_count = 588
+  favorite_count = 585
   id = 1322417747708563456
   retweet_count = 137
   text = "RT @oaggimenez: 🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk"
@@ -37625,7 +37625,7 @@
 
 [[tweets]]
   created_at = 2020-06-28T20:09:00Z
-  favorite_count = 860
+  favorite_count = 857
   id = 1277333197144182784
   retweet_count = 231
   text = "RT @Em_The_Engineer: Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk"
