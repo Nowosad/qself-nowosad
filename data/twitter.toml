@@ -129,7 +129,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1851
+  favorite_count = 1854
   id = 1589187266991501313
   retweet_count = 320
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -267,9 +267,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:53:18Z
-  favorite_count = 167
+  favorite_count = 168
   id = 1588076840656175104
-  retweet_count = 41
+  retweet_count = 38
   text = "RT @humus_rocks: I've been a bit daunted by putting any of my {reticulate}-based packages on CRAN... But I am now happy to share that {rgeedim} 📦was published today!\n\nPlease try to break it and post any issues here: https://t.co/gi0ChqQ3hn\n\n#Rstats #Rspatial #python #EarthEngine https://t.co/CoPae17bIw"
 
   [tweets.entities]
@@ -10823,9 +10823,9 @@
 
 [[tweets]]
   created_at = 2022-02-13T15:14:29Z
-  favorite_count = 136
+  favorite_count = 133
   id = 1492879860938817543
-  retweet_count = 35
+  retweet_count = 34
   text = "A new spatial machine learning gem by @geobrenning -- a \"Spatial machine-learning model diagnostics\" blogpost.\n\nRead it at https://t.co/4poO9gancF.\n\n#rspatial #rstats #gischat"
 
   [tweets.entities]
@@ -13554,7 +13554,7 @@
 
 [[tweets]]
   created_at = 2021-12-01T19:45:21Z
-  favorite_count = 95
+  favorite_count = 92
   id = 1466131325153431561
   retweet_count = 30
   text = "RT @ingorohlfing: {colorblindcheck}, a new #RStats 📦 for checking how well your palettte works for colorblind viewers https://t.co/1SnIPMYPUv https://t.co/Vl79VjhvU5"
@@ -24378,7 +24378,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3004
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25590,7 +25590,7 @@
 
 [[tweets]]
   created_at = 2021-03-15T18:26:13Z
-  favorite_count = 516
+  favorite_count = 513
   id = 1371528177600843776
   retweet_count = 145
   text = "RT @LuukvanderMeer: #rspatial #rstats news🚨We released a new version of {sfnetworks}, an R📦 for analysis of spatial networks. Special about the new release: it is the first one on CRAN! Checkout the docs here: https://t.co/aUdHy8R0oX @loreabad made a nice GIF to summarise the core features: https://t.co/jX8H5X55zi"
@@ -26016,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37545
+  favorite_count = 37542
   id = 1367166556501925891
   retweet_count = 2944
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -26771,7 +26771,7 @@
 
 [[tweets]]
   created_at = 2021-02-19T10:26:05Z
-  favorite_count = 297
+  favorite_count = 294
   id = 1362710038016651265
   retweet_count = 67
   text = "RT @robinlovelace: Want to analyse big @openstreetmap datasets using free and open source software 🤯? {osmextract} by @a_gilardi5 and me may be for you 🎉 Enables reproducible analysis of global 'geo commons' for research, fun and the greater good 🚀 \n\nSpread the word: https://t.co/uQETfKg8tZ https://t.co/DK1prA8k4A"
@@ -33177,7 +33177,7 @@
 
 [[tweets]]
   created_at = 2020-10-04T04:42:32Z
-  favorite_count = 209
+  favorite_count = 206
   id = 1312614054813466624
   retweet_count = 48
   text = "RT @paleolimbot: Having fun with QGIS and #rstats! With the appropriate dev version of @qgis installed, call processing algorithms right from #rstats! (proof of concept only at this point...) https://t.co/SApE7GDiOG #rspatial Thanks to @robinlovelace for keeping the discussion going! https://t.co/jNfCOvy8bU"
@@ -60365,15 +60365,9 @@
   id = 1070307324156362753
   text = "@coreypembleton Thanks Corey!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
-
   [tweets.reply]
     status_id = 1070032153176670210
-    user = "coreypembleton"
+    user = "compostpraxis"
     user_id = 2651047838
 
 [[tweets]]
@@ -62517,7 +62511,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2767
+  favorite_count = 2770
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -62887,7 +62881,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2018-08-28T20:53:39Z
@@ -65561,7 +65555,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69334,7 +69328,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72075,7 +72069,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74299,7 +74293,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76157,7 +76151,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -77740,7 +77734,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2440
+  favorite_count = 2436
   id = 578278362667458560
   retweet_count = 4270
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
