@@ -155,7 +155,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1861
+  favorite_count = 1865
   id = 1589187266991501313
   retweet_count = 322
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -4018,6 +4018,10 @@
     [[tweets.entities.user_mentions]]
       user = "seandebasti"
       user_id = 1696338426
+
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
 
   [tweets.retweet]
     status_id = 1561640409880838145
@@ -46511,7 +46515,7 @@
 
 [[tweets]]
   created_at = 2019-11-09T21:17:48Z
-  favorite_count = 354
+  favorite_count = 351
   id = 1193276524973174791
   retweet_count = 103
   text = "RT @CivicAngela: Slides for my talk at #rstatdc can be found at https://t.co/GB58zIy3ND! My talk was based off of questions I get all the time at the R Spatial Workshop at @GeoDaCenter: \n\n1) How to get started with spatial analysis?\n2) What tools to use?\n3) What can you do in #rstats? https://t.co/qzEKO0T8Y4"
@@ -65577,7 +65581,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 107
+  favorite_count = 110
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69350,7 +69354,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -74315,7 +74319,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76173,7 +76177,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
