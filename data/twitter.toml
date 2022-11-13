@@ -332,7 +332,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:43Z
-  favorite_count = 464
+  favorite_count = 461
   id = 1588076691783651328
   retweet_count = 45
   text = "RT @samiasab90: #30daymapchallenge\nDay 2: Lines\na map of all the bike paths in #Netherlands\nmade using #RStats \n#DataViz #DataVisualization #GIS #maps #openstreetmap https://t.co/VpTXPCw8qc"
@@ -2977,7 +2977,7 @@
 
 [[tweets]]
   created_at = 2022-08-30T13:48:16Z
-  favorite_count = 205
+  favorite_count = 202
   id = 1564610958407892995
   retweet_count = 58
   text = "RT @robinlovelace: This is fantastic! Finally after ~2years of comms the #rspatial community is part of the @OSGeo family 😻\n\nShiny new page: https://t.co/aWG0Yrt3w6\nDetails+discussion+how2 get involved: https://t.co/018CcB5wuv\nTagging ppl, spread the word! #RStats #gischat https://t.co/TGKafrWFRJ https://t.co/jqzs4b5gif"
@@ -5477,9 +5477,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22811
+  favorite_count = 22815
   id = 1546126992168439808
-  retweet_count = 4899
+  retweet_count = 4900
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -10371,7 +10371,7 @@
 
 [[tweets]]
   created_at = 2022-02-20T15:16:18Z
-  favorite_count = 97
+  favorite_count = 94
   id = 1495417033550450692
   retweet_count = 25
   text = "Feature engineering is often neglected in spatial machine learning models.  However, it is needed to encode cyclic variables  (e.g., slope) properly.\n\nRead more about it in the blog post by @geobrenning at \nhttps://t.co/XzBN1NaVOB.\n\n#rstats #rspatial #gischat https://t.co/Q4WifYqSdi"
@@ -24378,7 +24378,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3004
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25394,7 +25394,7 @@
 
 [[tweets]]
   created_at = 2021-03-17T20:29:15Z
-  favorite_count = 256
+  favorite_count = 253
   id = 1372283913666756609
   retweet_count = 47
   text = "RT @katiejolly6: I wrote a bit about how I think about designing xaringan #rstats slides with xaringanthemer and css. In this post I start with design specs and branding guidelines to show you how to customize your slides 🎨🌟https://t.co/cZ8Sa1yMZz https://t.co/kNfGp96qKz"
@@ -26016,7 +26016,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37527
+  favorite_count = 37524
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29420,7 +29420,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 306
+  favorite_count = 309
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -32295,7 +32295,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2196
+  favorite_count = 2199
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -56244,7 +56244,7 @@
 
 [[tweets]]
   created_at = 2019-04-18T21:22:59Z
-  favorite_count = 175
+  favorite_count = 172
   id = 1118988319352852480
   retweet_count = 35
   text = "RT @m_wegmann: two new great #rstats #rspatial books to read have just arrived: Geocomputation w/ R and spatio temporal stats with R https://t.co/SvBu3oJSse"
@@ -58259,9 +58259,9 @@
 
 [[tweets]]
   created_at = 2019-02-14T21:27:07Z
-  favorite_count = 400
+  favorite_count = 397
   id = 1096158922161967105
-  retweet_count = 170
+  retweet_count = 169
   text = "RT @andrewzm: Our @CRCpress book Spatio-Temporal Statistics with R is now published and available online at https://t.co/FetuGb7idp #rstats #rspatial https://t.co/TQZBV4yVLa https://t.co/Ky3dxc6x9J"
 
   [tweets.entities]
@@ -58363,7 +58363,7 @@
 
 [[tweets]]
   created_at = 2019-02-13T18:25:38Z
-  favorite_count = 141
+  favorite_count = 138
   id = 1095750864386605064
   retweet_count = 30
   text = "Super happy to announce that the Geocomputation with R book is first on the Amazon list of New Releases in Statistics - https://t.co/Bp5CDtG7C2. Many thanks to all of you! #geocompr #rspatial #rstats https://t.co/ONAyLU7rX5"
@@ -62231,7 +62231,7 @@
 
 [[tweets]]
   created_at = 2018-10-01T20:30:16Z
-  favorite_count = 338
+  favorite_count = 334
   id = 1046859868131549184
   retweet_count = 454
   text = "RT @robinlovelace: Just got a call from @BBCLeeds about pedestrian-cycling conflict (less than 1% of pedestrian casualties). I asked if the topic could be introduced in the wider context of motor vehicles (~99% of casualties - 50 deaths in Leeds shown below). Was uninvited! Pls RT 4 balance #bbc https://t.co/Q19x94a4OJ"
@@ -62511,7 +62511,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2765
+  favorite_count = 2769
   id = 1039472133481615360
   retweet_count = 1048
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65555,7 +65555,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -66612,9 +66612,9 @@
 
 [[tweets]]
   created_at = 2018-03-31T15:12:13Z
-  favorite_count = 319
+  favorite_count = 316
   id = 980100457271103488
-  retweet_count = 79
+  retweet_count = 78
   text = "RT @jcheng: We're getting close to releasing a new version of the Leaflet R package. Tons of changes under the hood, so PLEASE test your scripts, docs, apps, & packages with the new version! devtools::install_github(\"rstudio/leaflet\") #rstats #rspatial"
 
   [tweets.entities]
@@ -69355,9 +69355,9 @@
 
 [[tweets]]
   created_at = 2017-12-19T13:56:19Z
-  favorite_count = 234
+  favorite_count = 231
   id = 943117797433004033
-  retweet_count = 109
+  retweet_count = 108
   text = "RT @ma_salmon: New #rstats post: How to develop good R packages (for open science). 👩‍💻 My tips and many links to fantastic resources! 🛠️📚  https://t.co/AcZArdn0ft #EAB2017 @rOpenSci"
 
   [tweets.entities]
@@ -74293,7 +74293,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76151,7 +76151,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -77734,9 +77734,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2439
+  favorite_count = 2438
   id = 578278362667458560
-  retweet_count = 4269
+  retweet_count = 4266
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
