@@ -1,5 +1,31 @@
 
 [[tweets]]
+  created_at = 2022-11-13T11:48:39Z
+  favorite_count = 6
+  id = 1591759947192156160
+  retweet_count = 2
+  text = "RT @babayoshihikoCH: I gave a lecture on #geocompr at GIS conference and a presentation at FoSS4G Japan and people are interested in the difference b/w S2 and GEOS. @robinlovelace @jakub_nowosad"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "babayoshihikoCH"
+      user_id = 1376684071972077572
+
+    [[tweets.entities.user_mentions]]
+      user = "robinlovelace"
+      user_id = 80250475
+
+    [[tweets.entities.user_mentions]]
+      user = "jakub_nowosad"
+      user_id = 2810559039
+
+  [tweets.retweet]
+    status_id = 1591549188872974336
+    user = "babayoshihikoCH"
+    user_id = 1376684071972077572
+
+[[tweets]]
   created_at = 2022-11-10T18:01:19Z
   favorite_count = 239
   id = 1590766569222590464
@@ -3993,10 +4019,6 @@
       user = "seandebasti"
       user_id = 1696338426
 
-    [[tweets.entities.user_mentions]]
-      user = "rstudio"
-      user_id = 1559222681941078017
-
   [tweets.retweet]
     status_id = 1561640409880838145
     user = "seandebasti"
@@ -5477,9 +5499,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22818
+  favorite_count = 22827
   id = 1546126992168439808
-  retweet_count = 4900
+  retweet_count = 4905
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -15137,6 +15159,10 @@
       expanded_url = "https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/"
       url = "https://t.co/p3eqSJBnao"
 
+    [[tweets.entities.user_mentions]]
+      user = "rstudio"
+      user_id = 1559222681941078017
+
   [tweets.retweet]
     status_id = 1453789661114081283
     user = "posit_pbc"
@@ -24374,7 +24400,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3001
+  favorite_count = 3004
   id = 1384591503650078723
   retweet_count = 426
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -26012,7 +26038,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37531
+  favorite_count = 37523
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29416,7 +29442,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 306
+  favorite_count = 309
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -32228,7 +32254,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 818
+  favorite_count = 821
   id = 1322224591750766594
   retweet_count = 314
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -32291,7 +32317,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2196
+  favorite_count = 2199
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -57998,7 +58024,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 458
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59543,7 +59569,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5580
+  favorite_count = 5570
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62199,7 +62225,7 @@
 
 [[tweets]]
   created_at = 2018-10-02T19:35:20Z
-  favorite_count = 213
+  favorite_count = 210
   id = 1047208431080394755
   retweet_count = 49
   text = "RT @zevross: A detailed new blog post to help you navigate what I consider the most underrated #rstats package, tmap. Colors, layouts, scale bars, interactivity and more. Complete with data collection code using tidycensus | https://t.co/Ns3HeelIuG https://t.co/HqLUocWWGQ"
@@ -65107,9 +65133,9 @@
 
 [[tweets]]
   created_at = 2018-05-14T15:26:10Z
-  favorite_count = 557
+  favorite_count = 554
   id = 996049035344703493
-  retweet_count = 175
+  retweet_count = 174
   text = "RT @topepos: Kjell and I are writing another book on predictive modeling, this time focused on all the things that you can do with predictors. It's about 60% done and we'd love to get feedback. Check it out at https://t.co/sU9nyCcSql #rstats #MachineLearning https://t.co/T1tVcZAmcL"
 
   [tweets.entities]
@@ -72065,7 +72091,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
@@ -74289,7 +74315,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
@@ -76147,7 +76173,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
@@ -77730,7 +77756,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2441
+  favorite_count = 2438
   id = 578278362667458560
   retweet_count = 4267
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
