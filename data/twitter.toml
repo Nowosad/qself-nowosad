@@ -1,5 +1,48 @@
 
 [[tweets]]
+  created_at = 2022-11-13T15:41:50Z
+  favorite_count = 180
+  id = 1591818628470800385
+  retweet_count = 39
+  text = "RT @jakub_nowosad: I'll teach a two-day online course on Adapting to the recent changes in R spatial packages (sf, terra, PROJ library) (PROJ03) 🗺️on Dec 8-9 2022. You can find more details at https://t.co/ULpUTPshyU. Feel free to email me if you have any questions! #rstats #rspatial #gis https://t.co/O5gZlIRi5V"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1583089175909306368
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FfhDN8nXEAA0cbh.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1583089175875751936
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FfhDN8fXEAA1MQE.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1583089175913529345
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FfhDN8oXgAEyQDj.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1583089327533432833
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FfhDWxdXoAE4-tD.png"
+
+    [[tweets.entities.urls]]
+      display_url = "bit.ly/proj03-2022"
+      expanded_url = "https://bit.ly/proj03-2022"
+      url = "https://t.co/ULpUTPshyU"
+
+    [[tweets.entities.user_mentions]]
+      user = "jakub_nowosad"
+      user_id = 2810559039
+
+  [tweets.retweet]
+    status_id = 1583089366515077120
+    user = "jakub_nowosad"
+    user_id = 2810559039
+
+[[tweets]]
   created_at = 2022-11-13T11:48:39Z
   favorite_count = 6
   id = 1591759947192156160
@@ -824,9 +867,9 @@
 
 [[tweets]]
   created_at = 2022-10-20T13:34:52Z
-  favorite_count = 177
+  favorite_count = 180
   id = 1583089366515077120
-  retweet_count = 38
+  retweet_count = 39
   text = "I'll teach a two-day online course on Adapting to the recent changes in R spatial packages (sf, terra, PROJ library) (PROJ03) 🗺️on Dec 8-9 2022. You can find more details at https://t.co/ULpUTPshyU. Feel free to email me if you have any questions! #rstats #rspatial #gis https://t.co/O5gZlIRi5V"
 
   [tweets.entities]
@@ -26042,7 +26085,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37523
+  favorite_count = 37526
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -35254,9 +35297,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1866
+  favorite_count = 1871
   id = 1299086851484061699
-  retweet_count = 683
+  retweet_count = 682
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -36858,7 +36901,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 310
+  favorite_count = 313
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -37702,7 +37745,7 @@
 
 [[tweets]]
   created_at = 2020-06-25T08:58:31Z
-  favorite_count = 748
+  favorite_count = 752
   id = 1276077302137475072
   retweet_count = 157
   text = "RT @ClausWilke: Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1"
@@ -57969,7 +58012,7 @@
   created_at = 2019-02-22T22:34:53Z
   favorite_count = 82
   id = 1099075081769271297
-  retweet_count = 63
+  retweet_count = 60
   text = "RT @robinlovelace: Ever wanted to ask transport planning questions but not known who to ask, or where to ask? The proposed \"Transport planning\" StackExchange site may be of use/interest if so: https://t.co/TdssZRgRC5\n\nWe need 40 'followers' to pass to the next stage, so please join, comment + RT 🚀 https://t.co/qfNCzKeit0"
 
   [tweets.entities]
@@ -58028,7 +58071,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 458
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59573,7 +59616,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5570
+  favorite_count = 5579
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -65581,7 +65624,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69354,7 +69397,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72095,7 +72138,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
     [[tweets.entities.user_mentions]]
       user = "useR_Brussels"
