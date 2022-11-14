@@ -12078,9 +12078,9 @@
 
 [[tweets]]
   created_at = 2022-01-16T14:40:42Z
-  favorite_count = 107
+  favorite_count = 103
   id = 1482724497048453123
-  retweet_count = 28
+  retweet_count = 27
   text = "RT @jakub_nowosad: In February 2022, I'll teach a two-day online course on Making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/TLAKq8JQek. \n\nFeel free to email me if you have any questions! \n\n#rspatial #gis #tmap https://t.co/LaZnNKNYhH"
 
   [tweets.entities]
@@ -13444,9 +13444,9 @@
 
 [[tweets]]
   created_at = 2021-12-06T14:24:31Z
-  favorite_count = 107
+  favorite_count = 103
   id = 1467862523764428806
-  retweet_count = 28
+  retweet_count = 27
   text = "In February 2022, I'll teach a two-day online course on Making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/TLAKq8JQek. \n\nFeel free to email me if you have any questions! \n\n#rspatial #gis #tmap https://t.co/LaZnNKNYhH"
 
   [tweets.entities]
@@ -15797,7 +15797,7 @@
 
 [[tweets]]
   created_at = 2021-10-09T08:07:41Z
-  favorite_count = 66
+  favorite_count = 63
   id = 1446749192249020420
   retweet_count = 4
   text = "Wow https://t.co/Is15kyLP0C"
@@ -26108,7 +26108,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37521
+  favorite_count = 37515
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -32387,7 +32387,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2200
+  favorite_count = 2196
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35320,7 +35320,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1871
+  favorite_count = 1868
   id = 1299086851484061699
   retweet_count = 682
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -58094,7 +58094,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 458
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59639,7 +59639,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5576
+  favorite_count = 5565
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -69420,7 +69420,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -74385,7 +74385,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 1559222681941078017
+      user_id = 235261861
 
   [tweets.reply]
     status_id = 853649047080636416
