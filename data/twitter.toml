@@ -5569,7 +5569,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22826
+  favorite_count = 22829
   id = 1546126992168439808
   retweet_count = 4908
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -19175,7 +19175,7 @@
 
 [[tweets]]
   created_at = 2021-08-12T14:10:25Z
-  favorite_count = 62
+  favorite_count = 59
   id = 1425821983187427331
   retweet_count = 9
   text = "Hot off the #rstats press:\n\nThe dev version of {tmap} allows to save a map using any desired graphic device, including devices from {ragg} by @thomasp85  and `cairo_pdf`.\n\nhttps://t.co/DETPzFd3DA\n\nNew code heavily inspired by `ggsave()` by @hadleywickham  (ty!).\n\n#tmap #rspatial https://t.co/MVqbAdrP6F"
@@ -19732,7 +19732,7 @@
 
 [[tweets]]
   created_at = 2021-07-26T16:44:32Z
-  favorite_count = 51
+  favorite_count = 48
   id = 1419700170787282944
   retweet_count = 11
   text = "RT @mberesewicz: Nie wiem czy polscy użytkownicy #RStats wiedzą ale dzięki {rgugik} (od @krzysztof_dyba @jakub_nowosad ) mamy darmowy i (chyba?) nielimitowany dostęp do geokodowania adresów dzięki API od @GUGiKgovpl. Świetna alternatywa dla #ggmap i usług Google. https://t.co/LfjCD6QGO0"
@@ -24470,7 +24470,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3003
+  favorite_count = 2999
   id = 1384591503650078723
   retweet_count = 425
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -25206,7 +25206,7 @@
 
 [[tweets]]
   created_at = 2021-03-23T19:38:44Z
-  favorite_count = 1510
+  favorite_count = 1507
   id = 1374445529703145475
   retweet_count = 445
   text = "RT @dr_xeo: I couldn't resist making a detailed European animation of the idea from @ZLabe. The average temperature of 24 hours in August 2020. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/cZcGLcZU9b"
@@ -34807,7 +34807,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1987
+  favorite_count = 1990
   id = 1302134558649995264
   retweet_count = 544
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35320,7 +35320,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1865
+  favorite_count = 1871
   id = 1299086851484061699
   retweet_count = 682
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36924,7 +36924,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 310
+  favorite_count = 313
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -46538,9 +46538,9 @@
 
 [[tweets]]
   created_at = 2019-11-10T13:14:18Z
-  favorite_count = 301
+  favorite_count = 304
   id = 1193517237266788352
-  retweet_count = 101
+  retweet_count = 100
   text = "The cartography package by @rgeomatic\nis an alternative way to create maps in #rstats. You can learn more about it using its cheat sheet 📜at https://t.co/eKHVDsKn0E and vignette 📰at https://t.co/gI5zRjQw4k. #rspatial #dataviz https://t.co/lSqGoVNsVT"
 
   [tweets.entities]
@@ -50076,7 +50076,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2933
+  favorite_count = 2937
   id = 1165010087171280896
   retweet_count = 759
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -51536,10 +51536,6 @@
     [[tweets.entities.user_mentions]]
       user = "dgkeyes"
       user_id = 543981616
-
-    [[tweets.entities.user_mentions]]
-      user = "coreypembleton"
-      user_id = 2651047838
 
   [tweets.reply]
     status_id = 1153825464869277696
@@ -58098,7 +58094,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 458
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59643,7 +59639,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5565
+  favorite_count = 5575
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62607,7 +62603,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2767
+  favorite_count = 2762
   id = 1039472133481615360
   retweet_count = 1047
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
