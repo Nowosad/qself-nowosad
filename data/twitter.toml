@@ -4987,9 +4987,9 @@
 
 [[tweets]]
   created_at = 2022-07-26T18:02:37Z
-  favorite_count = 130
+  favorite_count = 127
   id = 1551991392737628163
-  retweet_count = 22
+  retweet_count = 21
   text = "RT @dr_xeo: [🆕blog post] My last blog post before vacations is about creating hillshade effects for maps in R. I wish you a nice relaxing summer 🙃 #rstats #dataviz #rspatial\n\n👉https://t.co/xihVgoQquW https://t.co/8CXT18W6Mh"
 
   [tweets.entities]
@@ -6759,7 +6759,7 @@
 
 [[tweets]]
   created_at = 2022-06-05T16:46:49Z
-  favorite_count = 2811
+  favorite_count = 2808
   id = 1533490538111959043
   retweet_count = 502
   text = "RT @BlakeRobMills: ✨✨ PACKAGE UPDATE ✨✨\nMetBrewer 0.2.0 is officially out 🥳 Available both on Cran and through my GitHub here: https://t.co/wYHMEKoJLH\n\nNew Palettes are out and some amazing new features. Full description of what has changed below :)\n\n#MetBrewer #rstats #r4ds #dataviz https://t.co/XU3q7h7ZJT"
@@ -6859,7 +6859,7 @@
 
 [[tweets]]
   created_at = 2022-06-02T23:53:34Z
-  favorite_count = 168
+  favorite_count = 165
   id = 1532510770281517056
   retweet_count = 31
   text = "RT @rgeomatic: Update of the thematic cartography package {mapsf}📦!\nhttps://t.co/cbrhIB3z8O\n\nNew features: \n- Interactive placement of layout elements (legends, north arrow, scale bar...)\n- Self-adjusting legends for proportional symbol maps (see below ⬇️⬇️)\n\n#rspatial #RStats \n(1/2) https://t.co/rdRBgcBA0E"
@@ -21276,7 +21276,7 @@
 
 [[tweets]]
   created_at = 2021-06-18T07:29:07Z
-  favorite_count = 165
+  favorite_count = 162
   id = 1405789659565899781
   retweet_count = 15
   text = "RT @edzerpebesma: Shortest title I could come up with. https://t.co/W1aLNJaxl4"
@@ -28337,7 +28337,7 @@
 
 [[tweets]]
   created_at = 2021-01-21T15:05:33Z
-  favorite_count = 240
+  favorite_count = 237
   id = 1352271121039691779
   retweet_count = 67
   text = "Do you want to learn about spatial data visualization, processing, machine learning, and more? \nThe OpenGeoHub 2020 Summer School video playlist is still a real hidden gem 💎!\n\nWatch all videos at https://t.co/60IDGb5GhI.\n\n#rstats #rspatial https://t.co/1nBreYiLPV"
@@ -28924,7 +28924,7 @@
 
 [[tweets]]
   created_at = 2021-01-08T08:49:30Z
-  favorite_count = 418
+  favorite_count = 415
   id = 1347465440809930752
   retweet_count = 85
   text = "RT @tylermorganwall: 1/5‼️New tutorial AND a new rayshader update! Learn how to add Open Street Map data to #rayshader maps in #rstats, using only a few lines of code. Take a break from the doom-scrolling (I live in DC—yesterday was nuts😬) and learn something new!\n\nBlog post:\nhttps://t.co/vLfMlW2r1Y https://t.co/5mfQzRnNkT"
@@ -29512,7 +29512,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -32324,7 +32324,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 821
+  favorite_count = 818
   id = 1322224591750766594
   retweet_count = 314
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -32387,7 +32387,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2199
+  favorite_count = 2196
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -58094,7 +58094,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 458
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59639,7 +59639,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5579
+  favorite_count = 5569
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -76243,7 +76243,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
 [[tweets]]
   created_at = 2016-08-25T21:58:43Z
