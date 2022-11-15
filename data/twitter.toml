@@ -24501,9 +24501,9 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 3003
+  favorite_count = 2999
   id = 1384591503650078723
-  retweet_count = 425
+  retweet_count = 424
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
 
   [tweets.entities]
@@ -26139,7 +26139,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37512
+  favorite_count = 37506
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -35351,7 +35351,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1868
+  favorite_count = 1865
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -50107,7 +50107,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2937
+  favorite_count = 2934
   id = 1165010087171280896
   retweet_count = 759
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -65678,7 +65678,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 107
+  favorite_count = 110
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69451,7 +69451,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -74416,7 +74416,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
