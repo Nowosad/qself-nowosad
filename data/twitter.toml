@@ -36158,7 +36158,7 @@
 
 [[tweets]]
   created_at = 2020-08-12T14:04:46Z
-  favorite_count = 232
+  favorite_count = 229
   id = 1293548986515824640
   retweet_count = 55
   text = "Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD"
@@ -40969,7 +40969,7 @@
 
 [[tweets]]
   created_at = 2020-04-04T14:10:02Z
-  favorite_count = 281
+  favorite_count = 278
   id = 1246439890029608960
   retweet_count = 61
   text = "The R climate package now allows for downloading Carbon Dioxide (CO2) monthly measurements from the Mauna Loa observatory.  Learn more about this package at https://t.co/8HdnFhr0Gn. #rstats #climate #climatology #meteorology https://t.co/UvZfS3ENHi"
@@ -58166,7 +58166,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 458
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59711,7 +59711,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5558
+  favorite_count = 5567
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -69492,7 +69492,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -74457,7 +74457,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "rstudio"
-      user_id = 235261861
+      user_id = 1559222681941078017
 
   [tweets.reply]
     status_id = 853649047080636416
