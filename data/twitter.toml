@@ -1,5 +1,37 @@
 
 [[tweets]]
+  created_at = 2022-11-17T07:56:15Z
+  favorite_count = 4
+  id = 1593151013372198912
+  retweet_count = 1
+  text = "RT @JosiahParry: @faineg Have you explored https://t.co/guApih1FV9 yet? Or spatial data science book too https://t.co/xyCAIjzzem"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "geocompr.robinlovelace.net"
+      expanded_url = "https://geocompr.robinlovelace.net"
+      url = "https://t.co/guApih1FV9"
+
+    [[tweets.entities.urls]]
+      display_url = "r-spatial.org/book/"
+      expanded_url = "https://r-spatial.org/book/"
+      url = "https://t.co/xyCAIjzzem"
+
+    [[tweets.entities.user_mentions]]
+      user = "JosiahParry"
+      user_id = 301687349
+
+    [[tweets.entities.user_mentions]]
+      user = "faineg"
+      user_id = 16602052
+
+  [tweets.retweet]
+    status_id = 1593082102983307264
+    user = "JosiahParry"
+    user_id = 301687349
+
+[[tweets]]
   created_at = 2022-11-15T21:11:06Z
   favorite_count = 40
   id = 1592626266238230530
@@ -220,9 +252,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6553
+  favorite_count = 6556
   id = 1589374569260933120
-  retweet_count = 1044
+  retweet_count = 1043
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -1560,9 +1592,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1300
+  favorite_count = 1303
   id = 1576838607498878976
-  retweet_count = 466
+  retweet_count = 467
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -35392,7 +35424,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1867
+  favorite_count = 1871
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -62675,7 +62707,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2760
+  favorite_count = 2766
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -69492,7 +69524,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
