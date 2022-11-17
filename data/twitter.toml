@@ -73,9 +73,9 @@
 
 [[tweets]]
   created_at = 2022-11-13T18:28:29Z
-  favorite_count = 11
+  favorite_count = 14
   id = 1591860568251846657
-  retweet_count = 5
+  retweet_count = 6
   text = "RT @npalomin: #30daysmapchallenge day 12 - Scale\n\nPowers of 10. Inspired by the film by Charles and Ray Eames (1977). Snapshots of side 10^2 to 10^7.\n\nChicago (original location)\n\n#RSpatial #RStats\npkgs: {basemaps, cowplot} https://t.co/epoLElYS7j"
 
   [tweets.entities]
@@ -26180,7 +26180,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37498
+  favorite_count = 37502
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29492,9 +29492,9 @@
 
 [[tweets]]
   created_at = 2020-12-18T15:03:21Z
-  favorite_count = 498
+  favorite_count = 495
   id = 1339949377545244673
-  retweet_count = 101
+  retweet_count = 100
   text = "RT @jakub_nowosad: I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -29584,7 +29584,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -31152,9 +31152,9 @@
 
 [[tweets]]
   created_at = 2020-11-18T15:30:45Z
-  favorite_count = 498
+  favorite_count = 495
   id = 1329084639374315525
-  retweet_count = 101
+  retweet_count = 100
   text = "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
