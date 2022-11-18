@@ -2261,7 +2261,7 @@
 
 [[tweets]]
   created_at = 2022-09-18T15:55:05Z
-  favorite_count = 1257
+  favorite_count = 1254
   id = 1571528242145763328
   retweet_count = 323
   text = "RT @Fcorowe: In the summer, I delivered a introductory course to geographic data science in #rspatial drawing on @darribas's excellent Python material. \n\nThe course is open (👌🏽cost ) ➡️ https://t.co/LL2U33Gj8U\nThe code & data are here: https://t.co/d5kbDXi7GU\n\n🧵1/n https://t.co/hH1xHK2LPA"
@@ -5673,9 +5673,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22822
+  favorite_count = 22819
   id = 1546126992168439808
-  retweet_count = 4900
+  retweet_count = 4901
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -13180,9 +13180,9 @@
 
 [[tweets]]
   created_at = 2021-12-14T07:49:38Z
-  favorite_count = 606
+  favorite_count = 603
   id = 1470662247970189312
-  retweet_count = 175
+  retweet_count = 172
   text = "RT @DanielNemenyi: An excellent human rights NGO just told me they \"removed the RSS feed since this technology became obsolete\"?!\n\nSubscribing to website updates directly + not via social media is crucial to resisting surveillance capitalism. RSS still does that, need an RSS fightback! #RSSaintdead"
 
   [tweets.entities]
@@ -35424,7 +35424,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1867
+  favorite_count = 1870
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -46642,7 +46642,7 @@
 
 [[tweets]]
   created_at = 2019-11-10T13:14:18Z
-  favorite_count = 301
+  favorite_count = 304
   id = 1193517237266788352
   retweet_count = 100
   text = "The cartography package by @rgeomatic\nis an alternative way to create maps in #rstats. You can learn more about it using its cheat sheet 📜at https://t.co/eKHVDsKn0E and vignette 📰at https://t.co/gI5zRjQw4k. #rspatial #dataviz https://t.co/lSqGoVNsVT"
@@ -58198,7 +58198,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59743,7 +59743,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5557
+  favorite_count = 5566
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -59971,9 +59971,9 @@
 
 [[tweets]]
   created_at = 2018-12-13T13:56:36Z
-  favorite_count = 610
+  favorite_count = 607
   id = 1073215110435532800
-  retweet_count = 212
+  retweet_count = 210
   text = "I am extremely proud to announce that Geocomputation with R (#geocompr) is complete. I wrote a blog post (https://t.co/hTHaRAyhXA) to share why we wrote an open source book, important information about extra materials and how to get involved. Many thanks to #Rstats and #rspatial! https://t.co/t5lzZVHTl1"
 
   [tweets.entities]
@@ -62707,7 +62707,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2763
+  favorite_count = 2767
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -69524,7 +69524,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 315
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -77912,9 +77912,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T21:53:45Z
-  favorite_count = 335
+  favorite_count = 332
   id = 578313367212941312
-  retweet_count = 398
+  retweet_count = 397
   text = "RT @AcademicsSay: I don't suffer from overthinking, I enjoy it. Depending on how you define enjoy. And overthinking."
 
   [tweets.entities]
