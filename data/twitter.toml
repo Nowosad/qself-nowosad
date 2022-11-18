@@ -33,9 +33,9 @@
 
 [[tweets]]
   created_at = 2022-11-15T21:11:06Z
-  favorite_count = 40
+  favorite_count = 43
   id = 1592626266238230530
-  retweet_count = 14
+  retweet_count = 15
   text = "RT @mkdyderski: Interested how #ClimateCrisis will affect future of European #forests? @appsilon prepared a great and useful visualization of our study in @GlobalChangeBio  - check the #FutureForest app and zoom into your site https://t.co/JzKyhG1gF1 https://t.co/o5Y6EDEJgk"
 
   [tweets.entities]
@@ -5673,9 +5673,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22823
+  favorite_count = 22822
   id = 1546126992168439808
-  retweet_count = 4903
+  retweet_count = 4900
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -26109,7 +26109,7 @@
 
 [[tweets]]
   created_at = 2021-03-04T15:14:06Z
-  favorite_count = 1286
+  favorite_count = 1283
   id = 1367493563001548801
   retweet_count = 356
   text = "RT @rgeomatic: New package {mapsf}: Thematic Cartography with R.\nIts aim is to be be lightweight, versatile and user-friendly. \n\nBlog post: https://t.co/yjHZuWcwDh\nCRAN: https://t.co/OP6X5B6MQo\nGitHub: https://t.co/F8XaTdCIyg\n\n#RStats #rspatial https://t.co/UHpTjN5j1z"
@@ -59743,7 +59743,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5554
+  favorite_count = 5557
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -60903,9 +60903,9 @@
 
 [[tweets]]
   created_at = 2018-11-27T15:35:13Z
-  favorite_count = 117
+  favorite_count = 114
   id = 1067441721863221249
-  retweet_count = 46
+  retweet_count = 45
   text = "Our work about global changes of landscapes is gaining a lot of attention. You can read about it in English (https://t.co/KkJxRjqrQ5), Spanish (https://t.co/I0Ohp0d0hB), German (https://t.co/GhYgBLBJtm), Italian (https://t.co/DwZfwEbePg), and Portuguese (https://t.co/uydYKsm07H). https://t.co/u15vrosFZx"
 
   [tweets.entities]
@@ -71967,9 +71967,9 @@
 
 [[tweets]]
   created_at = 2017-08-16T12:50:35Z
-  favorite_count = 527
+  favorite_count = 524
   id = 897802770119630849
-  retweet_count = 222
+  retweet_count = 221
   text = "RT @pdalgd: It was twenty years ago today, Ross Ihaka got the band to play.... \n#rstats https://t.co/msSpPz2kyA"
 
   [tweets.entities]
