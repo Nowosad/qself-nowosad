@@ -24574,7 +24574,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 2998
+  favorite_count = 3001
   id = 1384591503650078723
   retweet_count = 424
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -32491,7 +32491,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2197
+  favorite_count = 2194
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35424,7 +35424,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1871
+  favorite_count = 1867
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -39793,7 +39793,7 @@
 
 [[tweets]]
   created_at = 2020-05-01T06:17:18Z
-  favorite_count = 438
+  favorite_count = 435
   id = 1256105397393534977
   retweet_count = 95
   text = "RT @robinlovelace: Exciting news for anyone looking to speed up their data analysis code: working with @csgillespie on updating Efficient R Programming 🚀 For 4+ years it's been used by 1000s of ppl. Next up:  #community release. Feedback welcome:  https://t.co/ha9arFuzrG https://t.co/zpzaBahKP9"
@@ -58198,7 +58198,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 458
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59743,7 +59743,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5565
+  favorite_count = 5554
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -60073,7 +60073,7 @@
 
 [[tweets]]
   created_at = 2018-12-12T08:41:34Z
-  favorite_count = 180
+  favorite_count = 177
   id = 1072773441835679744
   retweet_count = 18
   text = "RT @hadleywickham: I've been using travis for quite some years, and this is still what my commit history looks like when trying to set up a new configuration https://t.co/phI0FTwNec"
@@ -60472,9 +60472,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2324
+  favorite_count = 2321
   id = 1070309959852806144
-  retweet_count = 1353
+  retweet_count = 1352
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -62707,7 +62707,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2766
+  favorite_count = 2763
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -69524,7 +69524,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 315
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
