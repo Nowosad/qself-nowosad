@@ -2159,7 +2159,7 @@
 
 [[tweets]]
   created_at = 2022-09-22T15:57:49Z
-  favorite_count = 426
+  favorite_count = 423
   id = 1572978484347080706
   retweet_count = 38
   text = "RT @activetraveleng: .@robinlovelace, a data scientist and lead developer of the Propensity to Cycle Tool, has been appointed as Active Travel England’s Interim Director of Data and Analysis📈👨‍🦽🚲🛴🚶‍♀️More here: https://t.co/LVMVErQ4uN #ActiveTravel #TransportData https://t.co/uYTj8g4lxF"
@@ -4613,7 +4613,7 @@
 
 [[tweets]]
   created_at = 2022-08-19T17:40:06Z
-  favorite_count = 51
+  favorite_count = 48
   id = 1560683036315975680
   retweet_count = 14
   text = "RT @TeslaDuBois: Hey #rspatial, what are my options for securely geocoding individual addresses in R without ever sending those addresses off my local machine?"
@@ -6907,9 +6907,9 @@
 
 [[tweets]]
   created_at = 2022-06-05T16:46:49Z
-  favorite_count = 2808
+  favorite_count = 2805
   id = 1533490538111959043
-  retweet_count = 502
+  retweet_count = 501
   text = "RT @BlakeRobMills: ✨✨ PACKAGE UPDATE ✨✨\nMetBrewer 0.2.0 is officially out 🥳 Available both on Cran and through my GitHub here: https://t.co/wYHMEKoJLH\n\nNew Palettes are out and some amazing new features. Full description of what has changed below :)\n\n#MetBrewer #rstats #r4ds #dataviz https://t.co/XU3q7h7ZJT"
 
   [tweets.entities]
@@ -12290,7 +12290,7 @@
 
 [[tweets]]
   created_at = 2022-01-16T10:09:22Z
-  favorite_count = 179
+  favorite_count = 176
   id = 1482656212810412035
   retweet_count = 47
   text = "RT @grant_mcdermott: New post: Fast geospatial tasks with data.table, geos & co.\nhttps://t.co/9JwbqHka8E"
@@ -17543,9 +17543,9 @@
 
 [[tweets]]
   created_at = 2021-09-13T19:50:04Z
-  favorite_count = 319
+  favorite_count = 316
   id = 1437503868817088513
-  retweet_count = 67
+  retweet_count = 66
   text = "RT @howardbutler: The #lidar community has lost a giant. I really enjoyed building things with you @LAStools."
 
   [tweets.entities]
@@ -26256,7 +26256,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37474
+  favorite_count = 37462
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -35468,7 +35468,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1870
+  favorite_count = 1866
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -58242,7 +58242,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59787,7 +59787,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5566
+  favorite_count = 5554
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62751,7 +62751,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2767
+  favorite_count = 2761
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
