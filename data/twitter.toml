@@ -296,9 +296,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6556
+  favorite_count = 6553
   id = 1589374569260933120
-  retweet_count = 1041
+  retweet_count = 1039
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -5717,9 +5717,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22819
+  favorite_count = 22821
   id = 1546126992168439808
-  retweet_count = 4901
+  retweet_count = 4905
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -11081,7 +11081,7 @@
 
 [[tweets]]
   created_at = 2022-02-12T18:16:49Z
-  favorite_count = 763
+  favorite_count = 760
   id = 1492563357693616132
   retweet_count = 256
   text = "RT @JacquelynGill: Roll-call for women in geoscience, climate change, paleontology/paleoecology, archaeology, and ecology! Introduce yourself in a comment, and feel free to drop a photo or links to your work. Let's connect and follow some new folks. #WomenInScience #WomeninScienceDay #WomenInSTEM"
@@ -11189,9 +11189,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3515
+  favorite_count = 3512
   id = 1490054004671496198
-  retweet_count = 594
+  retweet_count = 593
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -22383,7 +22383,7 @@
 
 [[tweets]]
   created_at = 2021-06-06T06:42:24Z
-  favorite_count = 118
+  favorite_count = 114
   id = 1401429247575613442
   retweet_count = 44
   text = "RT @fedora: The popular alternative tiling window manager @i3wm has a #Fedora 34 spin! Read more about it here in the Magazine: https://t.co/4l0x0N4pBz #opensource"
@@ -29660,7 +29660,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 306
+  favorite_count = 309
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -42145,7 +42145,7 @@
 
 [[tweets]]
   created_at = 2020-03-03T21:35:21Z
-  favorite_count = 49
+  favorite_count = 46
   id = 1234955546811346946
   retweet_count = 12
   text = "RT @sinarueeger: satRday Neuchâtel is still happening, but as a virtual conference!\n\nThis is an experiment, but one we are happy to tackle! Looking forward to seeing to what extent fancy web apps can replace an on-site conference!\n\nRegistration is now free: https://t.co/YH8fH4Mwmz https://t.co/PLVgJRiVnD"
@@ -51146,7 +51146,7 @@
 
 [[tweets]]
   created_at = 2019-08-08T06:18:34Z
-  favorite_count = 206
+  favorite_count = 209
   id = 1159348155311370242
   retweet_count = 61
   text = "RT @katiejolly6: I'm moving to Seattle soon and starting my job search! I'm a data scientist/geographer/statistician who uses GIS/R/Python. Interested in gov, urban planning, non-profit, etc., but open to options! I also💜info design. Would love ideas & pls share! CV: https://t.co/RA4X1sklPi"
@@ -58242,7 +58242,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59787,7 +59787,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5554
+  favorite_count = 5563
   id = 1076899899348799488
   retweet_count = 1590
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -65795,7 +65795,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -67610,7 +67610,7 @@
 
 [[tweets]]
   created_at = 2018-03-03T13:53:15Z
-  favorite_count = 1173
+  favorite_count = 1170
   id = 969933726825287685
   retweet_count = 420
   text = "RT @Emil_Hvitfeldt: Hey #stats community! I have spend some time organizing the various color palettes in R in one place https://t.co/cpNYEOeTF3 🌈  I hope you can use it and if I missed some please let me know!  #tidyverse https://t.co/xOC2na6MYr"
@@ -69568,7 +69568,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 314
+  favorite_count = 310
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -77974,7 +77974,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2434
+  favorite_count = 2431
   id = 578278362667458560
   retweet_count = 4267
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
