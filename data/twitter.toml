@@ -1,5 +1,50 @@
 
 [[tweets]]
+  created_at = 2022-11-20T13:29:34Z
+  id = 1594322059521310720
+  text = "@Fe_biologia Hi Fernanda, you encouraged me to make a list -- see https://t.co/E3SZp1NB7Y."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/jakub_nowosad/…"
+      expanded_url = "https://twitter.com/jakub_nowosad/status/1594321854524710914"
+      url = "https://t.co/E3SZp1NB7Y"
+
+    [[tweets.entities.user_mentions]]
+      user = "Fe_biologia"
+      user_id = 177319515
+
+  [tweets.reply]
+    status_id = 1593730015015112704
+    user = "Fe_biologia"
+    user_id = 177319515
+
+[[tweets]]
+  created_at = 2022-11-20T13:28:45Z
+  favorite_count = 20
+  id = 1594321854524710914
+  retweet_count = 7
+  text = "🧩Together with Antony Barja, we started compiling a list of Mastodon accounts of #rspatial developers and contributors.🧩\n\nYou can find it at https://t.co/0ubP9xV7wJ.\n\nContributions to this list are very welcome - add yourself and other people! \n\n#rstats #gitchat https://t.co/H6BScqv0Sx"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1594320805944598531
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiAqU3BXoAMgI7e.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1594320868607410179
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiAqYgdWQAMUKEg.png"
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/Nowosad/mastod…"
+      expanded_url = "https://github.com/Nowosad/mastodon-rspatial"
+      url = "https://t.co/0ubP9xV7wJ"
+
+[[tweets]]
   created_at = 2022-11-18T20:10:48Z
   favorite_count = 22
   id = 1593698256667770880
@@ -20273,7 +20318,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2293
+  favorite_count = 2290
   id = 1415715731648524290
   retweet_count = 218
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -26153,7 +26198,7 @@
 
 [[tweets]]
   created_at = 2021-03-04T15:14:06Z
-  favorite_count = 1283
+  favorite_count = 1280
   id = 1367493563001548801
   retweet_count = 356
   text = "RT @rgeomatic: New package {mapsf}: Thematic Cartography with R.\nIts aim is to be be lightweight, versatile and user-friendly. \n\nBlog post: https://t.co/yjHZuWcwDh\nCRAN: https://t.co/OP6X5B6MQo\nGitHub: https://t.co/F8XaTdCIyg\n\n#RStats #rspatial https://t.co/UHpTjN5j1z"
@@ -59787,9 +59832,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5551
+  favorite_count = 5547
   id = 1076899899348799488
-  retweet_count = 1590
+  retweet_count = 1589
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -60516,7 +60561,7 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2310
+  favorite_count = 2313
   id = 1070309959852806144
   retweet_count = 1352
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
@@ -62751,7 +62796,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2751
+  favorite_count = 2757
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65795,7 +65840,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -68988,9 +69033,9 @@
 
 [[tweets]]
   created_at = 2018-01-10T01:27:21Z
-  favorite_count = 127
+  favorite_count = 124
   id = 950901844838092800
-  retweet_count = 37
+  retweet_count = 36
   text = "RT @joshdeleeuw: I'm writing an analysis in R where data files are >100MB and therefore won't sync to GitHub easily, but want to distribute data with code. Solution? @OSFramework! Uploaded data files to PUBLIC project, and then use one line of R to load in analysis:"
 
   [tweets.entities]
