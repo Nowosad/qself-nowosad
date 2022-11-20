@@ -22,9 +22,9 @@
 
 [[tweets]]
   created_at = 2022-11-20T13:28:45Z
-  favorite_count = 20
+  favorite_count = 35
   id = 1594321854524710914
-  retweet_count = 7
+  retweet_count = 12
   text = "🧩Together with Antony Barja, we started compiling a list of Mastodon accounts of #rspatial developers and contributors.🧩\n\nYou can find it at https://t.co/0ubP9xV7wJ.\n\nContributions to this list are very welcome - add yourself and other people! \n\n#rstats #gitchat https://t.co/H6BScqv0Sx"
 
   [tweets.entities]
@@ -414,7 +414,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1869
+  favorite_count = 1866
   id = 1589187266991501313
   retweet_count = 324
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -2255,9 +2255,9 @@
 
 [[tweets]]
   created_at = 2022-09-22T10:37:31Z
-  favorite_count = 154
+  favorite_count = 151
   id = 1572897878716162049
-  retweet_count = 40
+  retweet_count = 39
   text = "RT @nyalldawson: Spent the last 2 days heads-down in a mini-hackfest with the ever-brilliant @mdsumner... among other great stuff we experimented with an interactive #RStats console inside #QGIS! I'm excited to see where we can take this 🤩 https://t.co/yInHo5vONM"
 
   [tweets.entities]
@@ -9760,7 +9760,7 @@
 
 [[tweets]]
   created_at = 2022-03-20T13:49:56Z
-  favorite_count = 136
+  favorite_count = 133
   id = 1505542158996185092
   retweet_count = 35
   text = "RT @JosiahParry: For my #rspatial folks! New package for ESDA and spatial statistics to work with your tidyverse-centric work flow. \n{sfdep} interfaces to {spdep} and introduces other statistics not found there or in Pysal. \nhttps://t.co/qYIwVQpuyR"
@@ -11234,7 +11234,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3502
+  favorite_count = 3499
   id = 1490054004671496198
   retweet_count = 593
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -14795,7 +14795,7 @@
 
 [[tweets]]
   created_at = 2021-11-08T18:46:50Z
-  favorite_count = 189
+  favorite_count = 186
   id = 1457781675052597248
   retweet_count = 31
   text = "RT @schochastics: Hello #rstats, #rspatial! I implemented a package that allows to draw sketchy maps based on any type of sf object! May come in handy for #30DayMapChallenge experiments🙂https://t.co/F8u7zXHkYk https://t.co/tYixyVIISo"
@@ -26301,7 +26301,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37397
+  favorite_count = 37388
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29705,7 +29705,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 306
+  favorite_count = 309
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -32072,7 +32072,7 @@
 
 [[tweets]]
   created_at = 2020-11-05T17:22:53Z
-  favorite_count = 645
+  favorite_count = 641
   id = 1324401816843493384
   retweet_count = 162
   text = "RT @spatialanalysis: Whatever the political outcome, cartography has been a real winner this election.\nFor the first time I feel that interactive maps have become as seamless as reading print.\nAs the last votes are counted, here's my highlights. 1/6 https://t.co/SpHSc1eLVI"
@@ -32922,7 +32922,7 @@
 
 [[tweets]]
   created_at = 2020-10-17T20:11:25Z
-  favorite_count = 852
+  favorite_count = 848
   id = 1317558856831127552
   retweet_count = 225
   text = "RT @mapserving: Happy 22nd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/Bcm47vGhcz"
@@ -42277,7 +42277,7 @@
 
 [[tweets]]
   created_at = 2020-03-01T12:36:59Z
-  favorite_count = 165
+  favorite_count = 162
   id = 1234095285191704576
   retweet_count = 33
   text = "RT @ma_salmon: New blog post! \"What to know before you adopt Hugo/blogdown\"\n\nFeaturing my two cents on maintaining a Hugo website 👩‍💻\n\nhttps://t.co/wPHUBgGTLm\n\n#rstats"
@@ -59832,7 +59832,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5547
+  favorite_count = 5544
   id = 1076899899348799488
   retweet_count = 1589
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -65840,7 +65840,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 107
+  favorite_count = 110
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -69613,7 +69613,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 313
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
