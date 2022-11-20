@@ -118,9 +118,9 @@
 
 [[tweets]]
   created_at = 2022-11-14T19:52:18Z
-  favorite_count = 28
+  favorite_count = 31
   id = 1592244049930768384
-  retweet_count = 22
+  retweet_count = 24
   text = "RT @hanna123987: We have an open position as a research associate @WWU_Muenster in the @BExplo_research project BEyond: AI-based mapping and explanation of grassland #biodiversity and ecosystem functions for entire landscape units.#remotesensing #machinelearning #rspatial. https://t.co/cUNbkyjefX"
 
   [tweets.entities]
@@ -296,9 +296,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6553
+  favorite_count = 6536
   id = 1589374569260933120
-  retweet_count = 1039
+  retweet_count = 1037
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -1659,7 +1659,7 @@
 
 [[tweets]]
   created_at = 2022-10-02T17:44:24Z
-  favorite_count = 281
+  favorite_count = 278
   id = 1576629183505207302
   retweet_count = 39
   text = "RT @kyle_e_walker: A US map in a tweet #rstats\n\nlibrary(tmap)\ntidycensus::get_acs(\n  geography = \"county\",\n  variables = \"B01002_001\",\n  geometry = T\n) |>\n  tigris::shift_geometry() |>\n  tm_shape() + \n  tm_fill(col = \"estimate\",\n          title = \"Median age\") + \n  tm_layout(legend.outside = T) https://t.co/TizEysTrCa"
@@ -3259,7 +3259,7 @@
 
 [[tweets]]
   created_at = 2022-08-30T13:48:12Z
-  favorite_count = 101
+  favorite_count = 98
   id = 1564610944017252352
   retweet_count = 33
   text = "RT @NickBearmanUK: After a very successful #FOSS4G I am very happy to confirm that #rspatial is now an OSGeo Community Project! Check out details at https://t.co/VRnPREojfR #rspatial @geospatial_r @OSGeo"
@@ -3971,7 +3971,7 @@
 
 [[tweets]]
   created_at = 2022-08-23T16:17:21Z
-  favorite_count = 560
+  favorite_count = 557
   id = 1562111761939140609
   retweet_count = 127
   text = "🚲Are you interested in spatial network analysis in R? Try the {sfnetworks} package and see the slides from the #FOSS4G2022 conference at https://t.co/ZOgeDUJlpi.🚲\n\n(Also: try yourself by solving {sfnetworks} challenges at https://t.co/oCyl3ERvzY)\n\n#rstats #rspatial #gischat https://t.co/qyJa7QjXtM"
@@ -5717,9 +5717,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22828
+  favorite_count = 22819
   id = 1546126992168439808
-  retweet_count = 4908
+  retweet_count = 4909
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -11081,7 +11081,7 @@
 
 [[tweets]]
   created_at = 2022-02-12T18:16:49Z
-  favorite_count = 763
+  favorite_count = 759
   id = 1492563357693616132
   retweet_count = 256
   text = "RT @JacquelynGill: Roll-call for women in geoscience, climate change, paleontology/paleoecology, archaeology, and ecology! Introduce yourself in a comment, and feel free to drop a photo or links to your work. Let's connect and follow some new folks. #WomenInScience #WomeninScienceDay #WomenInSTEM"
@@ -11189,7 +11189,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3512
+  favorite_count = 3505
   id = 1490054004671496198
   retweet_count = 593
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -13224,7 +13224,7 @@
 
 [[tweets]]
   created_at = 2021-12-14T07:49:38Z
-  favorite_count = 603
+  favorite_count = 599
   id = 1470662247970189312
   retweet_count = 172
   text = "RT @DanielNemenyi: An excellent human rights NGO just told me they \"removed the RSS feed since this technology became obsolete\"?!\n\nSubscribing to website updates directly + not via social media is crucial to resisting surveillance capitalism. RSS still does that, need an RSS fightback! #RSSaintdead"
@@ -14709,7 +14709,7 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5180
+  favorite_count = 5176
   id = 1458689506627014657
   retweet_count = 360
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
@@ -14943,7 +14943,7 @@
 
 [[tweets]]
   created_at = 2021-11-07T12:40:21Z
-  favorite_count = 149
+  favorite_count = 152
   id = 1457327059638923269
   retweet_count = 35
   text = "RT @dakvid: What's better than seeing awesome maps to inspire you? Seeing awesome maps with code so you can immediately reproduce and adapt! 😍\nFor my #30DayMapChallengeChallenge I present a gallery of #RStats / #RSpatial maps from #30DayMapChallenge with code: https://t.co/g4IkbsZa3Z https://t.co/9MMXeSrbnr"
@@ -17543,7 +17543,7 @@
 
 [[tweets]]
   created_at = 2021-09-13T19:50:04Z
-  favorite_count = 316
+  favorite_count = 312
   id = 1437503868817088513
   retweet_count = 66
   text = "RT @howardbutler: The #lidar community has lost a giant. I really enjoyed building things with you @LAStools."
@@ -18067,7 +18067,7 @@
 
 [[tweets]]
   created_at = 2021-09-03T13:48:15Z
-  favorite_count = 418
+  favorite_count = 415
   id = 1433788936615337985
   retweet_count = 106
   text = "🔥Announcement🔥\n\n@MartijnTennekes and I are working on a book!\n\nIt describes how to make elegant and informative maps with the {tmap} package.\n\nYou can find the current draft at https://t.co/xtqj7aoOJz. \n\n#rstats #rspatial #cartography https://t.co/1WkqcxuWvz"
@@ -20273,7 +20273,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2299
+  favorite_count = 2293
   id = 1415715731648524290
   retweet_count = 218
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -22246,7 +22246,7 @@
 
 [[tweets]]
   created_at = 2021-06-10T05:42:06Z
-  favorite_count = 499
+  favorite_count = 496
   id = 1402863622951522305
   retweet_count = 125
   text = "RT @edzerpebesma: sf 1.0-0, a.k.a. \"Round Earth\", just landed on CRAN. When your coordinates are ellipsoidal (\"long-lat\"), it uses by default a spherical geometry engine instead of the formerly used 2-D flat Earth engine. 1/6 https://t.co/5RKiWjOYy1"
@@ -24618,9 +24618,9 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 2998
+  favorite_count = 2993
   id = 1384591503650078723
-  retweet_count = 424
+  retweet_count = 423
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
 
   [tweets.entities]
@@ -26256,7 +26256,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37450
+  favorite_count = 37404
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -27249,7 +27249,7 @@
 
 [[tweets]]
   created_at = 2021-02-11T15:28:26Z
-  favorite_count = 408
+  favorite_count = 405
   id = 1359887025369985027
   retweet_count = 90
   text = "My new article describing {motif}, an #rstats package for pattern-based spatial analysis, was published at https://t.co/rhmDZneqph (preprint: https://t.co/Qt81pzHyR9).\n\nComplete code recreate examples in paper is available at https://t.co/KMDyZq4xdr.\n\n#rspatial #rstats #giscience https://t.co/tcqE3x0ArF"
@@ -28594,9 +28594,9 @@
 
 [[tweets]]
   created_at = 2021-01-19T20:13:30Z
-  favorite_count = 182
+  favorite_count = 179
   id = 1351623843186675714
-  retweet_count = 88
+  retweet_count = 87
   text = "RT @EvenRouault: Just launched my github sponsor page : https://t.co/ShyFO1aBn7"
 
   [tweets.entities]
@@ -32027,7 +32027,7 @@
 
 [[tweets]]
   created_at = 2020-11-05T17:22:53Z
-  favorite_count = 647
+  favorite_count = 642
   id = 1324401816843493384
   retweet_count = 162
   text = "RT @spatialanalysis: Whatever the political outcome, cartography has been a real winner this election.\nFor the first time I feel that interactive maps have become as seamless as reading print.\nAs the last votes are counted, here's my highlights. 1/6 https://t.co/SpHSc1eLVI"
@@ -32472,7 +32472,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 820
+  favorite_count = 816
   id = 1322224591750766594
   retweet_count = 314
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -32535,7 +32535,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2191
+  favorite_count = 2187
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -34226,7 +34226,7 @@
 
 [[tweets]]
   created_at = 2020-09-21T07:23:40Z
-  favorite_count = 125
+  favorite_count = 122
   id = 1307943562768789504
   retweet_count = 49
   text = "RT @patscli: Anyone interested in helping to push spatial modeling in #rstats forwards? \n\nWe have a proof of concept for speeding up raster predictions with {mlr3}: https://t.co/sLmurlIirx. \n\nWe’re lacking time though 🙄️\n\nPlease PM me if you’re interested!\n\n#rspatial"
@@ -34955,7 +34955,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1987
+  favorite_count = 1980
   id = 1302134558649995264
   retweet_count = 544
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35468,7 +35468,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1865
+  favorite_count = 1860
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37072,7 +37072,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 313
+  favorite_count = 309
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -37865,7 +37865,7 @@
 
 [[tweets]]
   created_at = 2020-06-28T20:09:00Z
-  favorite_count = 857
+  favorite_count = 854
   id = 1277333197144182784
   retweet_count = 231
   text = "RT @Em_The_Engineer: Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk"
@@ -37916,7 +37916,7 @@
 
 [[tweets]]
   created_at = 2020-06-25T08:58:31Z
-  favorite_count = 752
+  favorite_count = 749
   id = 1276077302137475072
   retweet_count = 157
   text = "RT @ClausWilke: Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1"
@@ -40715,7 +40715,7 @@
 
 [[tweets]]
   created_at = 2020-04-09T18:44:56Z
-  favorite_count = 37
+  favorite_count = 34
   id = 1248321011503837190
   retweet_count = 11
   text = "RT @MichaelDorman84: Been planning to do this for some time, and now done! Learning how to reproduce the 'raster::focal' and related #rspatial functions with the C API in #rstats\nhttps://t.co/anXBb8c71v https://t.co/EfK0KT8wFf"
@@ -46686,7 +46686,7 @@
 
 [[tweets]]
   created_at = 2019-11-10T13:14:18Z
-  favorite_count = 301
+  favorite_count = 304
   id = 1193517237266788352
   retweet_count = 100
   text = "The cartography package by @rgeomatic\nis an alternative way to create maps in #rstats. You can learn more about it using its cheat sheet 📜at https://t.co/eKHVDsKn0E and vignette 📰at https://t.co/gI5zRjQw4k. #rspatial #dataviz https://t.co/lSqGoVNsVT"
@@ -50224,7 +50224,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2932
+  favorite_count = 2928
   id = 1165010087171280896
   retweet_count = 759
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -50600,9 +50600,9 @@
 
 [[tweets]]
   created_at = 2019-08-14T09:15:20Z
-  favorite_count = 431
+  favorite_count = 428
   id = 1161566969142874112
-  retweet_count = 33
+  retweet_count = 32
   text = "RT @jcheng: If you’re wondering if this is the same book project I was working on, the answer is yes; I wrote Shiny, but had no fun writing about it! I couldn't be more excited to have @hadleywickham write the book on Shiny! 🚀 https://t.co/wD67Q62rpd"
 
   [tweets.entities]
@@ -60516,7 +60516,7 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2321
+  favorite_count = 2310
   id = 1070309959852806144
   retweet_count = 1352
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
@@ -62751,7 +62751,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2761
+  favorite_count = 2752
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65351,7 +65351,7 @@
 
 [[tweets]]
   created_at = 2018-05-14T15:26:10Z
-  favorite_count = 554
+  favorite_count = 551
   id = 996049035344703493
   retweet_count = 174
   text = "RT @topepos: Kjell and I are writing another book on predictive modeling, this time focused on all the things that you can do with predictors. It's about 60% done and we'd love to get feedback. Check it out at https://t.co/sU9nyCcSql #rstats #MachineLearning https://t.co/T1tVcZAmcL"
@@ -67610,7 +67610,7 @@
 
 [[tweets]]
   created_at = 2018-03-03T13:53:15Z
-  favorite_count = 1170
+  favorite_count = 1166
   id = 969933726825287685
   retweet_count = 420
   text = "RT @Emil_Hvitfeldt: Hey #stats community! I have spend some time organizing the various color palettes in R in one place https://t.co/cpNYEOeTF3 🌈  I hope you can use it and if I missed some please let me know!  #tidyverse https://t.co/xOC2na6MYr"
@@ -68756,7 +68756,7 @@
 
 [[tweets]]
   created_at = 2018-01-23T01:10:38Z
-  favorite_count = 39
+  favorite_count = 36
   id = 955608679641952256
   retweet_count = 15
   text = "RT @tslumley: Wednesday evenings in March. \nUniversity of Auckland. \nThe Ihaka Lectures are back!\nStarring @visnut, Paul Murrell, and @albertocairo https://t.co/LYAbk4AuYm"
@@ -72011,7 +72011,7 @@
 
 [[tweets]]
   created_at = 2017-08-16T12:50:35Z
-  favorite_count = 524
+  favorite_count = 520
   id = 897802770119630849
   retweet_count = 221
   text = "RT @pdalgd: It was twenty years ago today, Ross Ihaka got the band to play.... \n#rstats https://t.co/msSpPz2kyA"
@@ -76331,7 +76331,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1676
+  favorite_count = 1670
   id = 777942576099893248
   retweet_count = 918
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
