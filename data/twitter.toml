@@ -47,9 +47,9 @@
 
 [[tweets]]
   created_at = 2022-11-20T13:28:45Z
-  favorite_count = 72
+  favorite_count = 75
   id = 1594321854524710914
-  retweet_count = 24
+  retweet_count = 25
   text = "🧩Together with Antony Barja, we started compiling a list of Mastodon accounts of #rspatial developers and contributors.🧩\n\nYou can find it at https://t.co/0ubP9xV7wJ.\n\nContributions to this list are very welcome - add yourself and other people! \n\n#rstats #gitchat https://t.co/H6BScqv0Sx"
 
   [tweets.entities]
@@ -5787,9 +5787,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22807
+  favorite_count = 22802
   id = 1546126992168439808
-  retweet_count = 4907
+  retweet_count = 4906
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -20343,7 +20343,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2287
+  favorite_count = 2284
   id = 1415715731648524290
   retweet_count = 218
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -26326,7 +26326,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37357
+  favorite_count = 37353
   id = 1367166556501925891
   retweet_count = 2945
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29730,7 +29730,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -31488,7 +31488,7 @@
 
 [[tweets]]
   created_at = 2020-11-16T15:56:31Z
-  favorite_count = 230
+  favorite_count = 227
   id = 1328366345847791621
   retweet_count = 64
   text = "RT @rgeomatic: New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J"
@@ -62821,7 +62821,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2752
+  favorite_count = 2746
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
