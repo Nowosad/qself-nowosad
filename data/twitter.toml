@@ -23,9 +23,9 @@
 
 [[tweets]]
   created_at = 2022-11-20T13:28:45Z
-  favorite_count = 54
+  favorite_count = 58
   id = 1594321854524710914
-  retweet_count = 19
+  retweet_count = 20
   text = "🧩Together with Antony Barja, we started compiling a list of Mastodon accounts of #rspatial developers and contributors.🧩\n\nYou can find it at https://t.co/0ubP9xV7wJ.\n\nContributions to this list are very welcome - add yourself and other people! \n\n#rstats #gitchat https://t.co/H6BScqv0Sx"
 
   [tweets.entities]
@@ -342,7 +342,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6530
+  favorite_count = 6525
   id = 1589374569260933120
   retweet_count = 1037
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -14755,7 +14755,7 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5170
+  favorite_count = 5167
   id = 1458689506627014657
   retweet_count = 360
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
@@ -19152,7 +19152,7 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2226
+  favorite_count = 2223
   id = 1427711108668874752
   retweet_count = 747
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
@@ -52002,9 +52002,9 @@
 
 [[tweets]]
   created_at = 2019-07-20T14:39:52Z
-  favorite_count = 304
+  favorite_count = 301
   id = 1152588943440920576
-  retweet_count = 28
+  retweet_count = 27
   text = "RT @kierisi: OK sure, so @jrosenberg6432, @RyanEs, @ebovee09, and @ivelasq3 I have been writing a book, but today we signed an actual publishing contract, which means this is really happening! \n\nSo if Data Science in Education with R is your jam, we might be able to help you out 😉 https://t.co/aVDu7r7hnH"
 
   [tweets.entities]
@@ -60562,7 +60562,7 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2313
+  favorite_count = 2309
   id = 1070309959852806144
   retweet_count = 1352
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
@@ -69614,7 +69614,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 313
+  favorite_count = 309
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -76525,7 +76525,7 @@
 
 [[tweets]]
   created_at = 2016-08-15T23:20:40Z
-  favorite_count = 1064
+  favorite_count = 1060
   id = 765327379116032000
   retweet_count = 916
   text = "RT @AlbertoCairo: Don't trust summary statistics. Always visualize your data first https://t.co/63RxirsTuY https://t.co/5j94Dw9UAf"
@@ -78020,7 +78020,7 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2423
+  favorite_count = 2426
   id = 578278362667458560
   retweet_count = 4264
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
