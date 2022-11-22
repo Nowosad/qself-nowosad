@@ -14779,7 +14779,7 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5167
+  favorite_count = 5164
   id = 1458689506627014657
   retweet_count = 360
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
@@ -35538,7 +35538,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1861
+  favorite_count = 1864
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -38119,7 +38119,7 @@
 
 [[tweets]]
   created_at = 2020-06-18T06:43:17Z
-  favorite_count = 198
+  favorite_count = 195
   id = 1273506554130640896
   retweet_count = 57
   text = "RT @toeb18: Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7"
@@ -46756,7 +46756,7 @@
 
 [[tweets]]
   created_at = 2019-11-10T13:14:18Z
-  favorite_count = 304
+  favorite_count = 301
   id = 1193517237266788352
   retweet_count = 100
   text = "The cartography package by @rgeomatic\nis an alternative way to create maps in #rstats. You can learn more about it using its cheat sheet 📜at https://t.co/eKHVDsKn0E and vignette 📰at https://t.co/gI5zRjQw4k. #rspatial #dataviz https://t.co/lSqGoVNsVT"
@@ -58312,7 +58312,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59857,7 +59857,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5539
+  favorite_count = 5546
   id = 1076899899348799488
   retweet_count = 1589
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62821,7 +62821,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2746
+  favorite_count = 2752
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65421,7 +65421,7 @@
 
 [[tweets]]
   created_at = 2018-05-14T15:26:10Z
-  favorite_count = 548
+  favorite_count = 551
   id = 996049035344703493
   retweet_count = 174
   text = "RT @topepos: Kjell and I are writing another book on predictive modeling, this time focused on all the things that you can do with predictors. It's about 60% done and we'd love to get feedback. Check it out at https://t.co/sU9nyCcSql #rstats #MachineLearning https://t.co/T1tVcZAmcL"
