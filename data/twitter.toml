@@ -439,7 +439,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1863
+  favorite_count = 1866
   id = 1589187266991501313
   retweet_count = 324
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -33555,7 +33555,7 @@
 
 [[tweets]]
   created_at = 2020-10-03T11:03:26Z
-  favorite_count = 283
+  favorite_count = 280
   id = 1312347524511027201
   retweet_count = 48
   text = "RT @ethanblinck: very impressed with tmap, an R package for mapping and spatial data visualization I only learned existed an hour ago: https://t.co/JK2vXF6qTQ https://t.co/rrIE61cRXM"
@@ -35538,7 +35538,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1864
+  favorite_count = 1861
   id = 1299086851484061699
   retweet_count = 680
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
