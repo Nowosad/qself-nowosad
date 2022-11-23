@@ -16006,7 +16006,7 @@
 
 [[tweets]]
   created_at = 2021-10-09T08:40:17Z
-  favorite_count = 734
+  favorite_count = 731
   id = 1446757398308401160
   retweet_count = 187
   text = "RT @maps4thought: New (academic) year, new repo! I am moving my #RStats #DataScience reproducible teaching materials to a new repo and more book-looking website: R for Geographic Data Science. 🧑‍💻📖🌍\n\nStill very much a work in progress, but have a look at the draft! 😊👇\n\nhttps://t.co/sob1pvF7iv https://t.co/kFMLMoofQ5"
@@ -35569,7 +35569,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1866
+  favorite_count = 1863
   id = 1299086851484061699
   retweet_count = 679
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -39613,9 +39613,9 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 614
+  favorite_count = 610
   id = 1258796175077015552
-  retweet_count = 136
+  retweet_count = 134
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
 
   [tweets.entities]
@@ -62852,7 +62852,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2752
+  favorite_count = 2747
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -75924,7 +75924,7 @@
 
 [[tweets]]
   created_at = 2016-10-04T20:04:51Z
-  favorite_count = 31
+  favorite_count = 28
   id = 783397490666135552
   retweet_count = 8
   text = "RT @xieyihui: @hadleywickham @ericJpedersen @rstudio There is an option knitr::opts_knit$set(root.dir = \"YourDir\"). Also a pkg https://t.co/KtNt7gBsFp"
@@ -77606,7 +77606,7 @@
 
 [[tweets]]
   created_at = 2015-11-19T09:09:18Z
-  favorite_count = 135
+  favorite_count = 132
   id = 667268401295937536
   retweet_count = 52
   text = "RT @phydyn: #rstudio features from @hadleywickham talk\n\nduplicate opt+cmd+up/down arrow\nmultiple cursors ctrl+opt+up/down arrow https://t.co/3ri2dGeHvN"
@@ -78075,9 +78075,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2423
+  favorite_count = 2422
   id = 578278362667458560
-  retweet_count = 4262
+  retweet_count = 4259
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
