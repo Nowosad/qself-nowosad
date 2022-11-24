@@ -1,5 +1,33 @@
 
 [[tweets]]
+  created_at = 2022-11-24T07:56:26Z
+  favorite_count = 301
+  id = 1595687775013146625
+  retweet_count = 89
+  text = "RT @jakub_nowosad: Inset maps enable multiple places to be shown in the same geographic data visualization. They can be easily created in #rstats using the #ggplot2 package. You can read how to make them in a blog post at https://t.co/3fdQqeEadk. #geocompr #viz #rspatial https://t.co/c2dn7tskya"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1203668200598261760
+      type = "photo"
+      url = "https://pbs.twimg.com/media/ELRJ2eQX0AABJI7.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "geocompr.github.io/post/2019/ggpl…"
+      expanded_url = "https://geocompr.github.io/post/2019/ggplot2-inset-maps/"
+      url = "https://t.co/3fdQqeEadk"
+
+    [[tweets.entities.user_mentions]]
+      user = "jakub_nowosad"
+      user_id = 2810559039
+
+  [tweets.retweet]
+    status_id = 1203668208022151169
+    user = "jakub_nowosad"
+    user_id = 2810559039
+
+[[tweets]]
   created_at = 2022-11-22T09:09:42Z
   favorite_count = 27
   id = 1594981435844198400
@@ -32636,7 +32664,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2183
+  favorite_count = 2186
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35569,7 +35597,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1863
+  favorite_count = 1866
   id = 1299086851484061699
   retweet_count = 679
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -39613,7 +39641,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 611
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 134
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -45633,9 +45661,9 @@
 
 [[tweets]]
   created_at = 2019-12-08T13:30:38Z
-  favorite_count = 296
+  favorite_count = 301
   id = 1203668208022151169
-  retweet_count = 88
+  retweet_count = 89
   text = "Inset maps enable multiple places to be shown in the same geographic data visualization. They can be easily created in #rstats using the #ggplot2 package. You can read how to make them in a blog post at https://t.co/3fdQqeEadk. #geocompr #viz #rspatial https://t.co/c2dn7tskya"
 
   [tweets.entities]
@@ -58343,7 +58371,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59888,7 +59916,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5530
+  favorite_count = 5539
   id = 1076899899348799488
   retweet_count = 1589
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -69669,7 +69697,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 308
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
