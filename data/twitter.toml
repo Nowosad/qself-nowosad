@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-24T14:12:52Z
-  favorite_count = 103
+  favorite_count = 112
   id = 1595782506707652613
-  retweet_count = 17
+  retweet_count = 18
   text = "{sabre} is an R package for calculating a degree of spatial association between regionalizations or categorical maps.\n\nLearn more:\n\n- paper: https://t.co/DTHteeyDrM\n- vignette: https://t.co/6fD6mnKt6I\n- blog post: https://t.co/5yjcax8FQ5\n\n#rstats #rspatial https://t.co/poUxqZbv6v"
 
   [tweets.entities]
@@ -11347,9 +11347,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3496
+  favorite_count = 3494
   id = 1490054004671496198
-  retweet_count = 593
+  retweet_count = 590
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -29759,7 +29759,7 @@
 
 [[tweets]]
   created_at = 2020-12-17T09:31:46Z
-  favorite_count = 160
+  favorite_count = 157
   id = 1339503543519219713
   retweet_count = 38
   text = "RT @AchimZeileis: New in @jstatsoft: Manipulating and assessing colors and palettes with #rstats pkg #colorspace\n#jstatsoft #dataviz #endrainbow #hclwizard\n\nBy @AchimZeileis, Jason Fisher, Kurt Hornik, Ross Ihaka, @clairemcwhite, Paul Murrell, @RetoStauffer2, @ClausWilke\n\nhttps://t.co/bRKctSSy0i https://t.co/2c7yKqmTfj"
@@ -29818,7 +29818,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -39670,7 +39670,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 611
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 134
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -50382,7 +50382,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2922
+  favorite_count = 2925
   id = 1165010087171280896
   retweet_count = 759
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -69726,7 +69726,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 307
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
