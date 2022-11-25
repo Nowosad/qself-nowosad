@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-24T14:12:52Z
-  favorite_count = 79
+  favorite_count = 92
   id = 1595782506707652613
-  retweet_count = 13
+  retweet_count = 16
   text = "{sabre} is an R package for calculating a degree of spatial association between regionalizations or categorical maps.\n\nLearn more:\n\n- paper: https://t.co/DTHteeyDrM\n- vignette: https://t.co/6fD6mnKt6I\n- blog post: https://t.co/5yjcax8FQ5\n\n#rstats #rspatial https://t.co/poUxqZbv6v"
 
   [tweets.entities]
@@ -7489,9 +7489,9 @@
 
 [[tweets]]
   created_at = 2022-05-27T23:48:36Z
-  favorite_count = 256
+  favorite_count = 253
   id = 1530335191956340736
-  retweet_count = 74
+  retweet_count = 73
   text = "RT @opengeohub: We are building an Open Soil Data Cube for Europe at 30m spatial resolution covering 2000-2020+. Read more about how to access and use data: https://t.co/c6qXnBkdHZ. If you are at #LPS22 come and see our talk today / test using the soil data. #OpenData #SoilHealth #rspatial https://t.co/FbBifFfwFm"
 
   [tweets.entities]
@@ -8749,9 +8749,9 @@
 
 [[tweets]]
   created_at = 2022-04-25T15:25:00Z
-  favorite_count = 166
+  favorite_count = 163
   id = 1518612042655186948
-  retweet_count = 31
+  retweet_count = 30
   text = "RT @MilesMcBain: A bit of how and why regarding making vector tiles and mapping them with #rstats #rspatial\n\nhttps://t.co/TNY3qhLQb3"
 
   [tweets.entities]
