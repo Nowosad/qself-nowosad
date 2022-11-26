@@ -27,7 +27,7 @@
 
 [[tweets]]
   created_at = 2022-11-25T14:25:56Z
-  favorite_count = 61
+  favorite_count = 67
   id = 1596148183650172928
   retweet_count = 4
   text = "A degree of spatial association between regionalizations or categorical maps can also be calculated using:\n\n1. Python: see the https://t.co/pboqWiPUK8_comparison module -- https://t.co/8OXMNovapp\n2. ArcGIS: https://t.co/BFmp6zr6Jo\n\n#gischat #geopython https://t.co/6U8TPCUCIM"
@@ -19324,9 +19324,9 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2220
+  favorite_count = 2217
   id = 1427711108668874752
-  retweet_count = 747
+  retweet_count = 746
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
 
   [tweets.entities]
@@ -24885,9 +24885,9 @@
 
 [[tweets]]
   created_at = 2021-04-18T15:01:16Z
-  favorite_count = 385
+  favorite_count = 382
   id = 1383797787825827840
-  retweet_count = 101
+  retweet_count = 102
   text = "RT @dr_xeo: The average temperature of 24 hours in January 2020 with the day/night cycle. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/NA5haUlnie"
 
   [tweets.entities]
@@ -25574,7 +25574,7 @@
   created_at = 2021-03-23T19:38:44Z
   favorite_count = 1507
   id = 1374445529703145475
-  retweet_count = 445
+  retweet_count = 442
   text = "RT @dr_xeo: I couldn't resist making a detailed European animation of the idea from @ZLabe. The average temperature of 24 hours in August 2020. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/cZcGLcZU9b"
 
   [tweets.entities]
@@ -35686,7 +35686,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1860
+  favorite_count = 1863
   id = 1299086851484061699
   retweet_count = 679
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -39730,7 +39730,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 614
+  favorite_count = 611
   id = 1258796175077015552
   retweet_count = 134
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -58460,7 +58460,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60005,7 +60005,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5535
+  favorite_count = 5525
   id = 1076899899348799488
   retweet_count = 1588
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -69786,7 +69786,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 307
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
