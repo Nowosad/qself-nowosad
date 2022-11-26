@@ -11407,7 +11407,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3494
+  favorite_count = 3491
   id = 1490054004671496198
   retweet_count = 590
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -35686,7 +35686,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1860
+  favorite_count = 1866
   id = 1299086851484061699
   retweet_count = 678
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36230,9 +36230,9 @@
 
 [[tweets]]
   created_at = 2020-08-15T21:27:51Z
-  favorite_count = 361
+  favorite_count = 358
   id = 1294747659782311938
-  retweet_count = 53
+  retweet_count = 51
   text = "RT @drob: I've become a huge fan of the sf package's tidy approach to spatial data, and @emdodwell is giving a terrific tutorial + case study 🗺️🌎 #rstatsnyc https://t.co/B9yjujkkUq"
 
   [tweets.entities]
@@ -37290,7 +37290,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 306
+  favorite_count = 309
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -60734,7 +60734,7 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2309
+  favorite_count = 2306
   id = 1070309959852806144
   retweet_count = 1352
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
@@ -62969,7 +62969,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2750
+  favorite_count = 2745
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -76549,7 +76549,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1664
+  favorite_count = 1667
   id = 777942576099893248
   retweet_count = 916
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
