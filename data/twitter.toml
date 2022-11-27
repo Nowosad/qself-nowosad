@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-26T18:44:02Z
-  favorite_count = 19
+  favorite_count = 26
   id = 1596575522795954177
   retweet_count = 9
   text = "RT @krzysztof_dyba: In recent years there has been a huge technological leap in remote sensing. Do you have any thoughts on the current state of RS in R (packages, workflow, learning)?\nI started a thread here: https://t.co/kSOwtijcha\n\n#rspatial #gischat"
@@ -24,7 +24,7 @@
 
 [[tweets]]
   created_at = 2022-11-26T18:43:47Z
-  favorite_count = 27
+  favorite_count = 36
   id = 1596575461424758784
   retweet_count = 8
   text = "RT @JosiahParry: Dang! @RogerBivand and @edzerpebesma spilling the tea! \n\n🫖🍵\n\nBoth Tobler _and_ John Snow are over-hyped!!\n\nhttps://t.co/fgmpwiXi9b\n#rspatial #gischat https://t.co/1GRJArsGGy"
@@ -16324,7 +16324,7 @@
 
 [[tweets]]
   created_at = 2021-10-06T14:15:16Z
-  favorite_count = 148
+  favorite_count = 145
   id = 1445754536417632257
   retweet_count = 35
   text = "‼️Geocomputation with R, ed.2: progress report ‼️\n\nThe coordinate reference systems section is now updated to be up-to-date with the changes in PROJ and R packages.\n\nYou can read it already at https://t.co/VMGHXSl16D.\n\n#rspatial #rstats https://t.co/MbbrcRP6hm"
@@ -21767,7 +21767,7 @@
 
 [[tweets]]
   created_at = 2021-06-17T14:31:04Z
-  favorite_count = 92
+  favorite_count = 89
   id = 1405533457321627662
   retweet_count = 26
   text = "There are many different spatial classes implemented in #rstats packages ({sp},{sf},{stars},{raster},{terra}). Gladly, it is easy to move from one representation to the other!\n\nTo learn why this is important and how to do it, read  https://t.co/wYBKs0PjRP.\n\n#rspatial #geocompr https://t.co/6zDNPOnNnw"
@@ -26533,7 +26533,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37303
+  favorite_count = 37297
   id = 1367166556501925891
   retweet_count = 2944
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -28143,7 +28143,7 @@
 
 [[tweets]]
   created_at = 2021-02-02T16:31:24Z
-  favorite_count = 53
+  favorite_count = 50
   id = 1356641376599965702
   retweet_count = 15
   text = "My presentation about pattern-based spatial analysis will be tomorrow at 7AM (New York), 12PM (London), 1PM (Berlin).\n\nLearn more how to join us at https://t.co/v2NpFCaa0e.\n\n#spatialpatterns #giscience @GIScience_RGS https://t.co/A7urbHgG7z"
@@ -33263,7 +33263,7 @@
 
 [[tweets]]
   created_at = 2020-10-11T05:48:34Z
-  favorite_count = 66
+  favorite_count = 63
   id = 1315167387013074951
   retweet_count = 23
   text = "RT @dickoah: Rapid and reproducible flood and damage mapping in the Sahel using #rstats #rspatial \nhttps://t.co/axlSuaOS3x"
@@ -35305,7 +35305,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 250
+  favorite_count = 247
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -38142,9 +38142,9 @@
 
 [[tweets]]
   created_at = 2020-06-28T20:09:00Z
-  favorite_count = 854
+  favorite_count = 851
   id = 1277333197144182784
-  retweet_count = 231
+  retweet_count = 230
   text = "RT @Em_The_Engineer: Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk"
 
   [tweets.entities]
@@ -48735,7 +48735,7 @@
 
 [[tweets]]
   created_at = 2019-09-26T15:25:32Z
-  favorite_count = 287
+  favorite_count = 284
   id = 1177242808564015106
   retweet_count = 85
   text = "RT @robinlovelace: Interested in spatial networks? New blog post by @LuukvanderMeer, @loreabad6 and me on the topic is finally published 🚀\nhttps://t.co/JJyUE6kTeN\n\nResults from research visit with @edzerpebesma back in January, thanks for hosting! https://t.co/cEPfNf53Dw"
@@ -50501,7 +50501,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2922
+  favorite_count = 2919
   id = 1165010087171280896
   retweet_count = 759
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -58519,7 +58519,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60064,7 +60064,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5536
+  favorite_count = 5526
   id = 1076899899348799488
   retweet_count = 1588
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63028,7 +63028,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2750
+  favorite_count = 2745
   id = 1039472133481615360
   retweet_count = 1046
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -76756,9 +76756,9 @@
 
 [[tweets]]
   created_at = 2016-08-15T23:20:40Z
-  favorite_count = 1060
+  favorite_count = 1063
   id = 765327379116032000
-  retweet_count = 916
+  retweet_count = 915
   text = "RT @AlbertoCairo: Don't trust summary statistics. Always visualize your data first https://t.co/63RxirsTuY https://t.co/5j94Dw9UAf"
 
   [tweets.entities]
