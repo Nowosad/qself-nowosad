@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-26T18:44:02Z
-  favorite_count = 40
+  favorite_count = 44
   id = 1596575522795954177
   retweet_count = 12
   text = "RT @krzysztof_dyba: In recent years there has been a huge technological leap in remote sensing. Do you have any thoughts on the current state of RS in R (packages, workflow, learning)?\nI started a thread here: https://t.co/kSOwtijcha\n\n#rspatial #gischat"
@@ -24,9 +24,9 @@
 
 [[tweets]]
   created_at = 2022-11-26T18:43:47Z
-  favorite_count = 36
+  favorite_count = 40
   id = 1596575461424758784
-  retweet_count = 8
+  retweet_count = 9
   text = "RT @JosiahParry: Dang! @RogerBivand and @edzerpebesma spilling the tea! \n\n🫖🍵\n\nBoth Tobler _and_ John Snow are over-hyped!!\n\nhttps://t.co/fgmpwiXi9b\n#rspatial #gischat https://t.co/1GRJArsGGy"
 
   [tweets.entities]
@@ -38439,7 +38439,7 @@
 
 [[tweets]]
   created_at = 2020-06-16T13:04:30Z
-  favorite_count = 294
+  favorite_count = 291
   id = 1272877714266034186
   retweet_count = 91
   text = "RT @loreabad6: We welcomed sfnetworks v0.3.0 \"Gievenbeck\" (https://t.co/8g5uaxEqbo) with a webinar on Tidy Geospatial Networks in R today.  Thank you panelist and participants!\n\nIf you missed it, slides are here: https://t.co/hiqbD9Jrik\n\nSee you this afternoon for the hackathon! https://t.co/Rf8UhdtEW8"
@@ -78889,9 +78889,9 @@
 
 [[tweets]]
   created_at = 2014-11-08T18:10:50Z
-  favorite_count = 172
+  favorite_count = 170
   id = 531146844093816833
-  retweet_count = 241
+  retweet_count = 238
   text = "RT @abt_programming: \"New data format:  The Oxford CSV.  Each line is comma delimited until the last two items, which are 'and' delimited\" - @zapjackson"
 
   [tweets.entities]
