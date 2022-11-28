@@ -42,9 +42,9 @@
 
 [[tweets]]
   created_at = 2022-11-27T16:28:56Z
-  favorite_count = 258
+  favorite_count = 269
   id = 1596903911600050176
-  retweet_count = 64
+  retweet_count = 65
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Statistical Learning chapter is now based on the {mlr3} packages' framework.\n\nWant to learn more about a (spatial) prediction of landslides, visit https://t.co/BSKKlMk3fm.\n\n#rstats #rspatial #geocompr https://t.co/43pwDLVq8N"
 
   [tweets.entities]
@@ -6069,9 +6069,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22766
+  favorite_count = 22771
   id = 1546126992168439808
-  retweet_count = 4899
+  retweet_count = 4900
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -22679,9 +22679,9 @@
 
 [[tweets]]
   created_at = 2021-06-07T06:39:34Z
-  favorite_count = 157
+  favorite_count = 154
   id = 1401790921532973057
-  retweet_count = 38
+  retweet_count = 37
   text = "RT @icymi_r: 📦🔤 wordcountaddin • Word counts and readability statistics in R markdown documents\n\n👤 Ben Marwick @benmarwick  \n\n🔗 https://t.co/0r66wvU0Zl\n#rstats #datascience https://t.co/xWRmlJkxiz"
 
   [tweets.entities]
@@ -32887,7 +32887,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2180
+  favorite_count = 2183
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -58594,7 +58594,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60139,9 +60139,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5535
+  favorite_count = 5525
   id = 1076899899348799488
-  retweet_count = 1587
+  retweet_count = 1586
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -63103,7 +63103,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2747
+  favorite_count = 2743
   id = 1039472133481615360
   retweet_count = 1041
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -69920,7 +69920,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 311
+  favorite_count = 307
   id = 943139611584417792
   retweet_count = 246
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
