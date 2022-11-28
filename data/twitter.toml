@@ -42,9 +42,9 @@
 
 [[tweets]]
   created_at = 2022-11-27T16:28:56Z
-  favorite_count = 186
+  favorite_count = 221
   id = 1596903911600050176
-  retweet_count = 45
+  retweet_count = 54
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Statistical Learning chapter is now based on the {mlr3} packages' framework.\n\nWant to learn more about a (spatial) prediction of landslides, visit https://t.co/BSKKlMk3fm.\n\n#rstats #rspatial #geocompr https://t.co/43pwDLVq8N"
 
   [tweets.entities]
@@ -353,7 +353,7 @@
 
 [[tweets]]
   created_at = 2022-11-18T20:10:48Z
-  favorite_count = 22
+  favorite_count = 25
   id = 1593698256667770880
   retweet_count = 5
   text = "RT @robinlovelace: First successful change, git commit and push, all from within @github Codespaces 🎉 Thanks to @underdarkGIS, @MichaelDorman84 and @jakub_nowosad for great learning experience. Reproducible example, quarto preview in terminal (let us know if it works): https://t.co/uTs2MrxNGr https://t.co/e731lUhjvx"
@@ -29920,9 +29920,9 @@
 
 [[tweets]]
   created_at = 2020-12-18T15:03:21Z
-  favorite_count = 495
+  favorite_count = 498
   id = 1339949377545244673
-  retweet_count = 100
+  retweet_count = 102
   text = "RT @jakub_nowosad: I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -31580,9 +31580,9 @@
 
 [[tweets]]
   created_at = 2020-11-18T15:30:45Z
-  favorite_count = 495
+  favorite_count = 498
   id = 1329084639374315525
-  retweet_count = 100
+  retweet_count = 102
   text = "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -32887,7 +32887,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2180
+  favorite_count = 2183
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35820,9 +35820,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1858
+  favorite_count = 1863
   id = 1299086851484061699
-  retweet_count = 678
+  retweet_count = 677
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -63103,9 +63103,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2743
+  favorite_count = 2747
   id = 1039472133481615360
-  retweet_count = 1042
+  retweet_count = 1041
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -66147,7 +66147,7 @@
 
 [[tweets]]
   created_at = 2018-04-20T12:54:48Z
-  favorite_count = 110
+  favorite_count = 107
   id = 987313634144608262
   retweet_count = 40
   text = "How to compare two categorical maps? Using SABRE -  the Spatial Association Between REgionalizations method. See our #rstats package at https://t.co/ElJmlU2BPQ and the paper at https://t.co/DTHteeyDrM #openscience @EarthArXiv #sil https://t.co/9xVP20OINF"
@@ -70248,9 +70248,9 @@
 
 [[tweets]]
   created_at = 2017-12-13T22:16:55Z
-  favorite_count = 166
+  favorite_count = 164
   id = 941069448768901126
-  retweet_count = 305
+  retweet_count = 302
   text = "RT @polesasunder: Hey ecologists: I'm actively looking for my next postdoc contract now! I'm passionate about invertebrate community ecology, especially predicting how communities respond to changing environments. I love #rstats and speak 🇧🇷/🇫🇷/🇬🇧\nhttps://t.co/T1OPeQ6Uhb\npls RT!"
 
   [tweets.entities]
@@ -78326,9 +78326,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2419
+  favorite_count = 2416
   id = 578278362667458560
-  retweet_count = 4249
+  retweet_count = 4246
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
