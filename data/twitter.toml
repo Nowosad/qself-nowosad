@@ -42,9 +42,9 @@
 
 [[tweets]]
   created_at = 2022-11-27T16:28:56Z
-  favorite_count = 221
+  favorite_count = 243
   id = 1596903911600050176
-  retweet_count = 54
+  retweet_count = 62
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Statistical Learning chapter is now based on the {mlr3} packages' framework.\n\nWant to learn more about a (spatial) prediction of landslides, visit https://t.co/BSKKlMk3fm.\n\n#rstats #rspatial #geocompr https://t.co/43pwDLVq8N"
 
   [tweets.entities]
@@ -99,7 +99,7 @@
 
 [[tweets]]
   created_at = 2022-11-26T18:43:47Z
-  favorite_count = 44
+  favorite_count = 47
   id = 1596575461424758784
   retweet_count = 9
   text = "RT @JosiahParry: Dang! @RogerBivand and @edzerpebesma spilling the tea! \n\n🫖🍵\n\nBoth Tobler _and_ John Snow are over-hyped!!\n\nhttps://t.co/fgmpwiXi9b\n#rspatial #gischat https://t.co/1GRJArsGGy"
@@ -11541,9 +11541,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3491
+  favorite_count = 3492
   id = 1490054004671496198
-  retweet_count = 590
+  retweet_count = 587
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -15061,7 +15061,7 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5161
+  favorite_count = 5158
   id = 1458689506627014657
   retweet_count = 360
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
@@ -28367,7 +28367,7 @@
 
 [[tweets]]
   created_at = 2021-01-31T17:07:27Z
-  favorite_count = 136
+  favorite_count = 133
   id = 1355925677049061383
   retweet_count = 27
   text = "RT @CedScherer: 📢 How the Identification of Communication Hubs Helps to Solve Cheetah-Farmer Conflicts in Namibia\" 👨‍🌾🐄🐆\n\nMy contribution to the \"MoveMap\" contest by @BES_Move_SIG 🗺️🐾\n\nProject: https://t.co/aPETEETLgY\nPublication: https://t.co/SeMB3l4yQp\n\n💯 #ggplot2 💯 #rstats 💯 #rspatial https://t.co/C61gIdf5PX"
@@ -30012,7 +30012,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -35307,7 +35307,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1977
+  favorite_count = 1980
   id = 1302134558649995264
   retweet_count = 543
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
