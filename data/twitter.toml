@@ -648,7 +648,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6516
+  favorite_count = 6513
   id = 1589374569260933120
   retweet_count = 1034
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -10690,9 +10690,9 @@
 
 [[tweets]]
   created_at = 2022-02-23T18:23:14Z
-  favorite_count = 1860
+  favorite_count = 1858
   id = 1496551239571673094
-  retweet_count = 403
+  retweet_count = 400
   text = "RT @MartijnTennekes: **Anouncement** New R package for colors 𝗰𝗼𝗹𝘀𝟰𝗮𝗹𝗹 #RStats https://t.co/fBs9smfekJ"
 
   [tweets.entities]
@@ -15740,7 +15740,7 @@
 
 [[tweets]]
   created_at = 2021-10-28T13:56:15Z
-  favorite_count = 149
+  favorite_count = 146
   id = 1453722281264377865
   retweet_count = 42
   text = "What, in your opinion, have been the most important #rspatial changes in the last 3-4 years?\n\nIt will be used for the history section of #geocompr -https://t.co/CjcXgcaZI5.\n\nSome ideas: {stars}, {terra}, {rayshader}, {ggspatial}, PROJ, and s2. What else I am missing?\n\n#rstats https://t.co/6nO5rni28P"
@@ -32887,7 +32887,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2179
+  favorite_count = 2183
   id = 1319740736372355072
   retweet_count = 806
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -33229,9 +33229,9 @@
 
 [[tweets]]
   created_at = 2020-10-17T20:11:25Z
-  favorite_count = 848
+  favorite_count = 849
   id = 1317558856831127552
-  retweet_count = 225
+  retweet_count = 222
   text = "RT @mapserving: Happy 22nd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/Bcm47vGhcz"
 
   [tweets.entities]
@@ -35173,7 +35173,7 @@
   created_at = 2020-09-06T13:28:04Z
   favorite_count = 28
   id = 1302599447403286532
-  retweet_count = 23
+  retweet_count = 20
   text = "RT @rOpenSci: 🥁 Proud to release the rOpenSci Community Contributing Guide v0.1.0 by @StefanieButland & @steffilazerte\n\nhttps://t.co/2xbs4EAiLF\n\n#RStats https://t.co/f2a1Xz5Bpq"
 
   [tweets.entities]
@@ -35820,7 +35820,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1861
+  favorite_count = 1864
   id = 1299086851484061699
   retweet_count = 677
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -58594,7 +58594,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60139,7 +60139,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5524
+  favorite_count = 5533
   id = 1076899899348799488
   retweet_count = 1585
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63103,7 +63103,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2744
+  favorite_count = 2749
   id = 1039472133481615360
   retweet_count = 1041
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -69920,7 +69920,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 307
+  favorite_count = 311
   id = 943139611584417792
   retweet_count = 245
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -72595,9 +72595,9 @@
 
 [[tweets]]
   created_at = 2017-08-05T15:31:38Z
-  favorite_count = 53
+  favorite_count = 54
   id = 893857031442104320
-  retweet_count = 64
+  retweet_count = 61
   text = "RT @rOpenSci: [blog] Announcing the rOpenSci Fellowships Program https://t.co/4lgCMUR0yQ Application deadline Sept 1, 2017 #rstats #useR2017"
 
   [tweets.entities]
