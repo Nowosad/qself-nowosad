@@ -648,7 +648,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6513
+  favorite_count = 6510
   id = 1589374569260933120
   retweet_count = 1034
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -2657,9 +2657,9 @@
 
 [[tweets]]
   created_at = 2022-09-18T15:55:05Z
-  favorite_count = 1254
+  favorite_count = 1251
   id = 1571528242145763328
-  retweet_count = 323
+  retweet_count = 322
   text = "RT @Fcorowe: In the summer, I delivered a introductory course to geographic data science in #rspatial drawing on @darribas's excellent Python material. \n\nThe course is open (👌🏽cost ) ➡️ https://t.co/LL2U33Gj8U\nThe code & data are here: https://t.co/d5kbDXi7GU\n\n🧵1/n https://t.co/hH1xHK2LPA"
 
   [tweets.entities]
@@ -11541,9 +11541,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3492
+  favorite_count = 3489
   id = 1490054004671496198
-  retweet_count = 587
+  retweet_count = 588
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
