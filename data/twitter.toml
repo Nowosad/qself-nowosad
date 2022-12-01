@@ -1,5 +1,33 @@
 
 [[tweets]]
+  created_at = 2022-12-01T18:45:14Z
+  favorite_count = 95
+  id = 1598387764034240514
+  retweet_count = 13
+  text = "RT @darwinanddavis: As always, here's all #rstats code for my #30DayMapChallenge 2022 maps - sf, projections, ggplot layouts, isochrones, osm, #rayshader & leaflet + HTML/CSS styling #rspatial  \n\nGithub, code & hires maps ⬇️\nhttps://t.co/mhS4EAxkkO https://t.co/lgSJOwFdNS"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1598263538035744770
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fi4sOEoUYAI8Xk6.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/darwinanddavis…"
+      expanded_url = "https://github.com/darwinanddavis/worldmaps"
+      url = "https://t.co/mhS4EAxkkO"
+
+    [[tweets.entities.user_mentions]]
+      user = "darwinanddavis"
+      user_id = 2905624932
+
+  [tweets.retweet]
+    status_id = 1598263916416487424
+    user = "darwinanddavis"
+    user_id = 2905624932
+
+[[tweets]]
   created_at = 2022-11-30T13:32:07Z
   favorite_count = 7
   id = 1597946578761052160
@@ -716,9 +744,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6513
+  favorite_count = 6512
   id = 1589374569260933120
-  retweet_count = 1034
+  retweet_count = 1031
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -1346,7 +1374,7 @@
 
 [[tweets]]
   created_at = 2022-10-24T17:38:26Z
-  favorite_count = 25
+  favorite_count = 22
   id = 1584600215675281408
   retweet_count = 9
   text = "RT @MikeMahoney218: New version of {waywiser} hit CRAN this weekend!\n\nNew function ww_area_of_applicability() calculates the AOA of a model (https://t.co/NhTwj8LMBT) and works out of the box with rsample objects!\n\nDocs: https://t.co/zVhGZav1oW\nCode: https://t.co/sBEkB5c4Sg\n#rstats #rspatial #gischat"
@@ -6137,9 +6165,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22760
+  favorite_count = 22757
   id = 1546126992168439808
-  retweet_count = 4894
+  retweet_count = 4893
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -11609,7 +11637,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3489
+  favorite_count = 3486
   id = 1490054004671496198
   retweet_count = 588
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -32892,7 +32920,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 816
+  favorite_count = 813
   id = 1322224591750766594
   retweet_count = 314
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -32955,9 +32983,9 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2180
+  favorite_count = 2174
   id = 1319740736372355072
-  retweet_count = 806
+  retweet_count = 805
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
 
   [tweets.entities]
@@ -35375,9 +35403,9 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1980
+  favorite_count = 1977
   id = 1302134558649995264
-  retweet_count = 542
+  retweet_count = 541
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
 
   [tweets.entities]
@@ -35888,7 +35916,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1862
+  favorite_count = 1857
   id = 1299086851484061699
   retweet_count = 676
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36764,7 +36792,7 @@
 
 [[tweets]]
   created_at = 2020-08-09T16:25:03Z
-  favorite_count = 306
+  favorite_count = 303
   id = 1292497129848610818
   retweet_count = 74
   text = "RT @Em_The_Engineer: It's another #GeospatialSundays! Want to explore color palettes for your maps in R? Well, you can call palette_explorer, a shiny app that allows you to do so! This app will even simulate color-blind visualizations and provide the code to produce such color palettes! #rspatial https://t.co/aiHLpXRFuA"
@@ -50644,9 +50672,9 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2919
+  favorite_count = 2914
   id = 1165010087171280896
-  retweet_count = 759
+  retweet_count = 758
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
 
   [tweets.entities]
