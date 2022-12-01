@@ -42,9 +42,9 @@
 
 [[tweets]]
   created_at = 2022-11-30T13:30:57Z
-  favorite_count = 179
+  favorite_count = 185
   id = 1597946284371243008
-  retweet_count = 26
+  retweet_count = 28
   text = "RT @darwinanddavis: #30DayMapChallenge 2022 - Sharing all #R code for maps, so like/follow and reach out w/ qu's\n\nDay 30 - Remix\n\nFrom our Visual Stories Team's coverage of Aus flooding this year @theage Working w/ gov, our journos & my talented team. Made w #rstats #rspatial #rayshader\n\nR code ⬇️ https://t.co/8EZEVynBBF"
 
   [tweets.entities]
@@ -32447,9 +32447,9 @@
 
 [[tweets]]
   created_at = 2020-11-05T17:22:53Z
-  favorite_count = 641
+  favorite_count = 638
   id = 1324401816843493384
-  retweet_count = 162
+  retweet_count = 161
   text = "RT @spatialanalysis: Whatever the political outcome, cartography has been a real winner this election.\nFor the first time I feel that interactive maps have become as seamless as reading print.\nAs the last votes are counted, here's my highlights. 1/6 https://t.co/SpHSc1eLVI"
 
   [tweets.entities]
@@ -55427,9 +55427,9 @@
 
 [[tweets]]
   created_at = 2019-05-31T09:47:03Z
-  favorite_count = 680
+  favorite_count = 682
   id = 1134395861037920258
-  retweet_count = 404
+  retweet_count = 401
   text = "RT @simongerman600: EU countries from A-Z: power generation by source from 2000 to 2018. Lots of additional renewables (lots of hydro and wind) went on the grid in the last few years. Source: https://t.co/KUEX75dj7g https://t.co/1ZmVNPOjjj"
 
   [tweets.entities]
