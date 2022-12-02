@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-01T18:45:14Z
-  favorite_count = 162
+  favorite_count = 167
   id = 1598387764034240514
   retweet_count = 22
   text = "RT @darwinanddavis: As always, here's all #rstats code for my #30DayMapChallenge 2022 maps - sf, projections, ggplot layouts, isochrones, osm, #rayshader & leaflet + HTML/CSS styling #rspatial  \n\nGithub, code & hires maps ⬇️\nhttps://t.co/mhS4EAxkkO https://t.co/lgSJOwFdNS"
@@ -1275,7 +1275,7 @@
 
 [[tweets]]
   created_at = 2022-10-27T17:31:08Z
-  favorite_count = 76
+  favorite_count = 73
   id = 1585685541210800128
   retweet_count = 22
   text = "RT @geobrenning: It's published: \"Spatial #MachineLearning model diagnostics: a model-agnostic distance-based approach\". Summary in my blog https://t.co/CeUBqhebut full paper @ijgis: https://t.co/dnmk4ivkMk  #RStats #RSpatial #gischat https://t.co/3zwBorKyOA"
@@ -2371,7 +2371,7 @@
 
 [[tweets]]
   created_at = 2022-10-02T12:09:08Z
-  favorite_count = 259
+  favorite_count = 256
   id = 1576544812714848257
   retweet_count = 41
   text = "RT @robinlovelace: Really happy with this: have just reproduced the entirety of Geocomputation with R inside a 'devcontainer' with VS Code. It works 🎉 \nA small step on the #geocompr journey, a giant leap for reproducibility + accessibility! #RSpatial #DataScience https://t.co/NOA4grh7X8"
@@ -3600,7 +3600,7 @@
 
 [[tweets]]
   created_at = 2022-08-30T16:40:13Z
-  favorite_count = 307
+  favorite_count = 304
   id = 1564654232841719810
   retweet_count = 59
   text = "RT @martinfleis: I'll be teaching \"Introduction to GeoPandas and its Python ecosystem\" this Wednesday at 11:00 Berlin time at @opengeohub Summer School.\n\nIt will be streamed online 👉 https://t.co/4V5CbVVbbt\n\nJoin us!"
@@ -3665,9 +3665,9 @@
 
 [[tweets]]
   created_at = 2022-08-30T13:48:16Z
-  favorite_count = 202
+  favorite_count = 199
   id = 1564610958407892995
-  retweet_count = 58
+  retweet_count = 57
   text = "RT @robinlovelace: This is fantastic! Finally after ~2years of comms the #rspatial community is part of the @OSGeo family 😻\n\nShiny new page: https://t.co/aWG0Yrt3w6\nDetails+discussion+how2 get involved: https://t.co/018CcB5wuv\nTagging ppl, spread the word! #RStats #gischat https://t.co/TGKafrWFRJ https://t.co/jqzs4b5gif"
 
   [tweets.entities]
@@ -4343,7 +4343,7 @@
 
 [[tweets]]
   created_at = 2022-08-24T12:37:57Z
-  favorite_count = 144
+  favorite_count = 141
   id = 1562418936754364417
   retweet_count = 81
   text = "Next week (28th Aug-4 Sep), the OpenGeoHub Summer School 2022 is happening! The program is packed with many #geospatial tutorials.\n\nImportantly -- the lectures will be live-streamed at https://t.co/IvGrYvkRhY.\n\nMore info: https://t.co/5V3fLsTJNg\n\nShare widely!\n\n#rspatial #python https://t.co/MYsPesBuI5"
@@ -4579,7 +4579,7 @@
 
 [[tweets]]
   created_at = 2022-08-22T14:27:32Z
-  favorite_count = 30
+  favorite_count = 27
   id = 1561721736739045376
   retweet_count = 8
   text = "The last #rstats and #rspatial workshop at #FOSS4G2022 today:\n\nModernizing the R-GRASS interface\n\nBy @RogerBivand \n\n@GRASSGIS https://t.co/pZYV5j5eZd"
@@ -5185,9 +5185,9 @@
 
 [[tweets]]
   created_at = 2022-08-14T17:15:20Z
-  favorite_count = 29
+  favorite_count = 26
   id = 1558864864805797890
-  retweet_count = 12
+  retweet_count = 11
   text = "RT @MikeMahoney218: Retweeting this for visibility -- what are people's favorite resources for learning spatial analytics? Would be nice to be #rspatial / #rstats but I don't think that's a requirement\n\n#gischat https://t.co/VbHJNuVH0o"
 
   [tweets.entities]
@@ -5771,7 +5771,7 @@
 
 [[tweets]]
   created_at = 2022-07-23T20:08:42Z
-  favorite_count = 107
+  favorite_count = 104
   id = 1550935961646911488
   retweet_count = 24
   text = "RT @RogerBivand: The rgrass package for interfacing R and GRASS has been published on CRAN #rspatial #grassgis. It is the 4th such package (most recent rgrass7); further details at https://t.co/PvvpFvvCrH. Builds for Windows and macOS to follow. https://t.co/JaJvJpms2m"
@@ -6165,9 +6165,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22749
+  favorite_count = 22752
   id = 1546126992168439808
-  retweet_count = 4892
+  retweet_count = 4893
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -6760,7 +6760,7 @@
 
 [[tweets]]
   created_at = 2022-06-24T20:14:36Z
-  favorite_count = 211
+  favorite_count = 208
   id = 1540428196117565440
   retweet_count = 54
   text = "RT @humus_rocks: 🚨 New blog post (first in ~2 years!)\n\nMusing on #Rstats {terra}📦for direct download of #GoogleEarthEngine images! Exploiting the REST API via GDAL \"EEDAI\" raster driver. No Python or JavaScript required--access GEE data with R+GDAL!\n#Rspatial #gischat \nhttps://t.co/wyINe6knX5 https://t.co/agq0BWSRQv"
@@ -11637,7 +11637,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3486
+  favorite_count = 3483
   id = 1490054004671496198
   retweet_count = 588
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -15336,9 +15336,9 @@
 
 [[tweets]]
   created_at = 2021-11-07T16:24:22Z
-  favorite_count = 233
+  favorite_count = 230
   id = 1457383434037366788
-  retweet_count = 56
+  retweet_count = 55
   text = "Have you ever used  `getData()` from the {raster} package?\n\nDo you know that its successor exists in a new package - {geodata} - access to climate, elevation, soil, species occurrence, and administrative boundary data?\n\nLearn more at https://t.co/MGAZPvqAsM.\n\n#rstats #rspatial https://t.co/wwyuuXcOWz"
 
   [tweets.entities]
@@ -17144,7 +17144,7 @@
 
 [[tweets]]
   created_at = 2021-09-28T08:47:03Z
-  favorite_count = 61
+  favorite_count = 58
   id = 1442772831750721536
   retweet_count = 15
   text = "I will talk about \"Generalizing the Simple Linear Iterative Clustering (SLIC) superpixels\" during the @GIScience_conf conference. \n\nYou can find my slides at https://t.co/fQ9gcA9qmL.\n\nRelated short paper is at https://t.co/S45L6IvTK1.\n\n#giscience2021 #rspatial #giscience https://t.co/t4MZY7b3Vb"
@@ -17991,9 +17991,9 @@
 
 [[tweets]]
   created_at = 2021-09-13T19:50:04Z
-  favorite_count = 312
+  favorite_count = 309
   id = 1437503868817088513
-  retweet_count = 66
+  retweet_count = 65
   text = "RT @howardbutler: The #lidar community has lost a giant. I really enjoyed building things with you @LAStools."
 
   [tweets.entities]
@@ -18515,7 +18515,7 @@
 
 [[tweets]]
   created_at = 2021-09-03T13:48:15Z
-  favorite_count = 412
+  favorite_count = 409
   id = 1433788936615337985
   retweet_count = 106
   text = "🔥Announcement🔥\n\n@MartijnTennekes and I are working on a book!\n\nIt describes how to make elegant and informative maps with the {tmap} package.\n\nYou can find the current draft at https://t.co/xtqj7aoOJz. \n\n#rstats #rspatial #cartography https://t.co/1WkqcxuWvz"
@@ -23976,7 +23976,7 @@
 
 [[tweets]]
   created_at = 2021-05-09T17:36:08Z
-  favorite_count = 200
+  favorite_count = 197
   id = 1391446904622436354
   retweet_count = 60
   text = "RT @hansakwast: New video: How to use #RStats in #QGIS using the Processing R Provider plugin and adding scripts through the Resource Sharing plugin. https://t.co/19uNHZPnuz"
@@ -26208,8 +26208,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/yobuY9sjX2"
-      expanded_url = "https://t.co/yobuY9sjX2"
+      display_url = "twitter.com/kwinkunks/stat…"
+      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26704,9 +26704,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37261
+  favorite_count = 37264
   id = 1367166556501925891
-  retweet_count = 2934
+  retweet_count = 2933
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -27837,9 +27837,9 @@
 
 [[tweets]]
   created_at = 2021-02-10T15:17:42Z
-  favorite_count = 311
+  favorite_count = 308
   id = 1359521932606124033
-  retweet_count = 113
+  retweet_count = 112
   text = "RT @KenSteif: So excited/terrified to share my new #rspatial #rstats book 'Public Policy Analytics: Code & Context for #DataScience in Government' from @CRCPress.\n\nLet me tell you about it!\n\nThe book is reproducible & open source: https://t.co/1rnu8NgyaQ\n\nPre-order too! https://t.co/eDelIawdpn https://t.co/NxTzen8bKy"
 
   [tweets.entities]
@@ -28146,7 +28146,7 @@
 
 [[tweets]]
   created_at = 2021-02-07T21:49:00Z
-  favorite_count = 102
+  favorite_count = 99
   id = 1358533246141796358
   retweet_count = 19
   text = "RT @TimSalabim3: #rstats #rspatial After a day of coding and loss of some hair, this is now available in {leafem}. Not exported yet, so use leafem:::addReactiveFeatures for now. left click to show, right click to hide. Needs common column to match features. Code here \nhttps://t.co/VgSE5jmlwA https://t.co/gR73Yw0094 https://t.co/ygebwnaMHQ"
@@ -28988,7 +28988,7 @@
 
 [[tweets]]
   created_at = 2021-01-20T15:16:36Z
-  favorite_count = 171
+  favorite_count = 168
   id = 1351911513058111489
   retweet_count = 42
   text = "RT @dav_zim: Was missing a comparison of different map projections, simply created one using @thomasp85 gganimate, loving the outcome (except for one or two artifacts). #rstats #rspatial https://t.co/bugzbRetLk"
@@ -30016,7 +30016,7 @@
 
 [[tweets]]
   created_at = 2020-12-18T15:03:21Z
-  favorite_count = 498
+  favorite_count = 495
   id = 1339949377545244673
   retweet_count = 102
   text = "RT @jakub_nowosad: I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
@@ -30108,7 +30108,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 309
+  favorite_count = 305
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -31676,7 +31676,7 @@
 
 [[tweets]]
   created_at = 2020-11-18T15:30:45Z
-  favorite_count = 498
+  favorite_count = 495
   id = 1329084639374315525
   retweet_count = 102
   text = "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
@@ -32920,7 +32920,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 816
+  favorite_count = 813
   id = 1322224591750766594
   retweet_count = 314
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33457,7 +33457,7 @@
 
 [[tweets]]
   created_at = 2020-10-11T05:48:05Z
-  favorite_count = 174
+  favorite_count = 171
   id = 1315167267097804800
   retweet_count = 48
   text = "RT @paleolimbot: More @qgis -- #rstats magic! Thanks to @cahik13 for pushing functional and pipe-friendly representations, and to Jannes Muenchow for pushing explicit default value handling! https://t.co/SApE7GUUdg #rspatial https://t.co/gYxIO5JZTL"
@@ -41294,7 +41294,7 @@
 
 [[tweets]]
   created_at = 2020-04-07T18:55:08Z
-  favorite_count = 138
+  favorite_count = 135
   id = 1247598800908230656
   retweet_count = 40
   text = "RT @lbusetto74: Our new article about the #sen2r #rstats package for download and preprocessing of Sentinel-2 time series has been accepted, and is now online on Computers and Geosciences! Free access for 50 days  at https://t.co/6OkTRck1kI"
@@ -43924,7 +43924,7 @@
 
 [[tweets]]
   created_at = 2020-01-30T12:45:51Z
-  favorite_count = 63
+  favorite_count = 60
   id = 1222863493109571584
   retweet_count = 11
   text = "RT @MapScaping: A podcast for the geospatial community! @TimSalabim3 talks about his journey with the programmer language R from beginner to developer and why it is a valid choice for #geospatial #rstata listen here : https://t.co/UaFgvDkMm6 https://t.co/SmTWa82LcH"
@@ -49043,7 +49043,7 @@
 
 [[tweets]]
   created_at = 2019-09-22T10:30:18Z
-  favorite_count = 97
+  favorite_count = 94
   id = 1175718959695503360
   retweet_count = 36
   text = "RT @TimSalabim3: #rstats #rspatial people, in case you're interested in visualising global geographic data on an interactive globe and feel like helping out, please join the discussion at https://t.co/LE1ZXY7r4X"
@@ -58690,7 +58690,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 452
+  favorite_count = 456
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60235,7 +60235,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5521
+  favorite_count = 5531
   id = 1076899899348799488
   retweet_count = 1585
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -60703,7 +60703,7 @@
 
 [[tweets]]
   created_at = 2018-12-09T07:25:18Z
-  favorite_count = 146
+  favorite_count = 143
   id = 1071667084151701505
   retweet_count = 26
   text = "RT @allison_horst: personifyr::sf [be a space wrangler]. #rstats https://t.co/HehHARwM3E"
@@ -60964,9 +60964,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2305
+  favorite_count = 2309
   id = 1070309959852806144
-  retweet_count = 1346
+  retweet_count = 1345
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -70016,7 +70016,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 309
   id = 943139611584417792
   retweet_count = 245
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
