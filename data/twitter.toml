@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-01T18:45:14Z
-  favorite_count = 178
+  favorite_count = 181
   id = 1598387764034240514
   retweet_count = 22
   text = "RT @darwinanddavis: As always, here's all #rstats code for my #30DayMapChallenge 2022 maps - sf, projections, ggplot layouts, isochrones, osm, #rayshader & leaflet + HTML/CSS styling #rspatial  \n\nGithub, code & hires maps ⬇️\nhttps://t.co/mhS4EAxkkO https://t.co/lgSJOwFdNS"
@@ -6165,9 +6165,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22750
+  favorite_count = 22752
   id = 1546126992168439808
-  retweet_count = 4890
+  retweet_count = 4893
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -25066,7 +25066,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 2980
+  favorite_count = 2983
   id = 1384591503650078723
   retweet_count = 420
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
@@ -26208,8 +26208,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26704,7 +26704,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37257
+  favorite_count = 37254
   id = 1367166556501925891
   retweet_count = 2934
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -58690,7 +58690,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 452
+  favorite_count = 456
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60235,7 +60235,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5521
+  favorite_count = 5532
   id = 1076899899348799488
   retweet_count = 1585
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -60964,9 +60964,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2309
+  favorite_count = 2306
   id = 1070309959852806144
-  retweet_count = 1345
+  retweet_count = 1344
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -63199,7 +63199,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2745
+  favorite_count = 2738
   id = 1039472133481615360
   retweet_count = 1037
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
