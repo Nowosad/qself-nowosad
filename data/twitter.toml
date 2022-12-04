@@ -6165,9 +6165,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22754
+  favorite_count = 22751
   id = 1546126992168439808
-  retweet_count = 4889
+  retweet_count = 4888
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -26704,7 +26704,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37255
+  favorite_count = 37252
   id = 1367166556501925891
   retweet_count = 2933
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -36071,7 +36071,7 @@
 
 [[tweets]]
   created_at = 2020-08-25T15:21:27Z
-  favorite_count = 641
+  favorite_count = 638
   id = 1298279327084285953
   retweet_count = 130
   text = "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY"
@@ -78424,7 +78424,7 @@
   created_at = 2015-03-18T19:34:40Z
   favorite_count = 2413
   id = 578278362667458560
-  retweet_count = 4239
+  retweet_count = 4236
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
