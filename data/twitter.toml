@@ -70,7 +70,7 @@
 
 [[tweets]]
   created_at = 2022-11-30T13:30:57Z
-  favorite_count = 188
+  favorite_count = 191
   id = 1597946284371243008
   retweet_count = 29
   text = "RT @darwinanddavis: #30DayMapChallenge 2022 - Sharing all #R code for maps, so like/follow and reach out w/ qu's\n\nDay 30 - Remix\n\nFrom our Visual Stories Team's coverage of Aus flooding this year @theage Working w/ gov, our journos & my talented team. Made w #rstats #rspatial #rayshader\n\nR code ⬇️ https://t.co/8EZEVynBBF"
@@ -2084,9 +2084,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1306
+  favorite_count = 1309
   id = 1576838607498878976
-  retweet_count = 467
+  retweet_count = 468
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -24614,7 +24614,7 @@
 
 [[tweets]]
   created_at = 2021-05-02T07:28:36Z
-  favorite_count = 104
+  favorite_count = 101
   id = 1388757300425416704
   retweet_count = 17
   text = "RT @paleolimbot: In addition to fixing a long-standing bug that kept the #rstats--@qgis connector from working reliably on Windows (100% thanks to @GaborCsardi!), the qgisprocess 📦 now has raster::CRS/sf::st_bbox (PR by @cahik13) and stars 📦 support! https://t.co/F0J5bvDWWO"
@@ -26704,7 +26704,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37250
+  favorite_count = 37255
   id = 1367166556501925891
   retweet_count = 2933
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -63199,7 +63199,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2739
+  favorite_count = 2745
   id = 1039472133481615360
   retweet_count = 1037
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
