@@ -11531,7 +11531,7 @@
   created_at = 2022-02-12T18:16:49Z
   favorite_count = 757
   id = 1492563357693616132
-  retweet_count = 253
+  retweet_count = 250
   text = "RT @JacquelynGill: Roll-call for women in geoscience, climate change, paleontology/paleoecology, archaeology, and ecology! Introduce yourself in a comment, and feel free to drop a photo or links to your work. Let's connect and follow some new folks. #WomenInScience #WomeninScienceDay #WomenInSTEM"
 
   [tweets.entities]
@@ -11637,7 +11637,7 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3483
+  favorite_count = 3480
   id = 1490054004671496198
   retweet_count = 588
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
@@ -26704,9 +26704,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37252
+  favorite_count = 37247
   id = 1367166556501925891
-  retweet_count = 2933
+  retweet_count = 2932
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -63725,9 +63725,9 @@
 
 [[tweets]]
   created_at = 2018-08-24T07:22:39Z
-  favorite_count = 460
+  favorite_count = 458
   id = 1032890917114523648
-  retweet_count = 141
+  retweet_count = 138
   text = "RT @mbrcalles: During my PhD I made the switch to do all spatial work in R and how I wish I had \"Geocomputation in R\" earlier. What a fantastic resource, I really can't recommend it enough https://t.co/V3PEsEcFqm @robinlovelace"
 
   [tweets.entities]
