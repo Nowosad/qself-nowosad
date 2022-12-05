@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-05T14:55:17Z
-  favorite_count = 28
+  favorite_count = 38
   id = 1599779449117241344
-  retweet_count = 9
+  retweet_count = 10
   text = "Did you know that now you can visualize {terra} objects using the {mapview} package?\n\nLearn more at https://t.co/vKaIvPLuiR.\n\n#rstats #rspatial #maps https://t.co/kjXXHK6rio"
 
   [tweets.entities]
@@ -26232,8 +26232,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/yobuY9sjX2"
-      expanded_url = "https://t.co/yobuY9sjX2"
+      display_url = "twitter.com/kwinkunks/stat…"
+      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26728,9 +26728,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37242
+  favorite_count = 37246
   id = 1367166556501925891
-  retweet_count = 2931
+  retweet_count = 2930
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -41113,9 +41113,9 @@
 
 [[tweets]]
   created_at = 2020-04-11T16:36:25Z
-  favorite_count = 250
+  favorite_count = 249
   id = 1249013447028813829
-  retweet_count = 117
+  retweet_count = 114
   text = "RT @erum2020_conf: Hey R folks, we have a big announcement: eRum will be the first fully virtual R conference! To mark this change, we decided to rename eRum2020 into e-Rum2020! It will take place on 17th-20th June 2020, book your agenda! Read more at https://t.co/VYBH6Ons5P #erum2020 #rstats https://t.co/qbbhZ9Iw6x"
 
   [tweets.entities]
@@ -58714,7 +58714,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 452
+  favorite_count = 456
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60259,7 +60259,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5521
+  favorite_count = 5533
   id = 1076899899348799488
   retweet_count = 1579
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63223,7 +63223,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2741
+  favorite_count = 2746
   id = 1039472133481615360
   retweet_count = 1037
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70040,7 +70040,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 304
+  favorite_count = 308
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -75278,17 +75278,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "GaryTRitchie"
-      user_id = 519772260
-
-    [[tweets.entities.user_mentions]]
       user = "noamross"
       user_id = 97582853
-
-  [tweets.reply]
-    status_id = 825033590278721536
-    user = "GaryTRitchie"
-    user_id = 519772260
 
 [[tweets]]
   created_at = 2017-01-17T00:07:06Z
@@ -78428,9 +78419,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T21:53:45Z
-  favorite_count = 332
+  favorite_count = 331
   id = 578313367212941312
-  retweet_count = 397
+  retweet_count = 394
   text = "RT @AcademicsSay: I don't suffer from overthinking, I enjoy it. Depending on how you define enjoy. And overthinking."
 
   [tweets.entities]
