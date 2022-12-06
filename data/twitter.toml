@@ -26776,7 +26776,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37237
+  favorite_count = 37240
   id = 1367166556501925891
   retweet_count = 2930
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -39189,9 +39189,9 @@
 
 [[tweets]]
   created_at = 2020-06-01T14:10:15Z
-  favorite_count = 840
+  favorite_count = 837
   id = 1267458443369164803
-  retweet_count = 254
+  retweet_count = 253
   text = "At https://t.co/OLAmlWEzUE, you can find the first part of our #rspatial workshop. It shows how to read spatial files into R, create maps, and reproject the data. All of the slides, scripts, and datasets are at https://t.co/9689q8pP0X. #rstats #rspatial #landscapeecology https://t.co/G7vq4j2nHs"
 
   [tweets.entities]
@@ -75326,8 +75326,17 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "GaryTRitchie"
+      user_id = 519772260
+
+    [[tweets.entities.user_mentions]]
       user = "noamross"
       user_id = 97582853
+
+  [tweets.reply]
+    status_id = 825033590278721536
+    user = "GaryTRitchie"
+    user_id = 519772260
 
 [[tweets]]
   created_at = 2017-01-17T00:07:06Z
