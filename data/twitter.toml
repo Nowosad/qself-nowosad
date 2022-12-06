@@ -1,7 +1,55 @@
 
 [[tweets]]
+  created_at = 2022-12-06T14:21:38Z
+  favorite_count = 89
+  id = 1600133368619769856
+  retweet_count = 25
+  text = "RT @jakub_nowosad: 🆕New article: \"Extended SLIC superpixels algorithm for applications to non-imagery geospatial rasters\"🆕\n\nPaper: https://t.co/D8HLb98ZVE\nSoftware: https://t.co/JcRM5aEWuW\n\n#geospatial #rspatial #gischat https://t.co/LDFqYWGyHT"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1555189565039820800
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZUkq26XwAA8J1c.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1555189565043916800
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZUkq27WQAAMIww.png"
+
+    [[tweets.entities.medias]]
+      id = 1555189565027229696
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZUkq23XoAA2kJX.png"
+
+    [[tweets.entities.medias]]
+      id = 1555189565035626497
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZUkq25XwAEefEc.png"
+
+    [[tweets.entities.urls]]
+      display_url = "doi.org/10.1016/j.jag.…"
+      expanded_url = "https://doi.org/10.1016/j.jag.2022.102935"
+      url = "https://t.co/D8HLb98ZVE"
+
+    [[tweets.entities.urls]]
+      display_url = "jakubnowosad.com/supercells/"
+      expanded_url = "https://jakubnowosad.com/supercells/"
+      url = "https://t.co/JcRM5aEWuW"
+
+    [[tweets.entities.user_mentions]]
+      user = "jakub_nowosad"
+      user_id = 2810559039
+
+  [tweets.retweet]
+    status_id = 1555189609377701890
+    user = "jakub_nowosad"
+    user_id = 2810559039
+
+[[tweets]]
   created_at = 2022-12-05T14:55:17Z
-  favorite_count = 68
+  favorite_count = 73
   id = 1599779449117241344
   retweet_count = 14
   text = "Did you know that now you can visualize {terra} objects using the {mapview} package?\n\nLearn more at https://t.co/vKaIvPLuiR.\n\n#rstats #rspatial #maps https://t.co/kjXXHK6rio"
@@ -5461,9 +5509,9 @@
 
 [[tweets]]
   created_at = 2022-08-04T13:51:11Z
-  favorite_count = 85
+  favorite_count = 89
   id = 1555189609377701890
-  retweet_count = 23
+  retweet_count = 25
   text = "🆕New article: \"Extended SLIC superpixels algorithm for applications to non-imagery geospatial rasters\"🆕\n\nPaper: https://t.co/D8HLb98ZVE\nSoftware: https://t.co/JcRM5aEWuW\n\n#geospatial #rspatial #gischat https://t.co/LDFqYWGyHT"
 
   [tweets.entities]
@@ -26232,8 +26280,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/yobuY9sjX2"
-      expanded_url = "https://t.co/yobuY9sjX2"
+      display_url = "twitter.com/kwinkunks/stat…"
+      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -30132,7 +30180,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 305
+  favorite_count = 308
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -33007,9 +33055,9 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2172
+  favorite_count = 2176
   id = 1319740736372355072
-  retweet_count = 803
+  retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
 
   [tweets.entities]
@@ -35940,7 +35988,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1859
+  favorite_count = 1862
   id = 1299086851484061699
   retweet_count = 675
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37544,7 +37592,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 303
+  favorite_count = 306
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -38388,7 +38436,7 @@
 
 [[tweets]]
   created_at = 2020-06-25T08:58:31Z
-  favorite_count = 746
+  favorite_count = 749
   id = 1276077302137475072
   retweet_count = 159
   text = "RT @ClausWilke: Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1"
@@ -58714,7 +58762,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 452
+  favorite_count = 456
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60259,7 +60307,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5523
+  favorite_count = 5533
   id = 1076899899348799488
   retweet_count = 1578
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63223,7 +63271,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2742
+  favorite_count = 2747
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70040,7 +70088,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 304
+  favorite_count = 308
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -75278,17 +75326,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "GaryTRitchie"
-      user_id = 519772260
-
-    [[tweets.entities.user_mentions]]
       user = "noamross"
       user_id = 97582853
-
-  [tweets.reply]
-    status_id = 825033590278721536
-    user = "GaryTRitchie"
-    user_id = 519772260
 
 [[tweets]]
   created_at = 2017-01-17T00:07:06Z
