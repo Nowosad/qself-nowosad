@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-06T14:21:38Z
-  favorite_count = 89
+  favorite_count = 92
   id = 1600133368619769856
-  retweet_count = 25
+  retweet_count = 26
   text = "RT @jakub_nowosad: 🆕New article: \"Extended SLIC superpixels algorithm for applications to non-imagery geospatial rasters\"🆕\n\nPaper: https://t.co/D8HLb98ZVE\nSoftware: https://t.co/JcRM5aEWuW\n\n#geospatial #rspatial #gischat https://t.co/LDFqYWGyHT"
 
   [tweets.entities]
@@ -5509,9 +5509,9 @@
 
 [[tweets]]
   created_at = 2022-08-04T13:51:11Z
-  favorite_count = 89
+  favorite_count = 92
   id = 1555189609377701890
-  retweet_count = 25
+  retweet_count = 26
   text = "🆕New article: \"Extended SLIC superpixels algorithm for applications to non-imagery geospatial rasters\"🆕\n\nPaper: https://t.co/D8HLb98ZVE\nSoftware: https://t.co/JcRM5aEWuW\n\n#geospatial #rspatial #gischat https://t.co/LDFqYWGyHT"
 
   [tweets.entities]
@@ -6237,7 +6237,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22736
+  favorite_count = 22739
   id = 1546126992168439808
   retweet_count = 4885
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -10993,7 +10993,7 @@
 
 [[tweets]]
   created_at = 2022-02-23T15:04:08Z
-  favorite_count = 389
+  favorite_count = 386
   id = 1496501132163792896
   retweet_count = 122
   text = "RT @Fcorowe: Sharing a new course on geographic #datascience for public policy in R leveraging on all the goodies from #rstats  & #rspatial. All for the right price👌🏽, entirely open🔓. This is a first iteration inspired by @darribas's gds course in Python \n\n🔗https://t.co/UHUi6k4diq\n\n🧵[1/n] https://t.co/HbMolAt15C"
@@ -19626,9 +19626,9 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2215
+  favorite_count = 2218
   id = 1427711108668874752
-  retweet_count = 742
+  retweet_count = 740
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
 
   [tweets.entities]
@@ -26280,8 +26280,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26776,7 +26776,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37240
+  favorite_count = 37237
   id = 1367166556501925891
   retweet_count = 2930
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33055,7 +33055,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2176
+  favorite_count = 2173
   id = 1319740736372355072
   retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35988,7 +35988,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1862
+  favorite_count = 1859
   id = 1299086851484061699
   retweet_count = 675
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -58762,7 +58762,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 456
+  favorite_count = 452
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60307,7 +60307,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5533
+  favorite_count = 5523
   id = 1076899899348799488
   retweet_count = 1578
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63271,7 +63271,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2747
+  favorite_count = 2740
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70088,7 +70088,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 308
+  favorite_count = 304
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
