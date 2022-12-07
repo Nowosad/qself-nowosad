@@ -392,9 +392,9 @@
 
 [[tweets]]
   created_at = 2022-11-24T07:56:26Z
-  favorite_count = 301
+  favorite_count = 304
   id = 1595687775013146625
-  retweet_count = 89
+  retweet_count = 88
   text = "RT @jakub_nowosad: Inset maps enable multiple places to be shown in the same geographic data visualization. They can be easily created in #rstats using the #ggplot2 package. You can read how to make them in a blog post at https://t.co/3fdQqeEadk. #geocompr #viz #rspatial https://t.co/c2dn7tskya"
 
   [tweets.entities]
@@ -26280,8 +26280,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/yobuY9sjX2"
-      expanded_url = "https://t.co/yobuY9sjX2"
+      display_url = "twitter.com/kwinkunks/stat…"
+      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -33055,7 +33055,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2173
+  favorite_count = 2176
   id = 1319740736372355072
   retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -46052,9 +46052,9 @@
 
 [[tweets]]
   created_at = 2019-12-08T13:30:38Z
-  favorite_count = 301
+  favorite_count = 304
   id = 1203668208022151169
-  retweet_count = 89
+  retweet_count = 88
   text = "Inset maps enable multiple places to be shown in the same geographic data visualization. They can be easily created in #rstats using the #ggplot2 package. You can read how to make them in a blog post at https://t.co/3fdQqeEadk. #geocompr #viz #rspatial https://t.co/c2dn7tskya"
 
   [tweets.entities]
@@ -58762,7 +58762,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 452
+  favorite_count = 457
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60307,9 +60307,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5523
+  favorite_count = 5534
   id = 1076899899348799488
-  retweet_count = 1578
+  retweet_count = 1577
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -63271,7 +63271,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2742
+  favorite_count = 2746
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70088,7 +70088,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 304
+  favorite_count = 308
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -75326,17 +75326,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "GaryTRitchie"
-      user_id = 519772260
-
-    [[tweets.entities.user_mentions]]
       user = "noamross"
       user_id = 97582853
-
-  [tweets.reply]
-    status_id = 825033590278721536
-    user = "GaryTRitchie"
-    user_id = 519772260
 
 [[tweets]]
   created_at = 2017-01-17T00:07:06Z
