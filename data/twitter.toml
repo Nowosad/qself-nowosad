@@ -6237,9 +6237,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22739
+  favorite_count = 22743
   id = 1546126992168439808
-  retweet_count = 4885
+  retweet_count = 4884
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -68582,7 +68582,7 @@
   created_at = 2018-02-08T16:55:17Z
   favorite_count = 27
   id = 961644615001624576
-  retweet_count = 25
+  retweet_count = 23
   text = "RT @erum2020_conf: Planning for May 14? We got you covered! #rstats workshops from @csgillespie, @_ColinFay, @smarterpoland, @MangoTheCat, @sellorm, @czeildi, @divenyijanos, @kkulma, @matlabulous, @plzbeemyfriend, @ClausEkstrom, @HeathrTurnr, @robinlovelace and others https://t.co/UlvwkBRoIt https://t.co/B15bnRupyC"
 
   [tweets.entities]
@@ -68626,10 +68626,6 @@
     [[tweets.entities.user_mentions]]
       user = "sellorm"
       user_id = 14351134
-
-    [[tweets.entities.user_mentions]]
-      user = "czeildi"
-      user_id = 4069028055
 
     [[tweets.entities.user_mentions]]
       user = "divenyijanos"
