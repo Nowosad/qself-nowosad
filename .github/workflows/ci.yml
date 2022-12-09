@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-go@v3
         
       - name: Install Qself
-        run: go install github.com/brandur/qself@main
+        run: go install github.com/brandur/qself@master
 
       - name: Checkout
         uses: actions/checkout@v3
