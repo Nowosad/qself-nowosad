@@ -889,9 +889,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1857
+  favorite_count = 1860
   id = 1589187266991501313
-  retweet_count = 326
+  retweet_count = 324
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
 
   [tweets.entities]
@@ -6237,9 +6237,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22743
+  favorite_count = 22740
   id = 1546126992168439808
-  retweet_count = 4884
+  retweet_count = 4883
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -10174,7 +10174,7 @@
 
 [[tweets]]
   created_at = 2022-03-20T13:50:32Z
-  favorite_count = 51
+  favorite_count = 48
   id = 1505542309835948032
   retweet_count = 18
   text = "RT @idoklein1: #rspatial #gischat \nusing QGIS instead of other interactive map packages in  R: an example. I use postgis in the background (st_write in the end of the pipe), didn't manage to notify the database so I use a 0.1 interval refresh rate. For me it is a game changer. https://t.co/s7YGAjmn9P"
@@ -68080,10 +68080,6 @@
     [[tweets.entities.user_mentions]]
       user = "progressive_ma"
       user_id = 1559171285728444417
-
-    [[tweets.entities.user_mentions]]
-      user = "JDR_GIS"
-      user_id = 777191566146502656
 
     [[tweets.entities.user_mentions]]
       user = "creuden"
