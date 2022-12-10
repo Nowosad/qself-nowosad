@@ -816,7 +816,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6513
+  favorite_count = 6509
   id = 1589374569260933120
   retweet_count = 1032
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -3846,9 +3846,9 @@
 
 [[tweets]]
   created_at = 2022-08-29T09:09:08Z
-  favorite_count = 189
+  favorite_count = 186
   id = 1564178327295991808
-  retweet_count = 49
+  retweet_count = 48
   text = "🌎\"Geocomputation with R’s guide to reproducible spatial data analysis\"🌏\n\nAugust 30th: 11:00–12:30 and 13:30-15:00 (Berlin time)\n\nIt will be live-streamed at https://t.co/IvGrYvkRhY.\n\n#rspatial #rstats #openscience @opengeohub https://t.co/Gjf2m5l2Rx"
 
   [tweets.entities]
@@ -4254,9 +4254,9 @@
 
 [[tweets]]
   created_at = 2022-08-26T13:28:27Z
-  favorite_count = 74
+  favorite_count = 71
   id = 1563156422418141185
-  retweet_count = 17
+  retweet_count = 16
   text = "👁️You can find my slides \"A method for universal superpixels-based regionalization\" at https://t.co/lGC1zt34r1.👁️\n\nThey explain the idea of {supercells} and show how to create regionalizations based on various types of spatial rasters.\n\n#rstats #rspatial #foss4g2022 #geospatial https://t.co/oy9oa34UQ6"
 
   [tweets.entities]
@@ -9150,6 +9150,10 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
+
+    [[tweets.entities.user_mentions]]
+      user = "GearsLaboratory"
+      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -26276,8 +26280,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/yobuY9sjX2"
-      expanded_url = "https://t.co/yobuY9sjX2"
+      display_url = "twitter.com/kwinkunks/stat…"
+      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26772,7 +26776,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37234
+  favorite_count = 37239
   id = 1367166556501925891
   retweet_count = 2928
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -58758,7 +58762,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60303,7 +60307,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5533
+  favorite_count = 5523
   id = 1076899899348799488
   retweet_count = 1577
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -78473,9 +78477,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2413
+  favorite_count = 2411
   id = 578278362667458560
-  retweet_count = 4223
+  retweet_count = 4220
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
