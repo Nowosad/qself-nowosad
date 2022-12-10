@@ -9151,10 +9151,6 @@
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
 
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
-
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
   favorite_count = 59
@@ -26280,8 +26276,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26776,7 +26772,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37239
+  favorite_count = 37234
   id = 1367166556501925891
   retweet_count = 2928
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33055,7 +33051,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2179
+  favorite_count = 2176
   id = 1319740736372355072
   retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35988,9 +35984,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1862
+  favorite_count = 1858
   id = 1299086851484061699
-  retweet_count = 674
+  retweet_count = 673
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -36754,7 +36750,7 @@
 
 [[tweets]]
   created_at = 2020-08-12T14:04:46Z
-  favorite_count = 229
+  favorite_count = 226
   id = 1293548986515824640
   retweet_count = 55
   text = "Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD"
@@ -58762,7 +58758,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60307,7 +60303,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5535
+  favorite_count = 5525
   id = 1076899899348799488
   retweet_count = 1577
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -61036,9 +61032,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2306
+  favorite_count = 2303
   id = 1070309959852806144
-  retweet_count = 1341
+  retweet_count = 1340
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -63271,7 +63267,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2744
+  favorite_count = 2739
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -68624,6 +68620,10 @@
       user_id = 14351134
 
     [[tweets.entities.user_mentions]]
+      user = "czeildi"
+      user_id = 4069028055
+
+    [[tweets.entities.user_mentions]]
       user = "divenyijanos"
       user_id = 2561482830
 
@@ -70080,7 +70080,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -76834,9 +76834,9 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1660
+  favorite_count = 1657
   id = 777942576099893248
-  retweet_count = 915
+  retweet_count = 913
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
 
   [tweets.entities]
