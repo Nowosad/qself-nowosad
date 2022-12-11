@@ -7427,9 +7427,9 @@
 
 [[tweets]]
   created_at = 2022-06-05T16:46:49Z
-  favorite_count = 2788
+  favorite_count = 2785
   id = 1533490538111959043
-  retweet_count = 498
+  retweet_count = 497
   text = "RT @BlakeRobMills: ✨✨ PACKAGE UPDATE ✨✨\nMetBrewer 0.2.0 is officially out 🥳 Available both on Cran and through my GitHub here: https://t.co/wYHMEKoJLH\n\nNew Palettes are out and some amazing new features. Full description of what has changed below :)\n\n#MetBrewer #rstats #r4ds #dataviz https://t.co/XU3q7h7ZJT"
 
   [tweets.entities]
@@ -9150,10 +9150,6 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
-
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -19063,7 +19059,7 @@
   created_at = 2021-08-30T15:16:14Z
   favorite_count = 1139
   id = 1432361526468427785
-  retweet_count = 319
+  retweet_count = 316
   text = "RT @kyle_e_walker: The pre-print version of my book \"Analyzing US Census Data: Methods, Maps, and Models in #rstats\" is now available to read for free online: https://t.co/48fG6HhhXE.  Read on in this thread for an overview of the book's content! https://t.co/US4nt1PBtB"
 
   [tweets.entities]
@@ -33055,7 +33051,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2179
+  favorite_count = 2175
   id = 1319740736372355072
   retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -33294,7 +33290,7 @@
 
 [[tweets]]
   created_at = 2020-10-19T14:19:16Z
-  favorite_count = 384
+  favorite_count = 381
   id = 1318195012346220544
   retweet_count = 107
   text = "Did you know that the tmap package has its own website?\n\nIt contains examples for each tmap function and a few articles.\n\nVisit it at https://t.co/ZaMUkjxy7j\n\n#tmap #rstats #rspatial https://t.co/wsqdcsmRnc"
@@ -35988,7 +35984,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1861
+  favorite_count = 1857
   id = 1299086851484061699
   retweet_count = 673
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -40660,9 +40656,9 @@
 
 [[tweets]]
   created_at = 2020-04-24T08:47:24Z
-  favorite_count = 772
+  favorite_count = 769
   id = 1253606454851846144
-  retweet_count = 261
+  retweet_count = 259
   text = "RT @pdalgd: R 4.0.0 \"Arbor Day\" (source version) has been released"
 
   [tweets.entities]
@@ -50744,9 +50740,9 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2914
+  favorite_count = 2911
   id = 1165010087171280896
-  retweet_count = 758
+  retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
 
   [tweets.entities]
@@ -68624,6 +68620,10 @@
       user_id = 14351134
 
     [[tweets.entities.user_mentions]]
+      user = "czeildi"
+      user_id = 4069028055
+
+    [[tweets.entities.user_mentions]]
       user = "divenyijanos"
       user_id = 2561482830
 
@@ -70080,7 +70080,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
