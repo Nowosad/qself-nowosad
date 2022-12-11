@@ -26276,8 +26276,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26346,7 +26346,7 @@
 
 [[tweets]]
   created_at = 2021-03-15T18:26:13Z
-  favorite_count = 513
+  favorite_count = 510
   id = 1371528177600843776
   retweet_count = 145
   text = "RT @LuukvanderMeer: #rspatial #rstats news🚨We released a new version of {sfnetworks}, an R📦 for analysis of spatial networks. Special about the new release: it is the first one on CRAN! Checkout the docs here: https://t.co/aUdHy8R0oX @loreabad made a nice GIF to summarise the core features: https://t.co/jX8H5X55zi"
@@ -26772,9 +26772,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37239
+  favorite_count = 37235
   id = 1367166556501925891
-  retweet_count = 2928
+  retweet_count = 2927
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -35684,9 +35684,9 @@
 
 [[tweets]]
   created_at = 2020-09-02T16:03:59Z
-  favorite_count = 88
+  favorite_count = 85
   id = 1301189133730185218
-  retweet_count = 34
+  retweet_count = 32
   text = "RT @lbusetto74: Version 2.0 of our #MODIStsp package for MODIS data processing is now on CRAN. The new version introduces a new and improved GUI based on #shiny and enhances support for CLI usage. https://t.co/9eLo0JOak5\n#RStats #rspatial https://t.co/eQQ8wui3TE"
 
   [tweets.entities]
@@ -63098,7 +63098,7 @@
 
 [[tweets]]
   created_at = 2018-09-30T16:54:32Z
-  favorite_count = 263
+  favorite_count = 260
   id = 1046443185864675328
   retweet_count = 121
   text = "RT @robinlovelace: Just entered @rstudio's bookdown competition with Geocomputation with R. If you like our #opensource book (source code: https://t.co/KyDrXlIWO9 ) please 'like' the entry here + RT 🤞: https://t.co/TKwDc00H4u Many thanks! https://t.co/b2tRMoX5V6"
