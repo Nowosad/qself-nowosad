@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-11T16:37:31Z
-  favorite_count = 48
+  favorite_count = 101
   id = 1601979503966031872
-  retweet_count = 11
+  retweet_count = 19
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nWant to learn more about the analysis of transport systems at different geographic levels, visit https://t.co/YTchoL480o.\n\nIt uses {stplanr}, {sfnetworks}, {sf}, {tmap}, {dplyr}, and more...\n\n#rstats #rspatial #geocompr https://t.co/SflbA9VVIJ"
 
   [tweets.entities]
@@ -83,9 +83,9 @@
 
 [[tweets]]
   created_at = 2022-12-05T14:55:17Z
-  favorite_count = 76
+  favorite_count = 79
   id = 1599779449117241344
-  retweet_count = 15
+  retweet_count = 17
   text = "Did you know that now you can visualize {terra} objects using the {mapview} package?\n\nLearn more at https://t.co/vKaIvPLuiR.\n\n#rstats #rspatial #maps https://t.co/kjXXHK6rio"
 
   [tweets.entities]
@@ -9185,10 +9185,6 @@
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
 
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
-
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
   favorite_count = 59
@@ -11745,7 +11741,7 @@
   created_at = 2022-02-05T20:05:33Z
   favorite_count = 3477
   id = 1490054004671496198
-  retweet_count = 588
+  retweet_count = 585
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -26314,8 +26310,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26810,9 +26806,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37237
+  favorite_count = 37224
   id = 1367166556501925891
-  retweet_count = 2925
+  retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -33089,7 +33085,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2178
+  favorite_count = 2175
   id = 1319740736372355072
   retweet_count = 802
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -50778,7 +50774,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2914
+  favorite_count = 2911
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -58796,7 +58792,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 457
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60341,7 +60337,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5531
+  favorite_count = 5521
   id = 1076899899348799488
   retweet_count = 1576
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63305,7 +63301,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2743
+  favorite_count = 2739
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -68160,7 +68156,7 @@
 
 [[tweets]]
   created_at = 2018-03-03T13:53:15Z
-  favorite_count = 1162
+  favorite_count = 1159
   id = 969933726825287685
   retweet_count = 416
   text = "RT @Emil_Hvitfeldt: Hey #stats community! I have spend some time organizing the various color palettes in R in one place https://t.co/cpNYEOeTF3 🌈  I hope you can use it and if I missed some please let me know!  #tidyverse https://t.co/xOC2na6MYr"
@@ -68656,6 +68652,10 @@
     [[tweets.entities.user_mentions]]
       user = "sellorm"
       user_id = 14351134
+
+    [[tweets.entities.user_mentions]]
+      user = "czeildi"
+      user_id = 4069028055
 
     [[tweets.entities.user_mentions]]
       user = "divenyijanos"
@@ -70114,7 +70114,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
