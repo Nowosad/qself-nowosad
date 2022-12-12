@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-11T16:37:31Z
-  favorite_count = 101
+  favorite_count = 147
   id = 1601979503966031872
-  retweet_count = 19
+  retweet_count = 21
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nWant to learn more about the analysis of transport systems at different geographic levels, visit https://t.co/YTchoL480o.\n\nIt uses {stplanr}, {sfnetworks}, {sf}, {tmap}, {dplyr}, and more...\n\n#rstats #rspatial #geocompr https://t.co/SflbA9VVIJ"
 
   [tweets.entities]
@@ -2190,9 +2190,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T07:36:34Z
-  favorite_count = 1309
+  favorite_count = 1306
   id = 1576838607498878976
-  retweet_count = 468
+  retweet_count = 469
   text = "RT @tjukanov: #30DayMapChallenge categories for 2022 are here! 🎉\n\nDaily open map challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others 🌎🌎🌎 https://t.co/AzNe1KkIgE"
 
   [tweets.entities]
@@ -4564,9 +4564,9 @@
 
 [[tweets]]
   created_at = 2022-08-23T16:09:42Z
-  favorite_count = 509
+  favorite_count = 507
   id = 1562109835667279873
-  retweet_count = 131
+  retweet_count = 128
   text = "🔥You can find all of the materials from the \"Getting started with R and R-spatial\" #FOSS4G2022 workshop🔥 at:\n\nhttps://t.co/q0NJnn0VdM\n\n#rstats #rspatial #geocompr #gischat https://t.co/3SGHrtyLzt"
 
   [tweets.entities]
@@ -6271,9 +6271,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22739
+  favorite_count = 22736
   id = 1546126992168439808
-  retweet_count = 4882
+  retweet_count = 4880
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -21719,7 +21719,7 @@
 
 [[tweets]]
   created_at = 2021-07-01T05:58:58Z
-  favorite_count = 67
+  favorite_count = 64
   id = 1410478011728736259
   retweet_count = 20
   text = "RT @TheScrogster: #RStats users who need to make maps for papers and reports should definitely have a look at the tmap package by @MartijnTennekes and colleagues. Beautiful maps from all manner of spatial data, quickly and easily.  https://t.co/wUZTl9rqbM"
@@ -25168,9 +25168,9 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:13Z
-  favorite_count = 2983
+  favorite_count = 2980
   id = 1384591503650078723
-  retweet_count = 420
+  retweet_count = 419
   text = "RT @ClausWilke: ggiraph + shiny is fantastic!\n~30 lines of code.\n#dataviz #rstats https://t.co/cEsK4PFROx"
 
   [tweets.entities]
@@ -26806,7 +26806,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37224
+  favorite_count = 37218
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -38466,7 +38466,7 @@
 
 [[tweets]]
   created_at = 2020-06-25T08:58:31Z
-  favorite_count = 749
+  favorite_count = 746
   id = 1276077302137475072
   retweet_count = 159
   text = "RT @ClausWilke: Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1"
@@ -59840,20 +59840,8 @@
 
 [[tweets]]
   created_at = 2019-01-16T15:48:58Z
-  favorite_count = 1
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085562497300606976
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
@@ -61066,7 +61054,7 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2306
+  favorite_count = 2303
   id = 1070309959852806144
   retweet_count = 1339
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
@@ -69279,7 +69267,7 @@
 
 [[tweets]]
   created_at = 2018-01-23T16:34:02Z
-  favorite_count = 207
+  favorite_count = 204
   id = 955841061955473409
   retweet_count = 43
   text = "RT @obrl_soil: I wrote my first R package! And then didn't post about it for months because crippling perfectionism. New Years Resolution: stop doing that. Some ramblings about how I got here from noob-dom are at https://t.co/7uiO34ij6K #rstats #rspatial #digitalsoilsmapping #dsmart"
@@ -76868,7 +76856,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1660
+  favorite_count = 1656
   id = 777942576099893248
   retweet_count = 913
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
