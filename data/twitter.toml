@@ -1,5 +1,64 @@
 
 [[tweets]]
+  created_at = 2022-12-12T19:52:27Z
+  id = 1602390947886571520
+  text = "@mdsumner what's shape index?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mdsumner"
+      user_id = 103516223
+
+  [tweets.reply]
+    status_id = 1602205816375087104
+    user = "mdsumner"
+    user_id = 103516223
+
+[[tweets]]
+  created_at = 2022-12-12T18:48:38Z
+  id = 1602374885707235328
+  text = "@jorisvdbossche @krzysztof_dyba you may be interested in benchmarking it;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jorisvdbossche"
+      user_id = 1047353646
+
+    [[tweets.entities.user_mentions]]
+      user = "krzysztof_dyba"
+      user_id = 1382325212377665537
+
+  [tweets.reply]
+    status_id = 1602359989909295125
+    user = "jorisvdbossche"
+    user_id = 1047353646
+
+[[tweets]]
+  created_at = 2022-12-12T18:22:44Z
+  favorite_count = 33
+  id = 1602368367876345863
+  retweet_count = 10
+  text = "RT @dhernangomez: New blog look and new post! See Hillshade, colors and marginal plots with tidyterra (II) https://t.co/LMVgmX8Viv #rstats #rspatial"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "dieghernan.github.io/202212_tidyter…"
+      expanded_url = "https://dieghernan.github.io/202212_tidyterra-hillshade-2/"
+      url = "https://t.co/LMVgmX8Viv"
+
+    [[tweets.entities.user_mentions]]
+      user = "dhernangomez"
+      user_id = 121572923
+
+  [tweets.retweet]
+    status_id = 1602345552208969730
+    user = "dhernangomez"
+    user_id = 121572923
+
+[[tweets]]
   created_at = 2022-12-11T16:37:31Z
   favorite_count = 275
   id = 1601979503966031872
@@ -6271,9 +6330,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22739
+  favorite_count = 22735
   id = 1546126992168439808
-  retweet_count = 4879
+  retweet_count = 4878
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -9184,10 +9243,6 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
-
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -13001,17 +13056,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-  [tweets.reply]
-    status_id = 1480637531507077133
-    user = "SorenWilke"
-    user_id = 1046827048717750274
 
 [[tweets]]
   created_at = 2022-01-10T20:35:21Z
@@ -13370,9 +13416,9 @@
 
 [[tweets]]
   created_at = 2021-12-30T19:29:55Z
-  favorite_count = 216
+  favorite_count = 213
   id = 1476636687073787910
-  retweet_count = 43
+  retweet_count = 42
   text = "RT @robinlovelace: 🏗️ Geocomputation with R update 🏗️ we've recently updated key parts of Chapter 7 on the key topic of coordinate reference systems (CRSs). Updated figure below, plus lots more in the chapter, shows importance of understanding them!   https://t.co/pffHqeF8YT #Rstats #rspatial https://t.co/DVgHU5lvn1"
 
   [tweets.entities]
@@ -20249,7 +20295,7 @@
 
 [[tweets]]
   created_at = 2021-08-02T04:34:13Z
-  favorite_count = 153
+  favorite_count = 150
   id = 1422053096872718336
   retweet_count = 71
   text = "RT @KKulma: Twitter friends! I'm looking for a new contract from September and if you or your network need 👩🏼‍💻 with advanced #RStats #softwareengineer ing #Python #Docker #AWS feel free to share my profile 🤓 Thanks! 🙌\n\nmy GitHub https://t.co/OEloTepkEn\n\nMy LinkedIn\nhttps://t.co/LxvgNsPvgA"
@@ -22091,7 +22137,7 @@
 
 [[tweets]]
   created_at = 2021-06-16T18:25:48Z
-  favorite_count = 82
+  favorite_count = 79
   id = 1405230142239219714
   retweet_count = 27
   text = "RT @krzysztof_dyba: If you are interested in spatial data analysis and wondering which raster data processing package is the fastest, I prepared benchmarks of the most popular packages for Python (rasterio, rioxarray) and R (raster, terra, stars).\n#rstats #rspatial #python #geospatial https://t.co/0NDcP0zbeV"
@@ -26314,8 +26360,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26384,9 +26430,9 @@
 
 [[tweets]]
   created_at = 2021-03-15T18:26:13Z
-  favorite_count = 510
+  favorite_count = 507
   id = 1371528177600843776
-  retweet_count = 145
+  retweet_count = 143
   text = "RT @LuukvanderMeer: #rspatial #rstats news🚨We released a new version of {sfnetworks}, an R📦 for analysis of spatial networks. Special about the new release: it is the first one on CRAN! Checkout the docs here: https://t.co/aUdHy8R0oX @loreabad made a nice GIF to summarise the core features: https://t.co/jX8H5X55zi"
 
   [tweets.entities]
@@ -26810,7 +26856,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37206
+  favorite_count = 37203
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29885,9 +29931,9 @@
 
 [[tweets]]
   created_at = 2020-12-30T15:11:39Z
-  favorite_count = 147
+  favorite_count = 145
   id = 1344300121547284482
-  retweet_count = 113
+  retweet_count = 110
   text = "RT @hanna123987: We (@edzerpebesma and I) are looking for a motivated Research Associate (100%, 2 years) to work with us on the development of methods to assess and improve the transferability of #machineLearning models in #remotesensing. More details:\nhttps://t.co/3n2ayQHuDE. #rspatial"
 
   [tweets.entities]
@@ -33026,9 +33072,9 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 816
+  favorite_count = 813
   id = 1322224591750766594
-  retweet_count = 314
+  retweet_count = 312
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
 
   [tweets.entities]
@@ -33089,7 +33135,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2178
+  favorite_count = 2174
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36022,9 +36068,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1857
+  favorite_count = 1854
   id = 1299086851484061699
-  retweet_count = 673
+  retweet_count = 671
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -37626,7 +37672,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 306
+  favorite_count = 303
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -50778,7 +50824,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2911
+  favorite_count = 2907
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -55656,7 +55702,7 @@
 
 [[tweets]]
   created_at = 2019-05-26T15:28:46Z
-  favorite_count = 145
+  favorite_count = 142
   id = 1132669917508063233
   retweet_count = 45
   text = "RT @qgis: Our issue tracker has officially moved to #GitHub https://t.co/loS9Ti7NtR! 👏🎉 A huge \"Thank you!\" goes out to everyone involved in this migration process (https://t.co/s5045jpg1G)"
@@ -58442,9 +58488,9 @@
 
 [[tweets]]
   created_at = 2019-03-07T15:05:24Z
-  favorite_count = 184
+  favorite_count = 182
   id = 1103673004628852737
-  retweet_count = 56
+  retweet_count = 53
   text = "Landscape metrics are useful to characterize landscapes (aka categorial rasters). In my new blog post, I show how to use #rstats for efficient calculations of landscape metrics within buffers around sampling points. #geocompr #landscapeecology https://t.co/92rk3mtlsW"
 
   [tweets.entities]
@@ -58796,7 +58842,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 456
+  favorite_count = 452
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59847,17 +59893,6 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085562497300606976
-    user = "DerEhrmann"
-    user_id = 879320767607033857
-
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60340,7 +60375,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5531
+  favorite_count = 5521
   id = 1076899899348799488
   retweet_count = 1575
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63304,9 +63339,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2742
+  favorite_count = 2737
   id = 1039472133481615360
-  retweet_count = 1038
+  retweet_count = 1036
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -65934,17 +65969,6 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 994829985818046464
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70113,7 +70137,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -77743,9 +77767,9 @@
 
 [[tweets]]
   created_at = 2016-02-12T10:38:07Z
-  favorite_count = 572
+  favorite_count = 569
   id = 698093720105840640
-  retweet_count = 375
+  retweet_count = 374
   text = "RT @levie: If there ever was a video that showed a group of people who chose the right career, it's this one. https://t.co/BYGr8KDerI"
 
   [tweets.entities]
@@ -78510,9 +78534,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2411
+  favorite_count = 2408
   id = 578278362667458560
-  retweet_count = 4220
+  retweet_count = 4218
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
