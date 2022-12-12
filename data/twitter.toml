@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-11T16:37:31Z
-  favorite_count = 263
+  favorite_count = 275
   id = 1601979503966031872
-  retweet_count = 46
+  retweet_count = 47
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nWant to learn more about the analysis of transport systems at different geographic levels, visit https://t.co/YTchoL480o.\n\nIt uses {stplanr}, {sfnetworks}, {sf}, {tmap}, {dplyr}, and more...\n\n#rstats #rspatial #geocompr https://t.co/SflbA9VVIJ"
 
   [tweets.entities]
@@ -850,9 +850,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6505
+  favorite_count = 6502
   id = 1589374569260933120
-  retweet_count = 1031
+  retweet_count = 1029
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -4343,7 +4343,7 @@
 
 [[tweets]]
   created_at = 2022-08-25T09:27:31Z
-  favorite_count = 27
+  favorite_count = 24
   id = 1562733402108833793
   retweet_count = 7
   text = "I will give my #foss4g2022 talk tomorrow (2022-08-26) at 12:30 in Room Modulo 3:\n\n💡A method for universal superpixels-based regionalization💡\n\nhttps://t.co/kk0ePaxbng\n\nSee you there!\n\n#rstats #rspatial #gischat https://t.co/2d8w278EHT"
@@ -4945,7 +4945,7 @@
 
 [[tweets]]
   created_at = 2022-08-21T16:36:04Z
-  favorite_count = 26
+  favorite_count = 23
   id = 1561391696067321857
   retweet_count = 10
   text = "The #foss4g2022 conference starts tomorrow. It includes (at least) three #rspatial workshops:\n\n🌏🌎\n\n1. https://t.co/4LyKcF4BS2 by @RoelandtN42 and me\n2. https://t.co/erVCej0PSt by @LuukvanderMeer \n3. https://t.co/LHr0uEMBUT by @RogerBivand \n\n🌎🌏\n\n#gis #geocomputation #gischat"
@@ -26810,7 +26810,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37211
+  favorite_count = 37206
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -53952,7 +53952,7 @@
 
 [[tweets]]
   created_at = 2019-07-06T05:27:34Z
-  favorite_count = 82
+  favorite_count = 79
   id = 1147376521545469952
   retweet_count = 28
   text = "RT @robinlovelace: Update to #rstats transport planning package {stplanr} conversion of origin-destination data to geographic desire lines using only coordinate pairs. Now documented with #reproducible example on @rOpenSci's new documentation site: https://t.co/xAh7JRrKuP More soon at #useR2019 https://t.co/oyaj3uNTGS"
