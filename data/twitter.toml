@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-11T16:37:31Z
-  favorite_count = 175
+  favorite_count = 196
   id = 1601979503966031872
-  retweet_count = 25
+  retweet_count = 31
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nWant to learn more about the analysis of transport systems at different geographic levels, visit https://t.co/YTchoL480o.\n\nIt uses {stplanr}, {sfnetworks}, {sf}, {tmap}, {dplyr}, and more...\n\n#rstats #rspatial #geocompr https://t.co/SflbA9VVIJ"
 
   [tweets.entities]
@@ -9184,10 +9184,6 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
-
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -19660,9 +19656,9 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2218
+  favorite_count = 2215
   id = 1427711108668874752
-  retweet_count = 740
+  retweet_count = 738
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
 
   [tweets.entities]
@@ -24412,9 +24408,9 @@
 
 [[tweets]]
   created_at = 2021-05-07T18:44:20Z
-  favorite_count = 90
+  favorite_count = 87
   id = 1390739289848356865
-  retweet_count = 20
+  retweet_count = 19
   text = "RT @krzysztof_dyba: Did you know that the first version of the 'raster' package was released on CRAN on 20 March 2010? Exactly 10 years later, the successor 'terra' appeared, which is more effective and faster. If you haven't tried yet, check it out!\n#rstats #rspatial"
 
   [tweets.entities]
@@ -26314,8 +26310,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26810,7 +26806,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37221
+  favorite_count = 37216
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -44300,7 +44296,7 @@
 
 [[tweets]]
   created_at = 2020-01-27T11:48:49Z
-  favorite_count = 109
+  favorite_count = 106
   id = 1221761978659692545
   retweet_count = 42
   text = "RT @TinaACormier: Hey, #rstats, #gischat, #rspatial, #rspatialladies - I'm looking for a beautiful map made in R. If you are willing to let me present your map in my #rstudioconf talk, I'd be forever grateful and give you all the cred! You'll be famous instantly!"
@@ -58796,7 +58792,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 456
+  favorite_count = 452
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59847,17 +59843,6 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085562497300606976
-    user = "DerEhrmann"
-    user_id = 879320767607033857
-
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60340,7 +60325,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5531
+  favorite_count = 5521
   id = 1076899899348799488
   retweet_count = 1575
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63304,7 +63289,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2742
+  favorite_count = 2738
   id = 1039472133481615360
   retweet_count = 1038
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65934,17 +65919,6 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 994829985818046464
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70113,7 +70087,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 304
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
