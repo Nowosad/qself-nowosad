@@ -37,7 +37,7 @@
 
 [[tweets]]
   created_at = 2022-12-12T18:22:44Z
-  favorite_count = 44
+  favorite_count = 47
   id = 1602368367876345863
   retweet_count = 16
   text = "RT @dhernangomez: New blog look and new post! See Hillshade, colors and marginal plots with tidyterra (II) https://t.co/LMVgmX8Viv #rstats #rspatial"
@@ -6330,7 +6330,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22738
+  favorite_count = 22732
   id = 1546126992168439808
   retweet_count = 4878
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -9243,10 +9243,6 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
-
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -13060,17 +13056,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-  [tweets.reply]
-    status_id = 1480637531507077133
-    user = "SorenWilke"
-    user_id = 1046827048717750274
 
 [[tweets]]
   created_at = 2022-01-10T20:35:21Z
@@ -26373,8 +26360,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/kwinkunks/stat…"
-      expanded_url = "https://twitter.com/kwinkunks/status/1371892224380837892"
+      display_url = "t.co/yobuY9sjX2"
+      expanded_url = "https://t.co/yobuY9sjX2"
       url = "https://t.co/yobuY9sjX2"
 
     [[tweets.entities.user_mentions]]
@@ -26869,7 +26856,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37203
+  favorite_count = 37195
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -30273,7 +30260,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 308
+  favorite_count = 305
   id = 1339326202134343689
   retweet_count = 63
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -33148,7 +33135,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2174
+  favorite_count = 2171
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -43993,7 +43980,7 @@
 
 [[tweets]]
   created_at = 2020-02-04T16:36:42Z
-  favorite_count = 1010
+  favorite_count = 1007
   id = 1224733530615373825
   retweet_count = 313
   text = "RT @zevross: I had the privilege of teaching a two-day workshop, Modern Geospatial Data Analysis with R, at the @rstudio conference with an amazing group of TAs and participants. I've made the slides available here: https://t.co/rSzPTt6VBk, #rstats, #rspatial, #gischat https://t.co/3v7UVd0UT5"
@@ -49260,7 +49247,7 @@
 
 [[tweets]]
   created_at = 2019-09-20T13:46:56Z
-  favorite_count = 20
+  favorite_count = 17
   id = 1175043667633037314
   retweet_count = 4
   text = "RT @johnmyleswhite: To put a finer point on this for building tools: to make tools easy to use for non-experts, we often make them magical. This can make those tools accessible, but can slow people's learning because the magic is so hidden from them that they can't build accurate intuitions."
@@ -58855,7 +58842,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 456
+  favorite_count = 452
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59906,17 +59893,6 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085562497300606976
-    user = "DerEhrmann"
-    user_id = 879320767607033857
-
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60399,7 +60375,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5530
+  favorite_count = 5521
   id = 1076899899348799488
   retweet_count = 1575
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63363,7 +63339,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2741
+  favorite_count = 2736
   id = 1039472133481615360
   retweet_count = 1036
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65993,17 +65969,6 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 994829985818046464
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70172,7 +70137,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
