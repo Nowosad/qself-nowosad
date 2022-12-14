@@ -59262,7 +59262,7 @@
 
 [[tweets]]
   created_at = 2019-02-09T18:45:00Z
-  favorite_count = 63
+  favorite_count = 60
   id = 1094306186235707395
   retweet_count = 28
   text = "RT @robinlovelace: Car dependent commuter 'desire lines' that could be walked or cycled (less than 3km in distance) in Greater Manchester.\nInteractive map: https://t.co/p7eDeNv4Yy \nCode that can generate results for any region: https://t.co/eKbl0qTPy7\nPart of the https://t.co/QmegBACx1l project. https://t.co/1xPkFSoBSc"
@@ -78512,9 +78512,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2407
+  favorite_count = 2403
   id = 578278362667458560
-  retweet_count = 4215
+  retweet_count = 4214
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
