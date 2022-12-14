@@ -59696,15 +59696,6 @@
       expanded_url = "https://twitter.com/jakub_nowosad/status/1087393528110632960"
       url = "https://t.co/oQrpQ6SkOj"
 
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085651345552490496
-    user = "DerEhrmann"
-    user_id = 879320767607033857
-
 [[tweets]]
   created_at = 2019-01-21T16:56:34Z
   favorite_count = 87
