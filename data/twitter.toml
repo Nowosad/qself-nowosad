@@ -6383,9 +6383,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:12:06Z
-  favorite_count = 173
+  favorite_count = 170
   id = 1546120078734901248
-  retweet_count = 48
+  retweet_count = 47
   text = "RT @favstats: Literally me #rstats\n\n@rstatsmemes https://t.co/N098KC3tDz"
 
   [tweets.entities]
@@ -9243,10 +9243,6 @@
       display_url = "stat.ethz.ch/pipermail/r-si…"
       expanded_url = "https://stat.ethz.ch/pipermail/r-sig-geo/2022-April/028953.html"
       url = "https://t.co/LQQKZJduRi"
-
-    [[tweets.entities.user_mentions]]
-      user = "GearsLaboratory"
-      user_id = 1337103548467662849
 
 [[tweets]]
   created_at = 2022-04-25T15:17:41Z
@@ -20877,7 +20873,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2275
+  favorite_count = 2271
   id = 1415715731648524290
   retweet_count = 215
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -26207,7 +26203,7 @@
 
 [[tweets]]
   created_at = 2021-03-18T15:13:12Z
-  favorite_count = 50
+  favorite_count = 47
   id = 1372566766300368897
   retweet_count = 22
   text = "RT @bikesRdata: More great feedback on @rOpenSci standards for #rspatial statistical software from @edzerpebesma - Please #rstats community keep on helping improve software standards with more feedback! https://t.co/FdUM4MRD7i"
@@ -26860,7 +26856,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37198
+  favorite_count = 37192
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33139,7 +33135,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2174
+  favorite_count = 2171
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -38469,7 +38465,7 @@
 
 [[tweets]]
   created_at = 2020-06-28T20:09:00Z
-  favorite_count = 851
+  favorite_count = 848
   id = 1277333197144182784
   retweet_count = 230
   text = "RT @Em_The_Engineer: Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk"
@@ -39024,7 +39020,7 @@
 
 [[tweets]]
   created_at = 2020-06-09T06:02:57Z
-  favorite_count = 676
+  favorite_count = 673
   id = 1270234910964531202
   retweet_count = 126
   text = "RT @tjukanov: I created (again) a new #QGIS style: Qlimt. It aims to turn your data to modern artworks. You can download the style here: https://t.co/RqhieMkmji https://t.co/b1V5vTy6Qv"
@@ -47677,9 +47673,9 @@
 
 [[tweets]]
   created_at = 2019-11-01T20:14:04Z
-  favorite_count = 208
+  favorite_count = 205
   id = 1190361384963457025
-  retweet_count = 42
+  retweet_count = 41
   text = "RT @robinlovelace: Very happy that the Propensity to Cycle Tool won the Open Data Award in the Impact category. 4 years of hard work have come to fruition for an amazing multi-university, multi-disciplinary team 🚀\n\nGive our open source tool a spin + download #opendata here: https://t.co/QmegBACx1l https://t.co/DeuBnod87i"
 
   [tweets.entities]
@@ -50828,7 +50824,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2910
+  favorite_count = 2907
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -55611,7 +55607,7 @@
 
 [[tweets]]
   created_at = 2019-05-31T09:47:03Z
-  favorite_count = 682
+  favorite_count = 679
   id = 1134395861037920258
   retweet_count = 401
   text = "RT @simongerman600: EU countries from A-Z: power generation by source from 2000 to 2018. Lots of additional renewables (lots of hydro and wind) went on the grid in the last few years. Source: https://t.co/KUEX75dj7g https://t.co/1ZmVNPOjjj"
@@ -58846,7 +58842,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 456
+  favorite_count = 451
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59700,6 +59696,15 @@
       expanded_url = "https://twitter.com/jakub_nowosad/status/1087393528110632960"
       url = "https://t.co/oQrpQ6SkOj"
 
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 1085651345552490496
+    user = "DerEhrmann"
+    user_id = 879320767607033857
+
 [[tweets]]
   created_at = 2019-01-21T16:56:34Z
   favorite_count = 87
@@ -59871,11 +59876,6 @@
   id = 1085634359217057792
   text = "@DerEhrmann Land cover data or the entropy map?"
 
-[[tweets]]
-  created_at = 2019-01-16T15:48:58Z
-  id = 1085564577914544128
-  text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
-
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
@@ -59883,9 +59883,14 @@
       user_id = 879320767607033857
 
   [tweets.reply]
-    status_id = 1085562497300606976
+    status_id = 1085581669883617281
     user = "DerEhrmann"
     user_id = 879320767607033857
+
+[[tweets]]
+  created_at = 2019-01-16T15:48:58Z
+  id = 1085564577914544128
+  text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
@@ -60369,9 +60374,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5528
+  favorite_count = 5518
   id = 1076899899348799488
-  retweet_count = 1575
+  retweet_count = 1574
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -63333,7 +63338,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2740
+  favorite_count = 2736
   id = 1039472133481615360
   retweet_count = 1036
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65963,17 +65968,6 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 994829985818046464
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70142,7 +70136,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 309
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
