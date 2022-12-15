@@ -1,5 +1,39 @@
 
 [[tweets]]
+  created_at = 2022-12-15T15:01:16Z
+  favorite_count = 17
+  id = 1603404831808712704
+  retweet_count = 6
+  text = "🔥OpenGeoHub Summer School 2023 will be held in Poznań, Poland🔥\n\nA whole week of #opensource spatial data analysis using #rstats, #python, and #julialang!\n\n27 August 2022 – 02 September 2023\n\nApply before February 1st -- https://t.co/u4pLV8snIQ.\n\n #rspatial #gischat https://t.co/zhpcptVPYd"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1603404175257255942
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkBvmimWQAYUY2Z.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1603404175253159938
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkBvmilXwAInBOY.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1603404175232188417
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkBvmigXwAEJDnK.png"
+
+    [[tweets.entities.medias]]
+      id = 1603404175282524162
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkBvmisX0AIWHxU.png"
+
+    [[tweets.entities.urls]]
+      display_url = "opengeohub.org/summer-school/…"
+      expanded_url = "https://opengeohub.org/summer-school/opengeohub-summer-school-poznan-2023/"
+      url = "https://t.co/u4pLV8snIQ"
+
+[[tweets]]
   created_at = 2022-12-12T19:52:27Z
   id = 1602390947886571520
   text = "@mdsumner what's shape index?"
@@ -909,9 +943,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6502
+  favorite_count = 6499
   id = 1589374569260933120
-  retweet_count = 1029
+  retweet_count = 1028
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -26851,7 +26885,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37190
+  favorite_count = 37185
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -77274,7 +77308,7 @@
   created_at = 2016-06-02T20:50:54Z
   favorite_count = 1
   id = 738472985540104192
-  retweet_count = 4
+  retweet_count = 1
   text = "RT @erum2020_conf: Only two weeks to submit your abstract. Hurry up and join #eRum2016 , the european #rstats users meeting!"
 
   [tweets.retweet]
@@ -77340,7 +77374,7 @@
   created_at = 2016-05-11T19:12:45Z
   favorite_count = 12
   id = 730475752693637120
-  retweet_count = 25
+  retweet_count = 21
   text = "RT @TheStephLocke: satRday location voting now open https://t.co/50naOIO6Fe https://t.co/jqDy7BCRvN"
 
   [tweets.entities]
