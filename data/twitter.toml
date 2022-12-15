@@ -63818,9 +63818,9 @@
 
 [[tweets]]
   created_at = 2018-08-26T13:06:29Z
-  favorite_count = 33
+  favorite_count = 32
   id = 1033702222264184832
-  retweet_count = 19
+  retweet_count = 16
   text = "RT @noreastrconf: Very excited to announce that registration for the Nor'eastr Conference is now live: https://t.co/S6PxD5BHgi.  Also see the tentative schedule of speakers at https://t.co/r0mG9ViVCf  #rstats"
 
   [tweets.entities]
@@ -64011,9 +64011,9 @@
 
 [[tweets]]
   created_at = 2018-08-20T15:13:12Z
-  favorite_count = 84
+  favorite_count = 82
   id = 1031559783009144832
-  retweet_count = 31
+  retweet_count = 27
   text = "Great news for #rspatial. The #rstats raster package is now on @github - https://t.co/Z1QZh6ZVJp. https://t.co/0oODDp14PJ"
 
   [tweets.entities]
@@ -65215,7 +65215,7 @@
   created_at = 2018-06-21T02:21:15Z
   favorite_count = 61
   id = 1009622245940060161
-  retweet_count = 20
+  retweet_count = 17
   text = "RT @ElinWaring: So psyched to be moving forward with #skimr version 2 ... Take a look, give feedback on the road map or the v2  branch. https://t.co/6oObqWi0HD   @michaelquinn32 @rOpenSci #rstats"
 
   [tweets.entities]
@@ -66070,7 +66070,7 @@
   created_at = 2018-05-01T12:28:32Z
   favorite_count = 57
   id = 991293290602516480
-  retweet_count = 18
+  retweet_count = 15
   text = "RT @jakub_nowosad: Together with @robinlovelace and Jannes we are working on the #rstats spatial visualization chapter - https://t.co/2s0hZmOwxy.  Is there any #rspatial package that we are missing here? #geocompr https://t.co/p16xIQC1UY"
 
   [tweets.entities]
@@ -66229,7 +66229,7 @@
   created_at = 2018-04-28T18:31:26Z
   favorite_count = 57
   id = 990297452489203722
-  retweet_count = 18
+  retweet_count = 15
   text = "Together with @robinlovelace and Jannes we are working on the #rstats spatial visualization chapter - https://t.co/2s0hZmOwxy.  Is there any #rspatial package that we are missing here? #geocompr https://t.co/p16xIQC1UY"
 
   [tweets.entities]
