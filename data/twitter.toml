@@ -6330,7 +6330,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22719
+  favorite_count = 22722
   id = 1546126992168439808
   retweet_count = 4876
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -12602,10 +12602,6 @@
     [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-    [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
 
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
@@ -26855,7 +26851,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37193
+  favorite_count = 37196
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -27057,9 +27053,9 @@
 
 [[tweets]]
   created_at = 2021-03-01T08:24:36Z
-  favorite_count = 325
+  favorite_count = 322
   id = 1366303342121660416
-  retweet_count = 81
+  retweet_count = 80
   text = "RT @undertheraedar: Exciting day tomorrow as the lovely swisstopo people open up their terrain data \n\n\"Permission is no longer required for the use of most digital products such as national maps, orthophotos or geological vector data.\" (this includes commercial use)\n\nhttps://t.co/fGaiwSQN7Z https://t.co/9oqZi4fk2y"
 
   [tweets.entities]
@@ -32852,10 +32848,6 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
-      user = "giurugg"
-      user_id = 1319708430316261376
-
-    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33134,7 +33126,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2171
+  favorite_count = 2174
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -55976,9 +55968,9 @@
 
 [[tweets]]
   created_at = 2019-05-12T11:55:11Z
-  favorite_count = 245
+  favorite_count = 246
   id = 1127542737245491202
-  retweet_count = 149
+  retweet_count = 146
   text = "RT @pinakographos: Announcing the Monochrome Mapping Competition! Details here: https://t.co/NeaCU7FpiS\n\nPlease circulate widely, and help celebrate the beautiful work that cartographers can do with only one ink. https://t.co/25zYeefijL"
 
   [tweets.entities]
@@ -58841,7 +58833,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 451
+  favorite_count = 455
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59871,6 +59863,17 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 1085562497300606976
+    user = "DerEhrmann"
+    user_id = 879320767607033857
+
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60353,9 +60356,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5517
+  favorite_count = 5527
   id = 1076899899348799488
-  retweet_count = 1574
+  retweet_count = 1573
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -61084,7 +61087,7 @@
   created_at = 2018-12-05T13:32:34Z
   favorite_count = 2303
   id = 1070309959852806144
-  retweet_count = 1339
+  retweet_count = 1336
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -65948,6 +65951,17 @@
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
+
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
   favorite_count = 141
@@ -70115,7 +70129,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 309
   id = 943139611584417792
   retweet_count = 244
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
