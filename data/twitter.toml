@@ -1,9 +1,36 @@
 
 [[tweets]]
+  created_at = 2022-12-16T18:22:21Z
+  favorite_count = 11
+  id = 1603817826149597186
+  retweet_count = 7
+  text = "RT @alexquech: @geogalego Many people have moved to some instances of mastodon such as: \nmastodon social\nfosstodon org\n\nhere is a list of some members of the #rspatial community:\nhttps://t.co/KHuXDFv3Nz"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/Nowosad/mastod…"
+      expanded_url = "https://github.com/Nowosad/mastodon-rspatial"
+      url = "https://t.co/KHuXDFv3Nz"
+
+    [[tweets.entities.user_mentions]]
+      user = "alexquech"
+      user_id = 116639850
+
+    [[tweets.entities.user_mentions]]
+      user = "geogalego"
+      user_id = 110749878
+
+  [tweets.retweet]
+    status_id = 1603735791670263809
+    user = "alexquech"
+    user_id = 116639850
+
+[[tweets]]
   created_at = 2022-12-15T15:01:16Z
-  favorite_count = 42
+  favorite_count = 46
   id = 1603404831808712704
-  retweet_count = 20
+  retweet_count = 22
   text = "🔥OpenGeoHub Summer School 2023 will be held in Poznań, Poland🔥\n\nA whole week of #opensource spatial data analysis using #rstats, #python, and #julialang!\n\n27 August 2022 – 02 September 2023\n\nApply before February 1st -- https://t.co/u4pLV8snIQ.\n\n #rspatial #gischat https://t.co/zhpcptVPYd"
 
   [tweets.entities]
@@ -1016,7 +1043,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1854
+  favorite_count = 1851
   id = 1589187266991501313
   retweet_count = 324
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -2570,9 +2597,9 @@
 
 [[tweets]]
   created_at = 2022-10-02T12:09:08Z
-  favorite_count = 256
+  favorite_count = 253
   id = 1576544812714848257
-  retweet_count = 41
+  retweet_count = 40
   text = "RT @robinlovelace: Really happy with this: have just reproduced the entirety of Geocomputation with R inside a 'devcontainer' with VS Code. It works 🎉 \nA small step on the #geocompr journey, a giant leap for reproducibility + accessibility! #RSpatial #DataScience https://t.co/NOA4grh7X8"
 
   [tweets.entities]
@@ -12638,10 +12665,6 @@
       user_id = 103516223
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -16184,9 +16207,9 @@
 
 [[tweets]]
   created_at = 2021-10-17T14:57:32Z
-  favorite_count = 682
+  favorite_count = 679
   id = 1449751437689466894
-  retweet_count = 177
+  retweet_count = 176
   text = "RT @mapserving: Happy 23rd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/3IG45zVvJT"
 
   [tweets.entities]
@@ -20906,7 +20929,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2271
+  favorite_count = 2266
   id = 1415715731648524290
   retweet_count = 215
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -29278,9 +29301,9 @@
 
 [[tweets]]
   created_at = 2021-01-19T20:11:42Z
-  favorite_count = 420
+  favorite_count = 417
   id = 1351623388796747777
-  retweet_count = 121
+  retweet_count = 120
   text = "RT @robinlovelace: Stoked to announce that the new #openaccess paper \"Open source tools for geographic analysis in transport planning\" has just been published 🎉\n\nPaper: https://t.co/kZy2kkyjDy\nCode: https://t.co/yOFtKbBbYc\nMy first ever solo-authored paper! https://t.co/3fHSbP0UTG"
 
   [tweets.entities]
@@ -30201,9 +30224,9 @@
 
 [[tweets]]
   created_at = 2020-12-18T15:03:21Z
-  favorite_count = 495
+  favorite_count = 494
   id = 1339949377545244673
-  retweet_count = 102
+  retweet_count = 99
   text = "RT @jakub_nowosad: I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -31861,9 +31884,9 @@
 
 [[tweets]]
   created_at = 2020-11-18T15:30:45Z
-  favorite_count = 495
+  favorite_count = 494
   id = 1329084639374315525
-  retweet_count = 102
+  retweet_count = 99
   text = "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -32660,9 +32683,9 @@
 
 [[tweets]]
   created_at = 2020-11-05T17:22:53Z
-  favorite_count = 638
+  favorite_count = 635
   id = 1324401816843493384
-  retweet_count = 161
+  retweet_count = 160
   text = "RT @spatialanalysis: Whatever the political outcome, cartography has been a real winner this election.\nFor the first time I feel that interactive maps have become as seamless as reading print.\nAs the last votes are counted, here's my highlights. 1/6 https://t.co/SpHSc1eLVI"
 
   [tweets.entities]
@@ -32978,6 +33001,10 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
+
+    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33160,7 +33187,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2167
+  favorite_count = 2170
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36093,7 +36120,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1850
+  favorite_count = 1853
   id = 1299086851484061699
   retweet_count = 669
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -45362,9 +45389,9 @@
 
 [[tweets]]
   created_at = 2020-01-08T05:47:13Z
-  favorite_count = 732
+  favorite_count = 728
   id = 1214785607744053248
-  retweet_count = 131
+  retweet_count = 129
   text = "RT @TheStephLocke: Instead of referring to myself as self-taught, I'm gonna start referring to myself as community-taught. \n\nThe sites, the blogs, the books, the user groups, the confs, the forums ... all community efforts that I used to learn and advance my programming and data science knowledge."
 
   [tweets.entities]
@@ -58867,7 +58894,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 451
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59897,6 +59924,17 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 1085562497300606976
+    user = "DerEhrmann"
+    user_id = 879320767607033857
+
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60379,7 +60417,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5515
+  favorite_count = 5523
   id = 1076899899348799488
   retweet_count = 1572
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63343,9 +63381,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2737
+  favorite_count = 2733
   id = 1039472133481615360
-  retweet_count = 1036
+  retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -70141,7 +70179,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 304
+  favorite_count = 307
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
