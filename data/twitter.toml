@@ -26935,7 +26935,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37156
+  favorite_count = 37148
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33024,10 +33024,6 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
-      user = "giurugg"
-      user_id = 1319708430316261376
-
-    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33210,7 +33206,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2170
+  favorite_count = 2166
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35630,9 +35626,9 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1975
+  favorite_count = 1972
   id = 1302134558649995264
-  retweet_count = 540
+  retweet_count = 538
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
 
   [tweets.entities]
@@ -38078,9 +38074,9 @@
 
 [[tweets]]
   created_at = 2020-07-02T10:13:49Z
-  favorite_count = 175
+  favorite_count = 172
   id = 1278632964247732224
-  retweet_count = 35
+  retweet_count = 34
   text = "RT @dickoah: My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi"
 
   [tweets.entities]
@@ -40634,7 +40630,7 @@
 
 [[tweets]]
   created_at = 2020-04-27T14:15:02Z
-  favorite_count = 84
+  favorite_count = 81
   id = 1254776071360151558
   retweet_count = 23
   text = "Next month, May 18-21 2020, 🖥️I will teach a four day online course about Introduction to spatial analysis using R. You can find more details about it at https://t.co/hmyt3gqfVk. Feel free to email me if you have any questions! #rstats #rspatial #gis https://t.co/L381HQmIu2"
@@ -70191,7 +70187,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 307
+  favorite_count = 303
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -71074,9 +71070,9 @@
 
 [[tweets]]
   created_at = 2017-11-17T13:35:45Z
-  favorite_count = 157
+  favorite_count = 154
   id = 931516208515514368
-  retweet_count = 58
+  retweet_count = 56
   text = "RT @robinlovelace: Just merged 10 months+ ~3k lines of code's worth of work to support simple features in R transport package 📦  stplanr: https://t.co/79PivAGCid Pls #rstats tweeps share + test new version before I push this to CRAN. Reproducible code + new functions ⏬ #gis4ta https://t.co/jKHpnF9jcQ"
 
   [tweets.entities]
