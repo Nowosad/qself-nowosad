@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-16T18:22:21Z
-  favorite_count = 11
+  favorite_count = 14
   id = 1603817826149597186
   retweet_count = 7
   text = "RT @alexquech: @geogalego Many people have moved to some instances of mastodon such as: \nmastodon social\nfosstodon org\n\nhere is a list of some members of the #rspatial community:\nhttps://t.co/KHuXDFv3Nz"
@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-12-15T15:01:16Z
-  favorite_count = 46
+  favorite_count = 49
   id = 1603404831808712704
-  retweet_count = 22
+  retweet_count = 23
   text = "🔥OpenGeoHub Summer School 2023 will be held in Poznań, Poland🔥\n\nA whole week of #opensource spatial data analysis using #rstats, #python, and #julialang!\n\n27 August 2022 – 02 September 2023\n\nApply before February 1st -- https://t.co/u4pLV8snIQ.\n\n #rspatial #gischat https://t.co/zhpcptVPYd"
 
   [tweets.entities]
@@ -6391,9 +6391,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22712
+  favorite_count = 22707
   id = 1546126992168439808
-  retweet_count = 4872
+  retweet_count = 4873
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -19762,7 +19762,7 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2209
+  favorite_count = 2206
   id = 1427711108668874752
   retweet_count = 737
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
@@ -40400,7 +40400,7 @@
 
 [[tweets]]
   created_at = 2020-05-01T21:09:36Z
-  favorite_count = 46
+  favorite_count = 45
   id = 1256329949834690561
   retweet_count = 16
   text = "RT @topographos2: so now after 100 years, I have added #rspatial to his innovative mixture of history and cartography,\nData: https://t.co/TVVRcIXvd9 \nCode: https://t.co/6a1oHfiPkG https://t.co/cU0KTWqOFC"
@@ -40410,7 +40410,7 @@
     [[tweets.entities.medias]]
       id = 1256314716961603585
       type = "photo"
-      url = "https://pbs.twimg.com/media/EW9TlC6XgAEvPvH.png"
+      url = "https://pbs.twimg.com/media/EW9TlC6XgAEBZt4.png"
 
     [[tweets.entities.urls]]
       display_url = "geo.nls.uk/urbhist/"
@@ -40611,7 +40611,7 @@
 
 [[tweets]]
   created_at = 2020-04-27T14:15:02Z
-  favorite_count = 81
+  favorite_count = 84
   id = 1254776071360151558
   retweet_count = 23
   text = "Next month, May 18-21 2020, 🖥️I will teach a four day online course about Introduction to spatial analysis using R. You can find more details about it at https://t.co/hmyt3gqfVk. Feel free to email me if you have any questions! #rstats #rspatial #gis https://t.co/L381HQmIu2"
@@ -46997,7 +46997,7 @@
     [[tweets.entities.medias]]
       id = 1198374882456883200
       type = "video"
-      url = "https://pbs.twimg.com/ext_tw_video_thumb/1198374882456883200/pu/img/1OI4htg-O-IC2p3n.jpg"
+      url = "https://pbs.twimg.com/ext_tw_video_thumb/1198374882456883200/pr/img/rX-4WEo89xoUXw2V.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "topographos2"
@@ -52033,7 +52033,7 @@
     [[tweets.entities.medias]]
       id = 1157337893511319552
       type = "photo"
-      url = "https://pbs.twimg.com/media/EA-wrqvXUAAnq6V.png"
+      url = "https://pbs.twimg.com/media/EA-wrqvXUAAw04r.png"
 
     [[tweets.entities.user_mentions]]
       user = "topographos2"
@@ -63381,7 +63381,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2733
+  favorite_count = 2739
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66011,6 +66011,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
