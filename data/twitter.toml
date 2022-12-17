@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-12-17T10:09:41Z
+  favorite_count = 57
+  id = 1604056229604495360
+  retweet_count = 10
+  text = "RT @tylermorganwall: Updated #rayshader last night to support more types of extents, starting the transition away from raster. You can also just pass the sf/terra/sp object to the `extent` argument and it will be extracted for you.\n\nSite:\nhttps://t.co/2N9TkQ8fgu \n\n#RStats"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "rayshader.com"
+      expanded_url = "https://www.rayshader.com"
+      url = "https://t.co/2N9TkQ8fgu"
+
+    [[tweets.entities.user_mentions]]
+      user = "tylermorganwall"
+      user_id = 273781698
+
+  [tweets.retweet]
+    status_id = 1603393054282391552
+    user = "tylermorganwall"
+    user_id = 273781698
+
+[[tweets]]
   created_at = 2022-12-16T18:22:21Z
   favorite_count = 14
   id = 1603817826149597186
@@ -1246,9 +1269,9 @@
 
 [[tweets]]
   created_at = 2022-11-03T07:52:43Z
-  favorite_count = 461
+  favorite_count = 458
   id = 1588076691783651328
-  retweet_count = 45
+  retweet_count = 43
   text = "RT @samiasab90: #30daymapchallenge\nDay 2: Lines\na map of all the bike paths in #Netherlands\nmade using #RStats \n#DataViz #DataVisualization #GIS #maps #openstreetmap https://t.co/VpTXPCw8qc"
 
   [tweets.entities]
@@ -13880,9 +13903,9 @@
 
 [[tweets]]
   created_at = 2021-12-14T07:49:38Z
-  favorite_count = 594
+  favorite_count = 591
   id = 1470662247970189312
-  retweet_count = 167
+  retweet_count = 168
   text = "RT @DanielNemenyi: An excellent human rights NGO just told me they \"removed the RSS feed since this technology became obsolete\"?!\n\nSubscribing to website updates directly + not via social media is crucial to resisting surveillance capitalism. RSS still does that, need an RSS fightback! #RSSaintdead"
 
   [tweets.entities]
@@ -16918,9 +16941,9 @@
 
 [[tweets]]
   created_at = 2021-10-01T13:44:23Z
-  favorite_count = 979
+  favorite_count = 976
   id = 1443934823412813827
-  retweet_count = 365
+  retweet_count = 364
   text = "RT @tjukanov: 🎉Categories for #30DayMapChallenge 2021 🎉\n\nJoin in to create maps around these themes. Use your creativity and share your results with others! Starts 01/11/2021. \n\nMore information: https://t.co/OmTLB6u2cL https://t.co/IzWAw21ns6"
 
   [tweets.entities]
@@ -26912,7 +26935,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37160
+  favorite_count = 37152
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -35680,7 +35703,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 247
+  favorite_count = 250
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -47381,7 +47404,7 @@
 
 [[tweets]]
   created_at = 2019-11-09T21:17:48Z
-  favorite_count = 345
+  favorite_count = 348
   id = 1193276524973174791
   retweet_count = 103
   text = "RT @CivicAngela: Slides for my talk at #rstatdc can be found at https://t.co/GB58zIy3ND! My talk was based off of questions I get all the time at the R Spatial Workshop at @GeoDaCenter: \n\n1) How to get started with spatial analysis?\n2) What tools to use?\n3) What can you do in #rstats? https://t.co/qzEKO0T8Y4"
