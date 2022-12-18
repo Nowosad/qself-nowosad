@@ -1,5 +1,24 @@
 
 [[tweets]]
+  created_at = 2022-12-18T13:51:38Z
+  favorite_count = 28
+  id = 1604474472215547904
+  retweet_count = 6
+  text = "{supercells}: Superpixels of Spatial Data\n\nThe supercells() function is the core of the {supercells} package. An overview of its arguments is available at https://t.co/GfL16j2L6H.\n\n#rstats #rspatial #spatialpatterns https://t.co/6XPMnH1oMe"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1604473939857707009
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkQ8jCSXEAEeZZJ.png"
+
+    [[tweets.entities.urls]]
+      display_url = "jakubnowosad.com/supercells/art…"
+      expanded_url = "https://jakubnowosad.com/supercells/articles/main-function.html"
+      url = "https://t.co/GfL16j2L6H"
+
+[[tweets]]
   created_at = 2022-12-17T10:09:41Z
   favorite_count = 60
   id = 1604056229604495360
@@ -12717,10 +12736,6 @@
     [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-    [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
 
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
@@ -33022,6 +33037,10 @@
     [[tweets.entities.user_mentions]]
       user = "tjukanov"
       user_id = 2198358416
+
+    [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
 
     [[tweets.entities.user_mentions]]
       user = "dickoah"
@@ -58913,7 +58932,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60425,7 +60444,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5511
+  favorite_count = 5521
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63389,7 +63408,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2733
+  favorite_count = 2737
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66019,6 +66038,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70187,7 +70217,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 302
+  favorite_count = 307
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
