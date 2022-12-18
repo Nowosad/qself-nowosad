@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-17T10:09:41Z
-  favorite_count = 57
+  favorite_count = 60
   id = 1604056229604495360
   retweet_count = 10
   text = "RT @tylermorganwall: Updated #rayshader last night to support more types of extents, starting the transition away from raster. You can also just pass the sf/terra/sp object to the `extent` argument and it will be extracted for you.\n\nSite:\nhttps://t.co/2N9TkQ8fgu \n\n#RStats"
@@ -59946,17 +59946,6 @@
   created_at = 2019-01-16T15:48:58Z
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 1085562497300606976
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
