@@ -993,9 +993,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6489
+  favorite_count = 6486
   id = 1589374569260933120
-  retweet_count = 1026
+  retweet_count = 1025
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -33024,6 +33024,10 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
+
+    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33206,7 +33210,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2166
+  favorite_count = 2169
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -40485,7 +40489,7 @@
 
 [[tweets]]
   created_at = 2020-05-01T06:20:47Z
-  favorite_count = 183
+  favorite_count = 180
   id = 1256106271356399621
   retweet_count = 42
   text = "RT @MilesMcBain: How my team uses {drake} and associated tools in our #rstats workflow, a post:\n\nhttps://t.co/SXnK4C5F6j"
@@ -40630,7 +40634,7 @@
 
 [[tweets]]
   created_at = 2020-04-27T14:15:02Z
-  favorite_count = 81
+  favorite_count = 84
   id = 1254776071360151558
   retweet_count = 23
   text = "Next month, May 18-21 2020, 🖥️I will teach a four day online course about Introduction to spatial analysis using R. You can find more details about it at https://t.co/hmyt3gqfVk. Feel free to email me if you have any questions! #rstats #rspatial #gis https://t.co/L381HQmIu2"
@@ -47136,9 +47140,9 @@
 
 [[tweets]]
   created_at = 2019-11-17T13:06:14Z
-  favorite_count = 126
+  favorite_count = 123
   id = 1196051923041996802
-  retweet_count = 35
+  retweet_count = 34
   text = "Did you know that the tmap package 📦 does not have a hex logo? Do any of you #rstats users would like to create one? #rspatial #maps https://t.co/EvrubvKdqv"
 
   [tweets.entities]
@@ -58913,7 +58917,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 451
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59943,6 +59947,17 @@
   id = 1085564577914544128
   text = "@DerEhrmann The second one. The whole world is divided into 9 by 9 km blocks, and the entropy is calculated inside those blocks based on the 300 meter resolution data."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 1085562497300606976
+    user = "DerEhrmann"
+    user_id = 879320767607033857
+
 [[tweets]]
   created_at = 2019-01-16T15:25:16Z
   favorite_count = 49
@@ -60425,9 +60440,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5512
+  favorite_count = 5521
   id = 1076899899348799488
-  retweet_count = 1571
+  retweet_count = 1570
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -63389,7 +63404,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2733
+  favorite_count = 2739
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66019,6 +66034,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70187,7 +70213,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 303
+  favorite_count = 306
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
