@@ -52,9 +52,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T13:51:38Z
-  favorite_count = 192
+  favorite_count = 204
   id = 1604474472215547904
-  retweet_count = 34
+  retweet_count = 36
   text = "{supercells}: Superpixels of Spatial Data\n\nThe supercells() function is the core of the {supercells} package. An overview of its arguments is available at https://t.co/GfL16j2L6H.\n\n#rstats #rspatial #spatialpatterns https://t.co/6XPMnH1oMe"
 
   [tweets.entities]
@@ -1063,7 +1063,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6479
+  favorite_count = 6482
   id = 1589374569260933120
   retweet_count = 1024
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -12787,10 +12787,6 @@
     [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-    [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
 
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
@@ -27207,7 +27203,7 @@
 
 [[tweets]]
   created_at = 2021-03-01T08:24:36Z
-  favorite_count = 322
+  favorite_count = 318
   id = 1366303342121660416
   retweet_count = 80
   text = "RT @undertheraedar: Exciting day tomorrow as the lovely swisstopo people open up their terrain data \n\n\"Permission is no longer required for the use of most digital products such as national maps, orthophotos or geological vector data.\" (this includes commercial use)\n\nhttps://t.co/fGaiwSQN7Z https://t.co/9oqZi4fk2y"
@@ -33094,6 +33090,10 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
+
+    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33276,7 +33276,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2166
+  favorite_count = 2169
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36209,7 +36209,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1850
+  favorite_count = 1853
   id = 1299086851484061699
   retweet_count = 668
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -55677,7 +55677,7 @@
 
 [[tweets]]
   created_at = 2019-06-02T18:07:42Z
-  favorite_count = 66
+  favorite_count = 63
   id = 1135246626166059009
   retweet_count = 33
   text = "RT @Lene_Fischer: #GISchat #foss4g2019 \nI have a few questions about use of Open Source GIS:\nWhich GIS programs do you use ?\nWhy do you use Open Source GIS programs ?\nIn which profession do you use GIS (municipality, goverment, education ect..) ?\nHow do you 'pay' for your use of the programs ?"
@@ -58983,7 +58983,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60495,7 +60495,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5510
+  favorite_count = 5519
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63985,9 +63985,9 @@
 
 [[tweets]]
   created_at = 2018-08-24T07:22:39Z
-  favorite_count = 458
+  favorite_count = 455
   id = 1032890917114523648
-  retweet_count = 138
+  retweet_count = 136
   text = "RT @mbrcalles: During my PhD I made the switch to do all spatial work in R and how I wish I had \"Geocomputation in R\" earlier. What a fantastic resource, I really can't recommend it enough https://t.co/V3PEsEcFqm @robinlovelace"
 
   [tweets.entities]
@@ -70257,7 +70257,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 303
+  favorite_count = 306
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
