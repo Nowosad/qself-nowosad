@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:07:43Z
-  favorite_count = 43
+  favorite_count = 47
   id = 1604569118295851009
-  retweet_count = 27
+  retweet_count = 33
   text = "RT @foss4g: 📢 Call for Academic Papers is now open!\n\n📆  We invite you to submit abstracts for academic papers by 19 Feb 2023!\n\nFollowing the FOSS4G tradition, the papers will be published again in ISPRS.\n\n👉 https://t.co/WCx0AqusCE\n\n#FOSS4G | July 26 - June 2 \nPrizren, Kosovo\n\n#FOSS4G2023 https://t.co/Xk0NNXw5tm"
 
   [tweets.entities]
@@ -52,9 +52,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T13:51:38Z
-  favorite_count = 204
+  favorite_count = 217
   id = 1604474472215547904
-  retweet_count = 36
+  retweet_count = 37
   text = "{supercells}: Superpixels of Spatial Data\n\nThe supercells() function is the core of the {supercells} package. An overview of its arguments is available at https://t.co/GfL16j2L6H.\n\n#rstats #rspatial #spatialpatterns https://t.co/6XPMnH1oMe"
 
   [tweets.entities]
@@ -63459,9 +63459,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2729
+  favorite_count = 2732
   id = 1039472133481615360
-  retweet_count = 1033
+  retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -66089,6 +66089,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -77846,9 +77857,9 @@
 
 [[tweets]]
   created_at = 2016-03-10T17:23:14Z
-  favorite_count = 520
+  favorite_count = 517
   id = 707980142036045824
-  retweet_count = 277
+  retweet_count = 275
   text = "RT @AcademicsSay: A dissertation is never completed, only submitted."
 
   [tweets.entities]
