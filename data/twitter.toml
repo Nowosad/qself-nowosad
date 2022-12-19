@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:07:43Z
-  favorite_count = 32
+  favorite_count = 39
   id = 1604569118295851009
-  retweet_count = 22
+  retweet_count = 25
   text = "RT @foss4g: 📢 Call for Academic Papers is now open!\n\n📆  We invite you to submit abstracts for academic papers by 19 Feb 2023!\n\nFollowing the FOSS4G tradition, the papers will be published again in ISPRS.\n\n👉 https://t.co/WCx0AqusCE\n\n#FOSS4G | July 26 - June 2 \nPrizren, Kosovo\n\n#FOSS4G2023 https://t.co/Xk0NNXw5tm"
 
   [tweets.entities]
@@ -52,9 +52,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T13:51:38Z
-  favorite_count = 169
+  favorite_count = 178
   id = 1604474472215547904
-  retweet_count = 29
+  retweet_count = 32
   text = "{supercells}: Superpixels of Spatial Data\n\nThe supercells() function is the core of the {supercells} package. An overview of its arguments is available at https://t.co/GfL16j2L6H.\n\n#rstats #rspatial #spatialpatterns https://t.co/6XPMnH1oMe"
 
   [tweets.entities]
@@ -11952,9 +11952,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3455
+  favorite_count = 3451
   id = 1490054004671496198
-  retweet_count = 584
+  retweet_count = 583
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -15041,9 +15041,9 @@
 
 [[tweets]]
   created_at = 2021-11-20T11:22:57Z
-  favorite_count = 299
+  favorite_count = 296
   id = 1462018624659628034
-  retweet_count = 102
+  retweet_count = 101
   text = "RT @ValaviRoozbeh: Interested in species distribution modeling?\nIn this new paper, we assess the predictive performance of a range of SDMs on a global dataset and provide code in #RStats. Published in @ESAMonographs; a work with @GGuillera, @jj_lahoz & @JaneElith\n#SDM #ENM\nhttps://t.co/78dp7NH6uI https://t.co/gTwp7YpIUh"
 
   [tweets.entities]
@@ -19851,7 +19851,7 @@
 
 [[tweets]]
   created_at = 2021-08-17T19:17:08Z
-  favorite_count = 2206
+  favorite_count = 2203
   id = 1427711108668874752
   retweet_count = 737
   text = "RT @tylermorganwall: New dataviz: The Humanity Globe. Population density across the world, visualized in 3D with #rayrender (using #RStats and #rayshader to process the data). \n\nCode:\nhttps://t.co/lW0JrOgvk3\n\nRayrender:\nhttps://t.co/iB5nWhpnfN\n\n#dataviz #DataVisualization https://t.co/kgnPLrz0iU"
@@ -22882,9 +22882,9 @@
 
 [[tweets]]
   created_at = 2021-06-10T05:45:22Z
-  favorite_count = 128
+  favorite_count = 125
   id = 1402864446414983172
-  retweet_count = 22
+  retweet_count = 21
   text = "RT @pierreroudier: New #rstats 📦 alert! \n\nJust released the first version of {hillshader} on CRAN. It leverages @tylermorganwall's incredible #rayshader package to create beautiful ray-traced hillshade layers that are GIS-ready.\n\nCheck out https://t.co/gsFSyN4kwD for more info. https://t.co/pkayR2PkNH"
 
   [tweets.entities]
@@ -33326,9 +33326,9 @@
 
 [[tweets]]
   created_at = 2020-10-20T21:01:51Z
-  favorite_count = 43
+  favorite_count = 40
   id = 1318658714598100994
-  retweet_count = 10
+  retweet_count = 9
   text = "RT @RogerBivand: @nordholmen @JGeoSys Thanks for your help with the code check! The article is open access on https://t.co/dkPcqzTBYb. More updates on fun with coordinate reference systems on Tuesday, 10 November on https://t.co/AJyskrmzM8 - not posted yet, to follow (shortly?)"
 
   [tweets.entities]
@@ -40881,7 +40881,7 @@
 
 [[tweets]]
   created_at = 2020-04-24T08:47:24Z
-  favorite_count = 763
+  favorite_count = 760
   id = 1253606454851846144
   retweet_count = 259
   text = "RT @pdalgd: R 4.0.0 \"Arbor Day\" (source version) has been released"
@@ -63459,7 +63459,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2730
+  favorite_count = 2733
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
