@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-12-19T18:40:57Z
+  favorite_count = 70
+  id = 1604909667917828096
+  retweet_count = 15
+  text = "RT @nrennie35: Following on from the #30DayChartChallenge, I've written (another) blog post comparing my favourite R packages for making maps and visualising spatial data in R!\n\n🗺️🗺️🗺️\n\nhttps://t.co/Wz5eiBvQ6w\n\n#RStats #RSpatial"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "nrennie.rbind.io/blog/2022-12-1…"
+      expanded_url = "https://nrennie.rbind.io/blog/2022-12-17-r-packages-for-visualising-spatial-data/"
+      url = "https://t.co/Wz5eiBvQ6w"
+
+    [[tweets.entities.user_mentions]]
+      user = "nrennie35"
+      user_id = 963902391643967488
+
+  [tweets.retweet]
+    status_id = 1604767745395998720
+    user = "nrennie35"
+    user_id = 963902391643967488
+
+[[tweets]]
   created_at = 2022-12-18T20:07:43Z
   favorite_count = 51
   id = 1604569118295851009
@@ -12789,10 +12812,6 @@
       user_id = 103516223
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -16584,9 +16603,9 @@
 
 [[tweets]]
   created_at = 2021-10-11T18:41:35Z
-  favorite_count = 159
+  favorite_count = 156
   id = 1447633493551427584
-  retweet_count = 28
+  retweet_count = 27
   text = "RT @undertheraedar: 🥳Still the biggest and best 'Free GIS Datasets' list on the planet, in my opinion - thanks to @sciremotesense as always, but also because he includes a ⚠️ 'Beware' ⚠️box, with the words:\n\n\"As always, critically examine the data you are using\" 🧐\n\nhttps://t.co/D57w4bKTYj https://t.co/TLe8pWczUK"
 
   [tweets.entities]
@@ -31298,7 +31317,7 @@
 
 [[tweets]]
   created_at = 2020-11-24T06:21:16Z
-  favorite_count = 225
+  favorite_count = 222
   id = 1331120681648607234
   retweet_count = 24
   text = "RT @katiejolly6: I put together a collage last night of all the maps I’ve made this month so far! 🗺 All of my R scripts for the basic maps are available here (most of the labeling is done in Illustrator to be ⚡️faster): https://t.co/gcEmQlnPN8 https://t.co/cUI3Fvvrvn"
@@ -33094,6 +33113,10 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
+
+    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33213,7 +33236,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 810
+  favorite_count = 813
   id = 1322224591750766594
   retweet_count = 312
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33276,7 +33299,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2166
+  favorite_count = 2169
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35769,7 +35792,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 247
+  favorite_count = 250
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36209,7 +36232,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1850
+  favorite_count = 1853
   id = 1299086851484061699
   retweet_count = 668
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -58983,7 +59006,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60495,7 +60518,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5509
+  favorite_count = 5519
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63459,7 +63482,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2728
+  favorite_count = 2731
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66089,6 +66112,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70257,7 +70291,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 302
+  favorite_count = 306
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -77011,7 +77045,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1657
+  favorite_count = 1654
   id = 777942576099893248
   retweet_count = 912
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
