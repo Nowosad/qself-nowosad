@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-19T18:40:57Z
-  favorite_count = 97
+  favorite_count = 114
   id = 1604909667917828096
-  retweet_count = 24
+  retweet_count = 28
   text = "RT @nrennie35: Following on from the #30DayChartChallenge, I've written (another) blog post comparing my favourite R packages for making maps and visualising spatial data in R!\n\n🗺️🗺️🗺️\n\nhttps://t.co/Wz5eiBvQ6w\n\n#RStats #RSpatial"
 
   [tweets.entities]
@@ -75,9 +75,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T13:51:38Z
-  favorite_count = 224
+  favorite_count = 227
   id = 1604474472215547904
-  retweet_count = 38
+  retweet_count = 39
   text = "{supercells}: Superpixels of Spatial Data\n\nThe supercells() function is the core of the {supercells} package. An overview of its arguments is available at https://t.co/GfL16j2L6H.\n\n#rstats #rspatial #spatialpatterns https://t.co/6XPMnH1oMe"
 
   [tweets.entities]
@@ -12812,10 +12812,6 @@
       user_id = 103516223
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -16323,7 +16319,7 @@
 
 [[tweets]]
   created_at = 2021-10-17T14:57:32Z
-  favorite_count = 679
+  favorite_count = 676
   id = 1449751437689466894
   retweet_count = 176
   text = "RT @mapserving: Happy 23rd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/3IG45zVvJT"
@@ -24978,9 +24974,9 @@
 
 [[tweets]]
   created_at = 2021-05-01T15:57:40Z
-  favorite_count = 275
+  favorite_count = 272
   id = 1388523022991171586
-  retweet_count = 87
+  retweet_count = 86
   text = "RT @udemsar: I just had to have a go for GIScience... 😄 With contribution from @mfbenitez https://t.co/8XQgN9ACK6 https://t.co/RZG5wAwKSt"
 
   [tweets.entities]
@@ -33117,6 +33113,10 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
+
+    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -33299,7 +33299,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2166
+  favorite_count = 2169
   id = 1319740736372355072
   retweet_count = 800
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36232,7 +36232,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1850
+  favorite_count = 1853
   id = 1299086851484061699
   retweet_count = 668
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -59006,7 +59006,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60518,7 +60518,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5511
+  favorite_count = 5520
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63482,7 +63482,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2726
+  favorite_count = 2731
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66112,6 +66112,17 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DerEhrmann"
+      user_id = 879320767607033857
+
+  [tweets.reply]
+    status_id = 994829985818046464
+    user = "DerEhrmann"
+    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70280,7 +70291,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 302
+  favorite_count = 306
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -77034,7 +77045,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1654
+  favorite_count = 1657
   id = 777942576099893248
   retweet_count = 912
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
