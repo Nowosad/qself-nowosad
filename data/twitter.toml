@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-19T18:40:57Z
-  favorite_count = 114
+  favorite_count = 142
   id = 1604909667917828096
-  retweet_count = 28
+  retweet_count = 35
   text = "RT @nrennie35: Following on from the #30DayChartChallenge, I've written (another) blog post comparing my favourite R packages for making maps and visualising spatial data in R!\n\n🗺️🗺️🗺️\n\nhttps://t.co/Wz5eiBvQ6w\n\n#RStats #RSpatial"
 
   [tweets.entities]
@@ -24,7 +24,7 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:07:43Z
-  favorite_count = 51
+  favorite_count = 54
   id = 1604569118295851009
   retweet_count = 34
   text = "RT @foss4g: 📢 Call for Academic Papers is now open!\n\n📆  We invite you to submit abstracts for academic papers by 19 Feb 2023!\n\nFollowing the FOSS4G tradition, the papers will be published again in ISPRS.\n\n👉 https://t.co/WCx0AqusCE\n\n#FOSS4G | July 26 - June 2 \nPrizren, Kosovo\n\n#FOSS4G2023 https://t.co/Xk0NNXw5tm"
@@ -10683,7 +10683,7 @@
 
 [[tweets]]
   created_at = 2022-03-06T15:57:11Z
-  favorite_count = 98
+  favorite_count = 95
   id = 1500500749347958785
   retweet_count = 30
   text = "RT @RogerBivand: Version 0.2-8 of rgrass7 (R-GRASS GIS interface) has been published on CRAN. This version also works with GRASS 8, despite the package name, but also represents a bridge to the future rgrass package, no longer using rgdal but now terra for file transfer: https://t.co/lo5do7FYF7"
@@ -70368,7 +70368,7 @@
 
 [[tweets]]
   created_at = 2017-12-16T22:05:09Z
-  favorite_count = 48
+  favorite_count = 45
   id = 942153651249958913
   retweet_count = 8
   text = "RT @maynardandking: Thanks to @edzerpebesma for adding st_subdivide() to the sf package! \n\nSeeing exciting speed improvements for spatial intersection operations: https://t.co/8exoqVw7hm\n\nInspired by a @stevevance blog post: https://t.co/XdHJmlgpqQ\n\n(cc @pathoverlap)\n#rstats #gistribe https://t.co/F1MrVerH8T"
