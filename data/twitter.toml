@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-19T18:40:57Z
-  favorite_count = 162
+  favorite_count = 175
   id = 1604909667917828096
-  retweet_count = 38
+  retweet_count = 43
   text = "RT @nrennie35: Following on from the #30DayChartChallenge, I've written (another) blog post comparing my favourite R packages for making maps and visualising spatial data in R!\n\n🗺️🗺️🗺️\n\nhttps://t.co/Wz5eiBvQ6w\n\n#RStats #RSpatial"
 
   [tweets.entities]
@@ -11975,9 +11975,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3451
+  favorite_count = 3448
   id = 1490054004671496198
-  retweet_count = 583
+  retweet_count = 584
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
