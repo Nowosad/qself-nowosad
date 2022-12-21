@@ -52,9 +52,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:03:12Z
-  favorite_count = 97
+  favorite_count = 101
   id = 1604567979466887168
-  retweet_count = 37
+  retweet_count = 39
   text = "RT @RogerBivand: Part 2 of R-spatial evolution, about the retirement of @rsbivand 's rgdal, rgeos and maptools packages, is found here: https://t.co/OJmwO6nj1e"
 
   [tweets.entities]
