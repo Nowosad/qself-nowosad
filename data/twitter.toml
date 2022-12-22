@@ -1086,9 +1086,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6475
+  favorite_count = 6472
   id = 1589374569260933120
-  retweet_count = 1024
+  retweet_count = 1025
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -12810,6 +12810,10 @@
     [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
+
+    [[tweets.entities.user_mentions]]
+      user = "SorenWilke"
+      user_id = 1046827048717750274
 
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
@@ -33113,10 +33117,6 @@
       user_id = 2198358416
 
     [[tweets.entities.user_mentions]]
-      user = "giurugg"
-      user_id = 1319708430316261376
-
-    [[tweets.entities.user_mentions]]
       user = "dickoah"
       user_id = 633596180
 
@@ -36232,7 +36232,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1853
+  favorite_count = 1850
   id = 1299086851484061699
   retweet_count = 668
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -40276,7 +40276,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 614
+  favorite_count = 611
   id = 1258796175077015552
   retweet_count = 135
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -59006,7 +59006,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 450
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60518,7 +60518,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5516
+  favorite_count = 5508
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63482,7 +63482,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2731
+  favorite_count = 2727
   id = 1039472133481615360
   retweet_count = 1034
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -66112,17 +66112,6 @@
   created_at = 2018-05-11T20:33:58Z
   id = 995039332649054208
   text = "@DerEhrmann Sure. Keep us updated."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DerEhrmann"
-      user_id = 879320767607033857
-
-  [tweets.reply]
-    status_id = 994829985818046464
-    user = "DerEhrmann"
-    user_id = 879320767607033857
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
@@ -70291,7 +70280,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 301
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
