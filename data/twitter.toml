@@ -12812,10 +12812,6 @@
       user_id = 103516223
 
     [[tweets.entities.user_mentions]]
-      user = "SorenWilke"
-      user_id = 1046827048717750274
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -27028,7 +27024,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37138
+  favorite_count = 37142
   id = 1367166556501925891
   retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33115,6 +33111,10 @@
     [[tweets.entities.user_mentions]]
       user = "tjukanov"
       user_id = 2198358416
+
+    [[tweets.entities.user_mentions]]
+      user = "giurugg"
+      user_id = 1319708430316261376
 
     [[tweets.entities.user_mentions]]
       user = "dickoah"
@@ -40276,7 +40276,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 611
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 135
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
@@ -59006,7 +59006,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60518,7 +60518,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5507
+  favorite_count = 5515
   id = 1076899899348799488
   retweet_count = 1571
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63482,9 +63482,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2728
+  favorite_count = 2732
   id = 1039472133481615360
-  retweet_count = 1034
+  retweet_count = 1033
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -70280,7 +70280,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 301
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70389,7 +70389,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stevevance"
-      user_id = 1604988493607878658
+      user_id = 30399127
 
     [[tweets.entities.user_mentions]]
       user = "pathoverlap"
