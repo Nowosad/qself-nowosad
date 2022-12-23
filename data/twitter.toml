@@ -78677,9 +78677,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2397
+  favorite_count = 2396
   id = 578278362667458560
-  retweet_count = 4203
+  retweet_count = 4200
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
