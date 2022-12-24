@@ -60746,9 +60746,9 @@
 
 [[tweets]]
   created_at = 2018-12-13T13:56:36Z
-  favorite_count = 601
+  favorite_count = 598
   id = 1073215110435532800
-  retweet_count = 208
+  retweet_count = 207
   text = "I am extremely proud to announce that Geocomputation with R (#geocompr) is complete. I wrote a blog post (https://t.co/hTHaRAyhXA) to share why we wrote an open source book, important information about extra materials and how to get involved. Many thanks to #Rstats and #rspatial! https://t.co/t5lzZVHTl1"
 
   [tweets.entities]
