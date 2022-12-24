@@ -70904,9 +70904,9 @@
 
 [[tweets]]
   created_at = 2017-12-04T14:56:09Z
-  favorite_count = 50
+  favorite_count = 47
   id = 937697035892948993
-  retweet_count = 14
+  retweet_count = 13
   text = "RT @robinlovelace: After reviews coordinated by @CRCPress, Part 1 of Geocomputation with #rstats is almost done 🎉. We plan to tweet a chapter each week in the run-up to the New Year 🎇. Here's Chapter 2, on data models/classes for geographic data 🌐: https://t.co/3mb4Nm8pLO https://t.co/RAB1c9ujb3"
 
   [tweets.entities]
