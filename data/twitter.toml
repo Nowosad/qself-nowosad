@@ -6507,9 +6507,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22676
+  favorite_count = 22673
   id = 1546126992168439808
-  retweet_count = 4867
+  retweet_count = 4866
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -70280,7 +70280,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 302
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70307,9 +70307,9 @@
 
 [[tweets]]
   created_at = 2017-12-19T13:56:19Z
-  favorite_count = 231
+  favorite_count = 228
   id = 943117797433004033
-  retweet_count = 108
+  retweet_count = 107
   text = "RT @ma_salmon: New #rstats post: How to develop good R packages (for open science). 👩‍💻 My tips and many links to fantastic resources! 🛠️📚  https://t.co/AcZArdn0ft #EAB2017 @rOpenSci"
 
   [tweets.entities]
