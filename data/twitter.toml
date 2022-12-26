@@ -6507,7 +6507,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22664
+  favorite_count = 22661
   id = 1546126992168439808
   retweet_count = 4867
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -26122,7 +26122,7 @@
 
 [[tweets]]
   created_at = 2021-03-23T19:38:44Z
-  favorite_count = 1501
+  favorite_count = 1498
   id = 1374445529703145475
   retweet_count = 442
   text = "RT @dr_xeo: I couldn't resist making a detailed European animation of the idea from @ZLabe. The average temperature of 24 hours in August 2020. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/cZcGLcZU9b"
@@ -40276,7 +40276,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T16:29:30Z
-  favorite_count = 611
+  favorite_count = 614
   id = 1258796175077015552
   retweet_count = 135
   text = "RT @grrrck: I'm very excited to announce that {xaringanthemer} is now on CRAN with a whole bunch of new features for making fantastic looking {xaringan} slides! #rstats\n\nHere's a short thread of highlights, or check out the release post for more details.\nhttps://t.co/hk7YPO89FX"
