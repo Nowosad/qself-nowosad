@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-27T15:18:57Z
-  favorite_count = 104
+  favorite_count = 161
   id = 1607757937102970884
-  retweet_count = 26
+  retweet_count = 39
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Ecology chapter we demonstrates ecological applications of spatial machine learning and GIS-R bridges.\nWant to learn more about applied geocomputation (for #ecology), visit https://t.co/OHgDzbvyGB.\n\n#rstats #rspatial #geocompr https://t.co/aUQVUoy0QF"
 
   [tweets.entities]
@@ -446,7 +446,7 @@
 
 [[tweets]]
   created_at = 2022-11-30T13:30:57Z
-  favorite_count = 191
+  favorite_count = 194
   id = 1597946284371243008
   retweet_count = 29
   text = "RT @darwinanddavis: #30DayMapChallenge 2022 - Sharing all #R code for maps, so like/follow and reach out w/ qu's\n\nDay 30 - Remix\n\nFrom our Visual Stories Team's coverage of Aus flooding this year @theage Working w/ gov, our journos & my talented team. Made w #rstats #rspatial #rayshader\n\nR code ⬇️ https://t.co/8EZEVynBBF"
@@ -2404,9 +2404,9 @@
 
 [[tweets]]
   created_at = 2022-10-03T14:15:41Z
-  favorite_count = 759
+  favorite_count = 756
   id = 1576939048433643520
-  retweet_count = 181
+  retweet_count = 180
   text = "RT @rmarkdown: \"Geocomputation with R, a book on geographic data analysis, visualization and modeling.\" -- by @robinlovelace https://t.co/kHpq6lCVIb #rstast #bookdown #rmarkdown #geocomputation https://t.co/DUvsf8CfKP"
 
   [tweets.entities]
@@ -6541,9 +6541,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22661
+  favorite_count = 22660
   id = 1546126992168439808
-  retweet_count = 4866
+  retweet_count = 4863
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -18869,9 +18869,9 @@
 
 [[tweets]]
   created_at = 2021-09-03T13:48:15Z
-  favorite_count = 409
+  favorite_count = 410
   id = 1433788936615337985
-  retweet_count = 106
+  retweet_count = 103
   text = "🔥Announcement🔥\n\n@MartijnTennekes and I are working on a book!\n\nIt describes how to make elegant and informative maps with the {tmap} package.\n\nYou can find the current draft at https://t.co/xtqj7aoOJz. \n\n#rstats #rspatial #cartography https://t.co/1WkqcxuWvz"
 
   [tweets.entities]
@@ -30370,9 +30370,9 @@
 
 [[tweets]]
   created_at = 2020-12-18T15:03:21Z
-  favorite_count = 494
+  favorite_count = 497
   id = 1339949377545244673
-  retweet_count = 99
+  retweet_count = 101
   text = "RT @jakub_nowosad: I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -32030,9 +32030,9 @@
 
 [[tweets]]
   created_at = 2020-11-18T15:30:45Z
-  favorite_count = 494
+  favorite_count = 497
   id = 1329084639374315525
-  retweet_count = 99
+  retweet_count = 101
   text = "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v"
 
   [tweets.entities]
@@ -78709,7 +78709,7 @@
   created_at = 2015-03-18T19:34:40Z
   favorite_count = 2396
   id = 578278362667458560
-  retweet_count = 4200
+  retweet_count = 4193
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
