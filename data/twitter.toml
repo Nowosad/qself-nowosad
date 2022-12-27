@@ -1,5 +1,39 @@
 
 [[tweets]]
+  created_at = 2022-12-27T15:18:57Z
+  favorite_count = 68
+  id = 1607757937102970884
+  retweet_count = 18
+  text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Ecology chapter we demonstrates ecological applications of spatial machine learning and GIS-R bridges.\nWant to learn more about applied geocomputation (for #ecology), visit https://t.co/OHgDzbvyGB.\n\n#rstats #rspatial #geocompr https://t.co/aUQVUoy0QF"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1607757391877095426
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fk_m1GPXwAIETuy.png"
+
+    [[tweets.entities.medias]]
+      id = 1607757403243663361
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fk_m1wlX0AEYeaF.png"
+
+    [[tweets.entities.medias]]
+      id = 1607757414706675714
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fk_m2bSXgAIHSQV.png"
+
+    [[tweets.entities.medias]]
+      id = 1607757424257024000
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fk_m2-3WQAAXKi0.png"
+
+    [[tweets.entities.urls]]
+      display_url = "geocompr.robinlovelace.net/eco.html"
+      expanded_url = "https://geocompr.robinlovelace.net/eco.html"
+      url = "https://t.co/OHgDzbvyGB"
+
+[[tweets]]
   created_at = 2022-12-19T18:40:57Z
   favorite_count = 212
   id = 1604909667917828096
@@ -2263,9 +2297,9 @@
 
 [[tweets]]
   created_at = 2022-10-07T06:04:29Z
-  favorite_count = 133
+  favorite_count = 136
   id = 1578264983921623043
-  retweet_count = 17
+  retweet_count = 16
   text = "RT @researchremora: A shaded relief map of Poland. With clouds. ☁️\n\n#rayshader adventures, an #rstats tale https://t.co/8Rt127gR79"
 
   [tweets.entities]
@@ -15937,17 +15971,12 @@
 
 [[tweets]]
   created_at = 2021-11-02T18:29:47Z
-  favorite_count = 112
+  favorite_count = 110
   id = 1455603057899757570
-  retweet_count = 24
+  retweet_count = 23
   text = "RT @thomas_mock: The @R4DScommunity welcomes you to week 45 of #TidyTuesday!  We're exploring making maps with R, for the #30DayMapChallenge!!\n\n📁 https://t.co/sElb4fcv3u\n🗞 https://t.co/EkFq9airEV\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/ZcmaIFVTLX"
 
   [tweets.entities]
-
-    [[tweets.entities.medias]]
-      id = 1455305568537743361
-      type = "photo"
-      url = "https://pbs.twimg.com/media/FDJItDxXEAE64Cf.jpg"
 
     [[tweets.entities.medias]]
       id = 1455305571511504896
