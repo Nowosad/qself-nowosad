@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-27T15:18:57Z
-  favorite_count = 68
+  favorite_count = 104
   id = 1607757937102970884
-  retweet_count = 18
+  retweet_count = 26
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Ecology chapter we demonstrates ecological applications of spatial machine learning and GIS-R bridges.\nWant to learn more about applied geocomputation (for #ecology), visit https://t.co/OHgDzbvyGB.\n\n#rstats #rspatial #geocompr https://t.co/aUQVUoy0QF"
 
   [tweets.entities]
@@ -15979,6 +15979,11 @@
   [tweets.entities]
 
     [[tweets.entities.medias]]
+      id = 1455305568537743361
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FDJItDxXEAE64Cf.jpg"
+
+    [[tweets.entities.medias]]
       id = 1455305571511504896
       type = "photo"
       url = "https://pbs.twimg.com/media/FDJItO2XEAAB6Yd.jpg"
@@ -27053,7 +27058,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37122
+  favorite_count = 37118
   id = 1367166556501925891
   retweet_count = 2926
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
