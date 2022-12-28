@@ -1,9 +1,36 @@
 
 [[tweets]]
+  created_at = 2022-12-28T18:26:09Z
+  favorite_count = 4
+  id = 1608167434078543878
+  retweet_count = 5
+  text = "RT @BrancherMarlon: I mapped the average number of heating degree-days (HDD) in Europe over 1979-2021 using @EU_Eurostat data. HDD is a weather-based indicator or metric used to better understand the energy requirements of buildings. #RStats #rspatial #DataViz https://t.co/NPdqlFTZea"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1607767886767980544
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fk_wX-wWAAApBrb.jpg"
+
+    [[tweets.entities.user_mentions]]
+      user = "BrancherMarlon"
+      user_id = 1312377488077660160
+
+    [[tweets.entities.user_mentions]]
+      user = "EU_Eurostat"
+      user_id = 300868924
+
+  [tweets.retweet]
+    status_id = 1607768208366354433
+    user = "BrancherMarlon"
+    user_id = 1312377488077660160
+
+[[tweets]]
   created_at = 2022-12-28T14:41:57Z
-  favorite_count = 20
+  favorite_count = 63
   id = 1608111013957668879
-  retweet_count = 6
+  retweet_count = 9
   text = "In February 2023, I'll teach a two-day online course on making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/djq4HAeTTJ. \n\nFeel free to email me if you have any questions! \n\n#rspatial #tmap #gischat https://t.co/tZDvGXzH3v"
 
   [tweets.entities]
@@ -35,9 +62,9 @@
 
 [[tweets]]
   created_at = 2022-12-27T15:18:57Z
-  favorite_count = 365
+  favorite_count = 376
   id = 1607757937102970884
-  retweet_count = 81
+  retweet_count = 84
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Ecology chapter we demonstrates ecological applications of spatial machine learning and GIS-R bridges.\nWant to learn more about applied geocomputation (for #ecology), visit https://t.co/OHgDzbvyGB.\n\n#rstats #rspatial #geocompr https://t.co/aUQVUoy0QF"
 
   [tweets.entities]
@@ -26189,9 +26216,9 @@
 
 [[tweets]]
   created_at = 2021-03-23T19:38:44Z
-  favorite_count = 1498
+  favorite_count = 1501
   id = 1374445529703145475
-  retweet_count = 442
+  retweet_count = 440
   text = "RT @dr_xeo: I couldn't resist making a detailed European animation of the idea from @ZLabe. The average temperature of 24 hours in August 2020. You can see a lot of geographic patterns. I love this kind of hypnotic temperature gifs. #rstats #rspatial #dataviz #climate https://t.co/cZcGLcZU9b"
 
   [tweets.entities]
@@ -78742,7 +78769,7 @@
   created_at = 2015-03-18T19:34:40Z
   favorite_count = 2397
   id = 578278362667458560
-  retweet_count = 4185
+  retweet_count = 4182
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
