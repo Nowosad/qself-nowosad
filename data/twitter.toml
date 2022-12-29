@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-12-28T14:41:57Z
-  favorite_count = 296
+  favorite_count = 304
   id = 1608111013957668879
-  retweet_count = 52
+  retweet_count = 53
   text = "In February 2023, I'll teach a two-day online course on making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/djq4HAeTTJ. \n\nFeel free to email me if you have any questions! \n\n#rspatial #tmap #gischat https://t.co/tZDvGXzH3v"
 
   [tweets.entities]
@@ -29958,7 +29958,7 @@
 
 [[tweets]]
   created_at = 2021-01-07T18:28:58Z
-  favorite_count = 96
+  favorite_count = 93
   id = 1347248879377543170
   retweet_count = 12
   text = "The most recent development version of {tmap} has a support for {terra} objects.\n\nTry it using the example code at https://t.co/lsXig4A7FQ.\n\n#rspatial #tmap #rstats https://t.co/U7MPYONnmI"
@@ -61642,10 +61642,6 @@
       user_id = 1009580174956826630
 
     [[tweets.entities.user_mentions]]
-      user = "else_elyse"
-      user_id = 4851513196
-
-    [[tweets.entities.user_mentions]]
       user = "univofstandrews"
       user_id = 19910826
 
@@ -63568,7 +63564,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2727
+  favorite_count = 2720
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
