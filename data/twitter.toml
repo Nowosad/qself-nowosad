@@ -28,9 +28,9 @@
 
 [[tweets]]
   created_at = 2022-12-28T14:41:57Z
-  favorite_count = 304
+  favorite_count = 312
   id = 1608111013957668879
-  retweet_count = 53
+  retweet_count = 55
   text = "In February 2023, I'll teach a two-day online course on making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/djq4HAeTTJ. \n\nFeel free to email me if you have any questions! \n\n#rspatial #tmap #gischat https://t.co/tZDvGXzH3v"
 
   [tweets.entities]
@@ -27114,7 +27114,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37102
+  favorite_count = 37106
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -59059,9 +59059,9 @@
 
 [[tweets]]
   created_at = 2019-02-22T22:33:00Z
-  favorite_count = 87
+  favorite_count = 84
   id = 1099074604583272448
-  retweet_count = 39
+  retweet_count = 38
   text = "RT @lbusetto74: Interested in working with #sentinel2 data in R? Have a look at v1.0 of the new #sen2r package! Amazing work by my colleague Luigi Ranghetti:\nhttps://t.co/7qWm8S1XXf https://t.co/WSAfV9D0vA \n#rstats #rspatial https://t.co/i2LP15t0w3"
 
   [tweets.entities]
@@ -60604,9 +60604,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5502
+  favorite_count = 5499
   id = 1076899899348799488
-  retweet_count = 1569
+  retweet_count = 1568
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
