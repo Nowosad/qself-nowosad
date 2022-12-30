@@ -28,7 +28,7 @@
 
 [[tweets]]
   created_at = 2022-12-28T14:41:57Z
-  favorite_count = 318
+  favorite_count = 321
   id = 1608111013957668879
   retweet_count = 56
   text = "In February 2023, I'll teach a two-day online course on making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/djq4HAeTTJ. \n\nFeel free to email me if you have any questions! \n\n#rspatial #tmap #gischat https://t.co/tZDvGXzH3v"
@@ -62,9 +62,9 @@
 
 [[tweets]]
   created_at = 2022-12-27T15:18:57Z
-  favorite_count = 398
+  favorite_count = 401
   id = 1607757937102970884
-  retweet_count = 91
+  retweet_count = 93
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe Ecology chapter we demonstrates ecological applications of spatial machine learning and GIS-R bridges.\nWant to learn more about applied geocomputation (for #ecology), visit https://t.co/OHgDzbvyGB.\n\n#rstats #rspatial #geocompr https://t.co/aUQVUoy0QF"
 
   [tweets.entities]
@@ -51078,7 +51078,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2895
+  favorite_count = 2898
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -51454,7 +51454,7 @@
 
 [[tweets]]
   created_at = 2019-08-14T09:15:20Z
-  favorite_count = 428
+  favorite_count = 425
   id = 1161566969142874112
   retweet_count = 32
   text = "RT @jcheng: If you’re wondering if this is the same book project I was working on, the answer is yes; I wrote Shiny, but had no fun writing about it! I couldn't be more excited to have @hadleywickham write the book on Shiny! 🚀 https://t.co/wD67Q62rpd"
