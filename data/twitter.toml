@@ -1615,7 +1615,7 @@
 
 [[tweets]]
   created_at = 2022-10-31T15:38:12Z
-  favorite_count = 459
+  favorite_count = 462
   id = 1587106672383762434
   retweet_count = 99
   text = "\"Geocomputation with R’s guide to reproducible spatial data analysis\" \n\nSlides: https://t.co/eNcn3oVbRm\nVideo: https://t.co/2HBE393OHL\n\nIt introduces geocomp with R and highlights some important reproducibility methods and tools. Exercises included.\n\n#rstats #rspatial @opengeohub https://t.co/a3S3NNVNxo"
@@ -6602,7 +6602,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22654
+  favorite_count = 22649
   id = 1546126992168439808
   retweet_count = 4862
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
