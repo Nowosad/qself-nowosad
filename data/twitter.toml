@@ -78749,9 +78749,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T21:53:45Z
-  favorite_count = 331
+  favorite_count = 328
   id = 578313367212941312
-  retweet_count = 391
+  retweet_count = 390
   text = "RT @AcademicsSay: I don't suffer from overthinking, I enjoy it. Depending on how you define enjoy. And overthinking."
 
   [tweets.entities]
