@@ -2544,9 +2544,9 @@
 
 [[tweets]]
   created_at = 2022-10-02T17:44:24Z
-  favorite_count = 272
+  favorite_count = 269
   id = 1576629183505207302
-  retweet_count = 39
+  retweet_count = 37
   text = "RT @kyle_e_walker: A US map in a tweet #rstats\n\nlibrary(tmap)\ntidycensus::get_acs(\n  geography = \"county\",\n  variables = \"B01002_001\",\n  geometry = T\n) |>\n  tigris::shift_geometry() |>\n  tm_shape() + \n  tm_fill(col = \"estimate\",\n          title = \"Median age\") + \n  tm_layout(legend.outside = T) https://t.co/TizEysTrCa"
 
   [tweets.entities]
@@ -27118,9 +27118,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37109
+  favorite_count = 37113
   id = 1367166556501925891
-  retweet_count = 2923
+  retweet_count = 2924
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -78769,7 +78769,7 @@
   created_at = 2015-03-18T19:34:40Z
   favorite_count = 2397
   id = 578278362667458560
-  retweet_count = 4182
+  retweet_count = 4179
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
