@@ -18825,7 +18825,7 @@
 
 [[tweets]]
   created_at = 2021-09-03T19:25:20Z
-  favorite_count = 119
+  favorite_count = 116
   id = 1433873764568248327
   retweet_count = 21
   text = "RT @a_gilardi5: You can check the slides of my presentation \"sfnetworks: Tidy Geospatial Networks in R\" at @opengeohub summer school here: https://t.co/YIMwAmXqBX\n\nThanks to @LuukvanderMeer, @loreabad6, and @robinlovelace for working on this amazing📦. \n\n#rstats #rspatial https://t.co/xfFHYuPBUa"
@@ -27114,7 +27114,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37107
+  favorite_count = 37102
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -29503,7 +29503,7 @@
 
 [[tweets]]
   created_at = 2021-01-19T20:11:42Z
-  favorite_count = 417
+  favorite_count = 414
   id = 1351623388796747777
   retweet_count = 120
   text = "RT @robinlovelace: Stoked to announce that the new #openaccess paper \"Open source tools for geographic analysis in transport planning\" has just been published 🎉\n\nPaper: https://t.co/kZy2kkyjDy\nCode: https://t.co/yOFtKbBbYc\nMy first ever solo-authored paper! https://t.co/3fHSbP0UTG"
@@ -33322,9 +33322,9 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 812
+  favorite_count = 808
   id = 1322224591750766594
-  retweet_count = 312
+  retweet_count = 311
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
 
   [tweets.entities]
@@ -33385,7 +33385,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2168
+  favorite_count = 2165
   id = 1319740736372355072
   retweet_count = 796
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35805,7 +35805,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1969
+  favorite_count = 1966
   id = 1302134558649995264
   retweet_count = 537
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35878,7 +35878,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 250
+  favorite_count = 247
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36318,7 +36318,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1853
+  favorite_count = 1847
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -36835,7 +36835,7 @@
 
 [[tweets]]
   created_at = 2020-08-15T21:27:55Z
-  favorite_count = 120
+  favorite_count = 117
   id = 1294747674034540544
   retweet_count = 39
   text = "RT @drob: For people interested in spatial data, \n@emdodwell points out the Geocomputation with R book, available online and in print! https://t.co/u5Kr6P90pM #rstatsnyc"
@@ -37726,9 +37726,9 @@
 
 [[tweets]]
   created_at = 2020-07-28T09:49:31Z
-  favorite_count = 185
+  favorite_count = 182
   id = 1288048935202938880
-  retweet_count = 78
+  retweet_count = 77
   text = "RT @IRSS_UBC: 🚨#LidR NEWS🚨\n\nWe are excited to announce that the LidR book is now available online!\n\nThe book was created to provide hands on descriptions and tutorials for lidR and was written by Jean-Romain Roussel, @GoodbodyT, and @PiotrTompalski \n\nCheck it out!\n📖: https://t.co/fKYIdhnv1j https://t.co/OnfvTr52WB"
 
   [tweets.entities]
@@ -38032,9 +38032,9 @@
 
 [[tweets]]
   created_at = 2020-07-13T06:45:41Z
-  favorite_count = 112
+  favorite_count = 109
   id = 1282566852548472832
-  retweet_count = 45
+  retweet_count = 44
   text = "RT @StatnMap: Registration for our remote #useR2020 #rspatial tutorial 'First steps in spatial data handling and visualization' will open tomorrow 2:00pm UTC (written 5:00 EAT). In collab. with @Dorris_Scott & @jakub_nowosad \n🌍 Places are limited...\n👉 More info: https://t.co/tqQ8yVswBL https://t.co/0ApaesuBZ6"
 
   [tweets.entities]
@@ -39270,7 +39270,7 @@
 
 [[tweets]]
   created_at = 2020-06-09T06:02:57Z
-  favorite_count = 673
+  favorite_count = 670
   id = 1270234910964531202
   retweet_count = 126
   text = "RT @tjukanov: I created (again) a new #QGIS style: Qlimt. It aims to turn your data to modern artworks. You can download the style here: https://t.co/RqhieMkmji https://t.co/b1V5vTy6Qv"
@@ -40990,9 +40990,9 @@
 
 [[tweets]]
   created_at = 2020-04-24T08:47:24Z
-  favorite_count = 763
+  favorite_count = 760
   id = 1253606454851846144
-  retweet_count = 259
+  retweet_count = 258
   text = "RT @pdalgd: R 4.0.0 \"Arbor Day\" (source version) has been released"
 
   [tweets.entities]
@@ -41593,7 +41593,7 @@
 
 [[tweets]]
   created_at = 2020-04-09T14:09:00Z
-  favorite_count = 195
+  favorite_count = 192
   id = 1248251571625955328
   retweet_count = 65
   text = "In two weeks, @robinlovelace and I will give a talk about the recent changes in R spatial and how to be ready for them. You can set a reminder for this webinar at https://t.co/f7SH4unmKK. #geocompr #rstats #rspatial https://t.co/NQ8DqQxgmH"
@@ -42105,9 +42105,9 @@
 
 [[tweets]]
   created_at = 2020-03-31T18:13:45Z
-  favorite_count = 82
+  favorite_count = 79
   id = 1245051671811624961
-  retweet_count = 20
+  retweet_count = 18
   text = "RT @robinlovelace: Brand new blog post on installing key spatial #rstats on Ubuntu, and testing things out on @Docker. This has benefited from many people in the amazing #rspatial community, many thanks all!\n\nhttps://t.co/5DnL2myBYO https://t.co/UkrzLdKSLO"
 
   [tweets.entities]
@@ -44230,7 +44230,7 @@
 
 [[tweets]]
   created_at = 2020-02-04T16:36:42Z
-  favorite_count = 1004
+  favorite_count = 1001
   id = 1224733530615373825
   retweet_count = 312
   text = "RT @zevross: I had the privilege of teaching a two-day workshop, Modern Geospatial Data Analysis with R, at the @rstudio conference with an amazing group of TAs and participants. I've made the slides available here: https://t.co/rSzPTt6VBk, #rstats, #rspatial, #gischat https://t.co/3v7UVd0UT5"
@@ -46951,9 +46951,9 @@
 
 [[tweets]]
   created_at = 2019-11-28T15:09:38Z
-  favorite_count = 380
+  favorite_count = 377
   id = 1200069244236521472
-  retweet_count = 160
+  retweet_count = 159
   text = "RT @jakub_nowosad: Last week @neilrkaye tweeted an animation of the Mercator projection distortion. It inspired me to create an #rstats code that can be modified to check the distortion of any given projection. Learn more at https://t.co/FPRXudsU6e. #geocompr #GIS #mapping https://t.co/Bp46JR1Wje"
 
   [tweets.entities]
@@ -51074,7 +51074,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2898
+  favorite_count = 2895
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -57117,9 +57117,9 @@
 
 [[tweets]]
   created_at = 2019-04-25T13:34:10Z
-  favorite_count = 47
+  favorite_count = 44
   id = 1121407053573050369
-  retweet_count = 22
+  retweet_count = 21
   text = "Map of 1992-2015 landscape change trajectories is now also on the #LandGIS platform. Learn more about global land changes at https://t.co/CWysLrGMnN. #rstats #rspatial #geocompr #sil https://t.co/WibJItDLEK"
 
   [tweets.entities]
@@ -59092,7 +59092,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 450
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60604,7 +60604,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5510
+  favorite_count = 5501
   id = 1076899899348799488
   retweet_count = 1567
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -61642,10 +61642,6 @@
       user_id = 1009580174956826630
 
     [[tweets.entities.user_mentions]]
-      user = "else_elyse"
-      user_id = 4851513196
-
-    [[tweets.entities.user_mentions]]
       user = "univofstandrews"
       user_id = 19910826
 
@@ -62575,10 +62571,6 @@
       url = "https://t.co/v3kfJ5OVF1"
 
     [[tweets.entities.user_mentions]]
-      user = "Thienthanh_le"
-      user_id = 773573846091825153
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -62810,9 +62802,9 @@
 
 [[tweets]]
   created_at = 2018-10-23T14:26:16Z
-  favorite_count = 380
+  favorite_count = 377
   id = 1054740796790988802
-  retweet_count = 160
+  retweet_count = 159
   text = "Last week @neilrkaye tweeted an animation of the Mercator projection distortion. It inspired me to create an #rstats code that can be modified to check the distortion of any given projection. Learn more at https://t.co/FPRXudsU6e. #geocompr #GIS #mapping https://t.co/Bp46JR1Wje"
 
   [tweets.entities]
@@ -63462,7 +63454,7 @@
 
 [[tweets]]
   created_at = 2018-09-17T18:14:47Z
-  favorite_count = 57
+  favorite_count = 54
   id = 1041752342599815168
   retweet_count = 35
   text = "And now all of the videos from #GEOSTAT2018 are available online! 📽️Watch them at https://t.co/Q0iVafFtTu #rspatial #grassgis #geocompr https://t.co/aLdT0PHZLr"
@@ -63568,7 +63560,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2728
+  favorite_count = 2720
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70366,7 +70358,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 300
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
