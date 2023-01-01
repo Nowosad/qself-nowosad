@@ -8413,9 +8413,9 @@
 
 [[tweets]]
   created_at = 2022-05-22T01:31:40Z
-  favorite_count = 389
+  favorite_count = 385
   id = 1528186800392613888
-  retweet_count = 91
+  retweet_count = 90
   text = "RT @gcamara: #Rstats \"sits\" package is now on CRAN. Open source alternative to @GoogleEarthEng for land classification. Uses machine learning to classify big time series of images in @awscloud, @microsoft Planetary Computer, @DEarthAfrica and @BrazilDataCube. Fully operational at TRL 8. (1/4)"
 
   [tweets.entities]
@@ -11049,7 +11049,7 @@
 
 [[tweets]]
   created_at = 2022-03-06T15:52:16Z
-  favorite_count = 170
+  favorite_count = 165
   id = 1500499513404010500
   retweet_count = 9
   text = "I am pleased to announce that I was selected as one of the Geospatial World 50 Rising Star!\n\nYou can find the other chosen individuals and me at https://t.co/HMKm48Y1ep.\n\n#gischat #spatial #gis https://t.co/LiwGxUvdqQ"
@@ -20899,10 +20899,6 @@
       user = "EleanorMorton"
       user_id = 357651289
 
-    [[tweets.entities.user_mentions]]
-      user = "else_elyse"
-      user_id = 4851513196
-
   [tweets.reply]
     status_id = 1418592109142200323
     user = "EleanorMorton"
@@ -21135,7 +21131,7 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2263
+  favorite_count = 2259
   id = 1415715731648524290
   retweet_count = 215
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
@@ -24756,7 +24752,7 @@
 
 [[tweets]]
   created_at = 2021-05-06T14:44:38Z
-  favorite_count = 152
+  favorite_count = 149
   id = 1390316581423656960
   retweet_count = 13
   text = "Lately, I've been working on how to apply the concept of superpixels to a variety of spatial data. \n\nThis is WIP - I hope to share new updates in the coming weeks/months.\n\n#rstats #rspatial https://t.co/gPkKsATtO7"
@@ -27118,7 +27114,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37120
+  favorite_count = 37114
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -58742,7 +58738,7 @@
 
 [[tweets]]
   created_at = 2019-03-07T15:05:24Z
-  favorite_count = 182
+  favorite_count = 179
   id = 1103673004628852737
   retweet_count = 53
   text = "Landscape metrics are useful to characterize landscapes (aka categorial rasters). In my new blog post, I show how to use #rstats for efficient calculations of landscape metrics within buffers around sampling points. #geocompr #landscapeecology https://t.co/92rk3mtlsW"
@@ -62292,7 +62288,7 @@
 
 [[tweets]]
   created_at = 2018-11-11T09:56:36Z
-  favorite_count = 549
+  favorite_count = 546
   id = 1061558300171517953
   retweet_count = 52
   text = "RT @ClausWilke: I spent way too much time this weekend writing orthographic projection code. Now that it works, let's celebrate with a spinning globe. #rstats #dataviz https://t.co/f401wwjnrB"
