@@ -1,5 +1,24 @@
 
 [[tweets]]
+  created_at = 2023-01-02T15:12:54Z
+  favorite_count = 5
+  id = 1609930741734952960
+  retweet_count = 1
+  text = "Krigzy -- a friendly #shiny application to learn about ordinary kriging.\n\nhttps://t.co/cwdoNHqwx7\n\n#rstats #rspatial #geostatistics https://t.co/TPykB9UIed"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1609930650223525889
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FlefZYeWQAEWkDh.png"
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/themercerus/Kr…"
+      expanded_url = "https://github.com/themercerus/Krigzy"
+      url = "https://t.co/cwdoNHqwx7"
+
+[[tweets]]
   created_at = 2022-12-28T18:26:09Z
   favorite_count = 4
   id = 1608167434078543878
@@ -1254,7 +1273,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1848
+  favorite_count = 1845
   id = 1589187266991501313
   retweet_count = 325
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -27114,7 +27133,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37101
+  favorite_count = 37093
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33322,7 +33341,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 811
+  favorite_count = 808
   id = 1322224591750766594
   retweet_count = 311
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33385,7 +33404,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2168
+  favorite_count = 2164
   id = 1319740736372355072
   retweet_count = 796
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35805,7 +35824,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1969
+  favorite_count = 1966
   id = 1302134558649995264
   retweet_count = 537
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35878,7 +35897,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 250
+  favorite_count = 247
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36318,7 +36337,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1851
+  favorite_count = 1846
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37922,7 +37941,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 303
+  favorite_count = 300
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -40687,9 +40706,9 @@
 
 [[tweets]]
   created_at = 2020-05-01T06:17:18Z
-  favorite_count = 435
+  favorite_count = 432
   id = 1256105397393534977
-  retweet_count = 92
+  retweet_count = 93
   text = "RT @robinlovelace: Exciting news for anyone looking to speed up their data analysis code: working with @csgillespie on updating Efficient R Programming 🚀 For 4+ years it's been used by 1000s of ppl. Next up:  #community release. Feedback welcome:  https://t.co/ha9arFuzrG https://t.co/zpzaBahKP9"
 
   [tweets.entities]
@@ -59092,7 +59111,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 454
+  favorite_count = 450
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60604,7 +60623,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5510
+  favorite_count = 5500
   id = 1076899899348799488
   retweet_count = 1567
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -61640,10 +61659,6 @@
     [[tweets.entities.user_mentions]]
       user = "WomenDoingSci"
       user_id = 1009580174956826630
-
-    [[tweets.entities.user_mentions]]
-      user = "else_elyse"
-      user_id = 4851513196
 
     [[tweets.entities.user_mentions]]
       user = "univofstandrews"
@@ -63564,7 +63579,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2726
+  favorite_count = 2720
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70362,7 +70377,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 301
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
