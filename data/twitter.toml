@@ -7792,7 +7792,7 @@
 
 [[tweets]]
   created_at = 2022-06-05T16:46:49Z
-  favorite_count = 2775
+  favorite_count = 2772
   id = 1533490538111959043
   retweet_count = 492
   text = "RT @BlakeRobMills: ✨✨ PACKAGE UPDATE ✨✨\nMetBrewer 0.2.0 is officially out 🥳 Available both on Cran and through my GitHub here: https://t.co/wYHMEKoJLH\n\nNew Palettes are out and some amazing new features. Full description of what has changed below :)\n\n#MetBrewer #rstats #r4ds #dataviz https://t.co/XU3q7h7ZJT"
@@ -27114,7 +27114,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37096
+  favorite_count = 37101
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33385,7 +33385,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2165
+  favorite_count = 2168
   id = 1319740736372355072
   retweet_count = 796
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35805,7 +35805,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1966
+  favorite_count = 1969
   id = 1302134558649995264
   retweet_count = 537
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35878,7 +35878,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 247
+  favorite_count = 250
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36318,7 +36318,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1846
+  favorite_count = 1851
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37922,7 +37922,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 300
+  favorite_count = 303
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -59092,7 +59092,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 450
+  favorite_count = 454
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60604,7 +60604,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5501
+  favorite_count = 5510
   id = 1076899899348799488
   retweet_count = 1567
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -61640,6 +61640,10 @@
     [[tweets.entities.user_mentions]]
       user = "WomenDoingSci"
       user_id = 1009580174956826630
+
+    [[tweets.entities.user_mentions]]
+      user = "else_elyse"
+      user_id = 4851513196
 
     [[tweets.entities.user_mentions]]
       user = "univofstandrews"
@@ -63560,7 +63564,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2720
+  favorite_count = 2726
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70358,7 +70362,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 301
+  favorite_count = 305
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
