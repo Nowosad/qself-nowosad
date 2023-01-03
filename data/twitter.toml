@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2023-01-02T15:12:54Z
-  favorite_count = 72
+  favorite_count = 75
   id = 1609930741734952960
   retweet_count = 20
   text = "Krigzy -- a friendly #shiny application to learn about ordinary kriging.\n\nhttps://t.co/cwdoNHqwx7\n\n#rstats #rspatial #geostatistics https://t.co/TPykB9UIed"
@@ -6621,9 +6621,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22862
+  favorite_count = 22891
   id = 1546126992168439808
-  retweet_count = 4910
+  retweet_count = 4916
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -27133,7 +27133,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37097
+  favorite_count = 37091
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
