@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-02T15:12:54Z
-  favorite_count = 33
+  favorite_count = 51
   id = 1609930741734952960
-  retweet_count = 10
+  retweet_count = 15
   text = "Krigzy -- a friendly #shiny application to learn about ordinary kriging.\n\nhttps://t.co/cwdoNHqwx7\n\n#rstats #rspatial #geostatistics https://t.co/TPykB9UIed"
 
   [tweets.entities]
@@ -47,9 +47,9 @@
 
 [[tweets]]
   created_at = 2022-12-28T14:41:57Z
-  favorite_count = 324
+  favorite_count = 327
   id = 1608111013957668879
-  retweet_count = 56
+  retweet_count = 57
   text = "In February 2023, I'll teach a two-day online course on making beautiful and effective maps 🗺️ in #rstats. \n\nYou can find more details at https://t.co/djq4HAeTTJ. \n\nFeel free to email me if you have any questions! \n\n#rspatial #tmap #gischat https://t.co/tZDvGXzH3v"
 
   [tweets.entities]
@@ -6621,9 +6621,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22662
+  favorite_count = 22702
   id = 1546126992168439808
-  retweet_count = 4864
+  retweet_count = 4871
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -27133,7 +27133,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37098
+  favorite_count = 37093
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33341,7 +33341,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 811
+  favorite_count = 808
   id = 1322224591750766594
   retweet_count = 311
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33404,7 +33404,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2167
+  favorite_count = 2163
   id = 1319740736372355072
   retweet_count = 796
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -33746,7 +33746,7 @@
 
 [[tweets]]
   created_at = 2020-10-17T20:11:25Z
-  favorite_count = 846
+  favorite_count = 843
   id = 1317558856831127552
   retweet_count = 222
   text = "RT @mapserving: Happy 22nd birthday to GDAL ! From the first commit on 1998-10-17 from a small rural town outside of Ottawa Canada, to almost every geospatial software installation on the planet (and satellites and other planets!) in 22 years. The ultimate example of sharing & community. #foss4g https://t.co/Bcm47vGhcz"
@@ -35824,7 +35824,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1969
+  favorite_count = 1966
   id = 1302134558649995264
   retweet_count = 537
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -35897,7 +35897,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 250
+  favorite_count = 247
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36337,7 +36337,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1851
+  favorite_count = 1846
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -37941,7 +37941,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 304
+  favorite_count = 301
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -51093,7 +51093,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2895
+  favorite_count = 2892
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -61661,10 +61661,6 @@
       user_id = 1009580174956826630
 
     [[tweets.entities.user_mentions]]
-      user = "else_elyse"
-      user_id = 4851513196
-
-    [[tweets.entities.user_mentions]]
       user = "univofstandrews"
       user_id = 19910826
 
@@ -63583,7 +63579,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2726
+  favorite_count = 2720
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70381,7 +70377,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 301
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -71123,9 +71119,9 @@
 
 [[tweets]]
   created_at = 2017-11-23T16:58:53Z
-  favorite_count = 57
+  favorite_count = 54
   id = 933741655659773954
-  retweet_count = 17
+  retweet_count = 16
   text = "RT @timelyportfolio: I am thankful for open source and all the generous developers who share their work.  Happy thanksgiving 🦃"
 
   [tweets.entities]
