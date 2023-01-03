@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-02T15:12:54Z
-  favorite_count = 51
+  favorite_count = 57
   id = 1609930741734952960
-  retweet_count = 15
+  retweet_count = 19
   text = "Krigzy -- a friendly #shiny application to learn about ordinary kriging.\n\nhttps://t.co/cwdoNHqwx7\n\n#rstats #rspatial #geostatistics https://t.co/TPykB9UIed"
 
   [tweets.entities]
@@ -6621,9 +6621,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22711
+  favorite_count = 22724
   id = 1546126992168439808
-  retweet_count = 4873
+  retweet_count = 4874
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
