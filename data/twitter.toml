@@ -6649,9 +6649,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22917
+  favorite_count = 22920
   id = 1546126992168439808
-  retweet_count = 4919
+  retweet_count = 4920
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -24165,7 +24165,7 @@
 
 [[tweets]]
   created_at = 2021-05-21T12:22:12Z
-  favorite_count = 51
+  favorite_count = 48
   id = 1395716555992875022
   retweet_count = 17
   text = "RT @AchimZeileis: @moriah_taylor58 Starting with version 3.6.0 base #rstats has been enhanced with > 100 palettes #dataviz\n\nhcl.colors()\nsequential & diverging & qualitative with fixed luminance\ndefault: viridis\nhttps://t.co/v4bTkH4sUS\n\npalette.colors()\nqualitative\ndefault: Okabe-Ito\nhttps://t.co/g4gvHWQ0oy https://t.co/oOycmpkJhT"
