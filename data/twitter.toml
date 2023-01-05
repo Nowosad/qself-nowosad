@@ -68,9 +68,9 @@
 
 [[tweets]]
   created_at = 2023-01-03T21:37:40Z
-  favorite_count = 4
+  favorite_count = 9
   id = 1610389957788536832
-  retweet_count = 1
+  retweet_count = 2
   text = "@helenmakesmaps https://t.co/QRXNieXj2n, https://t.co/u4pLV8rPTi"
 
   [tweets.entities]
@@ -2472,7 +2472,7 @@
 
 [[tweets]]
   created_at = 2022-10-07T06:04:29Z
-  favorite_count = 136
+  favorite_count = 139
   id = 1578264983921623043
   retweet_count = 16
   text = "RT @researchremora: A shaded relief map of Poland. With clouds. ☁️\n\n#rayshader adventures, an #rstats tale https://t.co/8Rt127gR79"
@@ -6716,9 +6716,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22955
+  favorite_count = 22960
   id = 1546126992168439808
-  retweet_count = 4929
+  retweet_count = 4931
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -27228,7 +27228,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37091
+  favorite_count = 37088
   id = 1367166556501925891
   retweet_count = 2923
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -40449,7 +40449,7 @@
 
 [[tweets]]
   created_at = 2020-05-08T20:36:17Z
-  favorite_count = 369
+  favorite_count = 372
   id = 1258858283047190529
   retweet_count = 59
   text = "RT @PiotrTompalski: I used {lidR} and {rayshader} to generate this animation showing shaded areas during one summer day at #ubc campus (right next to @ubcforestry building!). \n\n#rstats #rayshader #lidar https://t.co/tBsruqR7g5"
@@ -58258,10 +58258,10 @@
 
   [tweets.entities]
 
-    [[tweets.entities.medias]]
-      id = 1110167385837916160
-      type = "photo"
-      url = "https://pbs.twimg.com/media/D2gbWwIX0AAMMCq.jpg"
+    [[tweets.entities.urls]]
+      display_url = "pic.twitter.com/3HSl102VVg"
+      expanded_url = "https://twitter.com/jmccarty_geo/status/1110168161737994242/photo/1"
+      url = "https://t.co/3HSl102VVg"
 
     [[tweets.entities.user_mentions]]
       user = "jmccarty_geo"
