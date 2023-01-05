@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-05T15:25:41Z
-  favorite_count = 11
+  favorite_count = 70
   id = 1611021123713470464
-  retweet_count = 6
+  retweet_count = 15
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe newly updated Geomarketing chapter is ready!\n\nIf you want to imagine that you are starting a chain of bike shops in Germany and want to decide on where to locate them, read https://t.co/w6shxmhNZG.\n\n#rstats #rspatial #geocompx https://t.co/Slm9Go5IXF"
 
   [tweets.entities]
@@ -27262,9 +27262,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37088
+  favorite_count = 37083
   id = 1367166556501925891
-  retweet_count = 2923
+  retweet_count = 2922
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
