@@ -3209,9 +3209,9 @@
 
 [[tweets]]
   created_at = 2022-09-22T10:37:31Z
-  favorite_count = 151
+  favorite_count = 148
   id = 1572897878716162049
-  retweet_count = 39
+  retweet_count = 37
   text = "RT @nyalldawson: Spent the last 2 days heads-down in a mini-hackfest with the ever-brilliant @mdsumner... among other great stuff we experimented with an interactive #RStats console inside #QGIS! I'm excited to see where we can take this 🤩 https://t.co/yInHo5vONM"
 
   [tweets.entities]
@@ -10146,7 +10146,7 @@
 
 [[tweets]]
   created_at = 2022-04-04T13:55:52Z
-  favorite_count = 360
+  favorite_count = 357
   id = 1510979467736408069
   retweet_count = 106
   text = "RT @RogerBivand: Pleased to report that a follow-up to \"Progress in the R ecosystem for representing and handling spatial data\",  https://t.co/dkPcqzTBYb, is available open access: \"R Packages for Analyzing Spatial Data: A Comparative Case Study with Areal Data\", https://t.co/a2HNUi4aVh #rspatial"
@@ -10562,7 +10562,7 @@
 
 [[tweets]]
   created_at = 2022-03-20T13:51:20Z
-  favorite_count = 47
+  favorite_count = 44
   id = 1505542509367382021
   retweet_count = 13
   text = "RT @krzysztof_dyba: Recently I compared the performance of the most popular packages for vector data processing in #python and #rstats. It seems that {terra} is mainly used for raster data, but it does quite well with vectors too.\n#rspatial #gischat https://t.co/SOWO5B1x7b"
@@ -12354,9 +12354,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T18:24:58Z
-  favorite_count = 69
+  favorite_count = 66
   id = 1490028692336254980
-  retweet_count = 14
+  retweet_count = 13
   text = "RT @ST_Brinkmann: I've written a short blog post demonstrating how to implement Inverse Distance Weighting (IDW) in R using Rcpp.\nThe function supports multithreading and is especially usefull for large geospatial datasets!\n\nhttps://t.co/CTIhSLryc7\n\n#gis #rspatial #RStats"
 
   [tweets.entities]
@@ -58258,10 +58258,10 @@
 
   [tweets.entities]
 
-    [[tweets.entities.urls]]
-      display_url = "pic.twitter.com/3HSl102VVg"
-      expanded_url = "https://twitter.com/jmccarty_geo/status/1110168161737994242/photo/1"
-      url = "https://t.co/3HSl102VVg"
+    [[tweets.entities.medias]]
+      id = 1110167385837916160
+      type = "photo"
+      url = "https://pbs.twimg.com/media/D2gbWwIX0AAMMCq.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "jmccarty_geo"
