@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2023-01-05T15:25:41Z
-  favorite_count = 155
+  favorite_count = 166
   id = 1611021123713470464
   retweet_count = 24
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nThe newly updated Geomarketing chapter is ready!\n\nIf you want to imagine that you are starting a chain of bike shops in Germany and want to decide on where to locate them, read https://t.co/w6shxmhNZG.\n\n#rstats #rspatial #geocompx https://t.co/Slm9Go5IXF"
@@ -586,7 +586,7 @@
 
 [[tweets]]
   created_at = 2022-12-01T18:45:14Z
-  favorite_count = 190
+  favorite_count = 193
   id = 1598387764034240514
   retweet_count = 22
   text = "RT @darwinanddavis: As always, here's all #rstats code for my #30DayMapChallenge 2022 maps - sf, projections, ggplot layouts, isochrones, osm, #rayshader & leaflet + HTML/CSS styling #rspatial  \n\nGithub, code & hires maps ⬇️\nhttps://t.co/mhS4EAxkkO https://t.co/lgSJOwFdNS"
@@ -27262,7 +27262,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37083
+  favorite_count = 37080
   id = 1367166556501925891
   retweet_count = 2922
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -28017,9 +28017,9 @@
 
 [[tweets]]
   created_at = 2021-02-19T10:26:05Z
-  favorite_count = 294
+  favorite_count = 291
   id = 1362710038016651265
-  retweet_count = 67
+  retweet_count = 66
   text = "RT @robinlovelace: Want to analyse big @openstreetmap datasets using free and open source software 🤯? {osmextract} by @a_gilardi5 and me may be for you 🎉 Enables reproducible analysis of global 'geo commons' for research, fun and the greater good 🚀 \n\nSpread the word: https://t.co/uQETfKg8tZ https://t.co/DK1prA8k4A"
 
   [tweets.entities]
@@ -33470,7 +33470,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 811
+  favorite_count = 808
   id = 1322224591750766594
   retweet_count = 311
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -35953,7 +35953,7 @@
 
 [[tweets]]
   created_at = 2020-09-05T06:40:45Z
-  favorite_count = 1969
+  favorite_count = 1966
   id = 1302134558649995264
   retweet_count = 537
   text = "RT @lisacmuth: I spent the past few months to learn more about colors, to finally get rid of the feeling that I'm bad with them. Here I tried to compress some of these learnings (there's more to come): https://t.co/UEf0XMJNAX"
@@ -36026,7 +36026,7 @@
 
 [[tweets]]
   created_at = 2020-09-03T14:08:31Z
-  favorite_count = 250
+  favorite_count = 247
   id = 1301522465781428224
   retweet_count = 83
   text = "Recording of the First steps in spatial handling and visualization workshop is available at https://t.co/E7CBKewMU2. \n\nIt was a joint effort of @StatnMap @Dorris_Scott and me for @useR2020stl. \n\nYou can find all the slides and data at https://t.co/wqUYPkHCCw. \n\n#rspatial #rstats https://t.co/S89IdYrX1X"
@@ -36466,7 +36466,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1851
+  favorite_count = 1847
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -38070,7 +38070,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 303
+  favorite_count = 300
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -40455,9 +40455,9 @@
 
 [[tweets]]
   created_at = 2020-05-10T17:12:47Z
-  favorite_count = 156
+  favorite_count = 153
   id = 1259531845231878144
-  retweet_count = 47
+  retweet_count = 46
   text = "RT @dickoah: I just built a #rstats wrapper to prepair, a tool to repair broken polygons like sf::st_make_valid. It uses constrained delaunay triangulation (using cgal), please help me test it #rspatial \n\nhttps://t.co/NqZciIKQTP https://t.co/y34kwJdlj1"
 
   [tweets.entities]
@@ -51222,7 +51222,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2896
+  favorite_count = 2893
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -59240,7 +59240,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 449
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60752,7 +60752,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5507
+  favorite_count = 5498
   id = 1076899899348799488
   retweet_count = 1566
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -62455,7 +62455,7 @@
 
 [[tweets]]
   created_at = 2018-11-10T21:28:50Z
-  favorite_count = 98
+  favorite_count = 95
   id = 1061370121644658688
   retweet_count = 22
   text = "RT @hadleywickham: I somehow missed the announcement of the winners of the bookdown contest: https://t.co/RfVj3vO1yT — so many amazing adaptations! #rstats"
@@ -63708,7 +63708,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2727
+  favorite_count = 2721
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70506,7 +70506,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 305
+  favorite_count = 301
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70615,7 +70615,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stevevance"
-      user_id = 1604988493607878658
+      user_id = 30399127
 
     [[tweets.entities.user_mentions]]
       user = "pathoverlap"
@@ -77260,7 +77260,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1653
+  favorite_count = 1649
   id = 777942576099893248
   retweet_count = 909
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
