@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-06T18:25:31Z
-  favorite_count = 1
+  favorite_count = 6
   id = 1611428765531508736
-  retweet_count = 3
+  retweet_count = 7
   text = "New maintainer is needed for {rnaturalearth}:\n\nhttps://t.co/OYhPxNy3xb\n\n#rstats #rspatial https://t.co/7RV4tmgv80"
 
   [tweets.entities]
@@ -2975,9 +2975,9 @@
 
 [[tweets]]
   created_at = 2022-10-02T12:09:08Z
-  favorite_count = 253
+  favorite_count = 250
   id = 1576544812714848257
-  retweet_count = 40
+  retweet_count = 39
   text = "RT @robinlovelace: Really happy with this: have just reproduced the entirety of Geocomputation with R inside a 'devcontainer' with VS Code. It works 🎉 \nA small step on the #geocompr journey, a giant leap for reproducibility + accessibility! #RSpatial #DataScience https://t.co/NOA4grh7X8"
 
   [tweets.entities]
@@ -5062,7 +5062,7 @@
 
 [[tweets]]
   created_at = 2022-08-23T16:09:42Z
-  favorite_count = 507
+  favorite_count = 504
   id = 1562109835667279873
   retweet_count = 128
   text = "🔥You can find all of the materials from the \"Getting started with R and R-spatial\" #FOSS4G2022 workshop🔥 at:\n\nhttps://t.co/q0NJnn0VdM\n\n#rstats #rspatial #geocompr #gischat https://t.co/3SGHrtyLzt"
@@ -21298,9 +21298,9 @@
 
 [[tweets]]
   created_at = 2021-07-15T16:51:47Z
-  favorite_count = 2259
+  favorite_count = 2256
   id = 1415715731648524290
-  retweet_count = 215
+  retweet_count = 212
   text = "RT @xkcd: Bad Map Projection: The Greenland Special https://t.co/u057ZGT4Xr https://t.co/9VRuEgiTrB"
 
   [tweets.entities]
@@ -27052,9 +27052,9 @@
 
 [[tweets]]
   created_at = 2021-03-14T16:29:20Z
-  favorite_count = 395
+  favorite_count = 392
   id = 1371136374305398789
-  retweet_count = 104
+  retweet_count = 103
   text = "In the last few weeks, I've published a series of blog posts about pattern-based spatial analysis in #rstats. They explain how to work with patterns in categorical rasters.\n\nAll of the links and other content is at https://t.co/vloJ9qqF1G.\n\n#rspatial #sil #spatialpatterns https://t.co/vacbTP7JQG"
 
   [tweets.entities]
@@ -37029,7 +37029,7 @@
 
 [[tweets]]
   created_at = 2020-08-15T21:27:51Z
-  favorite_count = 358
+  favorite_count = 355
   id = 1294747659782311938
   retweet_count = 51
   text = "RT @drob: I've become a huge fan of the sf package's tidy approach to spatial data, and @emdodwell is giving a terrific tutorial + case study 🗺️🌎 #rstatsnyc https://t.co/B9yjujkkUq"
@@ -43570,9 +43570,9 @@
 
 [[tweets]]
   created_at = 2020-02-23T15:49:16Z
-  favorite_count = 106
+  favorite_count = 103
   id = 1231606962204348418
-  retweet_count = 30
+  retweet_count = 29
   text = "Video of my talk about the landscape of 🗺️spatial data analysis in #rstats is now online at https://t.co/Fj24840huQ. Slides, containing all of the links, are at https://t.co/EDJ2OEY0VG. #rspatial #gis #giscience"
 
   [tweets.entities]
@@ -66360,9 +66360,9 @@
 
 [[tweets]]
   created_at = 2018-05-10T11:00:26Z
-  favorite_count = 141
+  favorite_count = 138
   id = 994532609505013761
-  retweet_count = 34
+  retweet_count = 32
   text = "RT @robinlovelace: Happy to announce we've just passed a milestone towards the completion of Geocomputation with R 🏗️ Just submitted 3rd round of chapters for peer review 🎉 Now have 19 contributors + magic 4444 commits ✨ RT + see here to get involved: https://t.co/FbHSMl2bX3 #geocompr https://t.co/bumZadijn1"
 
   [tweets.entities]
