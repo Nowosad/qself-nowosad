@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-07T09:36:17Z
-  favorite_count = 196
+  favorite_count = 212
   id = 1611657969912930304
-  retweet_count = 33
+  retweet_count = 35
   text = "RT @robinlovelace: 🏗️Geocomputation with R update🏗️\nInstructions for running the code in @github Codespaces just added. The addition was made and pushed from *within* Codespaces 🎉 Check it out and give it a spin here: https://t.co/1TGgYB8mKr #geocompx #RStats #vscode https://t.co/ielEB7XXsL"
 
   [tweets.entities]
@@ -2557,9 +2557,9 @@
 
 [[tweets]]
   created_at = 2022-10-07T06:04:29Z
-  favorite_count = 139
+  favorite_count = 142
   id = 1578264983921623043
-  retweet_count = 16
+  retweet_count = 17
   text = "RT @researchremora: A shaded relief map of Poland. With clouds. ☁️\n\n#rayshader adventures, an #rstats tale https://t.co/8Rt127gR79"
 
   [tweets.entities]
@@ -27313,9 +27313,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37079
+  favorite_count = 37086
   id = 1367166556501925891
-  retweet_count = 2921
+  retweet_count = 2922
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
