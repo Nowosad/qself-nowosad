@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-07T09:36:17Z
-  favorite_count = 190
+  favorite_count = 196
   id = 1611657969912930304
-  retweet_count = 31
+  retweet_count = 33
   text = "RT @robinlovelace: 🏗️Geocomputation with R update🏗️\nInstructions for running the code in @github Codespaces just added. The addition was made and pushed from *within* Codespaces 🎉 Check it out and give it a spin here: https://t.co/1TGgYB8mKr #geocompx #RStats #vscode https://t.co/ielEB7XXsL"
 
   [tweets.entities]
