@@ -37412,7 +37412,7 @@
 
 [[tweets]]
   created_at = 2020-08-09T16:25:03Z
-  favorite_count = 300
+  favorite_count = 303
   id = 1292497129848610818
   retweet_count = 74
   text = "RT @Em_The_Engineer: It's another #GeospatialSundays! Want to explore color palettes for your maps in R? Well, you can call palette_explorer, a shiny app that allows you to do so! This app will even simulate color-blind visualizations and provide the code to produce such color palettes! #rspatial https://t.co/aiHLpXRFuA"
@@ -56995,7 +56995,6 @@
 
 [[tweets]]
   created_at = 2019-04-30T05:31:23Z
-  favorite_count = 41
   id = 1123097495708553217
   retweet_count = 21
   text = "RT @thinkR_fr: #rstats - How to connect and interact with a @postgis🐘🌍database from R, using {DBI} and {sf}. With a little #docker 🐳inside. In🇬🇧 &🇫🇷: https://t.co/7QmbMw4PDW https://t.co/CHmzkxo5WU"
