@@ -337,9 +337,9 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:07:43Z
-  favorite_count = 57
+  favorite_count = 60
   id = 1604569118295851009
-  retweet_count = 34
+  retweet_count = 37
   text = "RT @foss4g: 📢 Call for Academic Papers is now open!\n\n📆  We invite you to submit abstracts for academic papers by 19 Feb 2023!\n\nFollowing the FOSS4G tradition, the papers will be published again in ISPRS.\n\n👉 https://t.co/WCx0AqusCE\n\n#FOSS4G | July 26 - June 2 \nPrizren, Kosovo\n\n#FOSS4G2023 https://t.co/Xk0NNXw5tm"
 
   [tweets.entities]
@@ -1399,9 +1399,9 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6454
+  favorite_count = 6449
   id = 1589374569260933120
-  retweet_count = 1019
+  retweet_count = 1018
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
 
   [tweets.entities]
@@ -1472,7 +1472,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T09:25:44Z
-  favorite_count = 1844
+  favorite_count = 1848
   id = 1589187266991501313
   retweet_count = 325
   text = "RT @pokateo_: Exploring out how Greenland looks in ten different projections for #30DayMapChallenge Day 4 Green. https://t.co/R6DcynsMMX"
@@ -6820,7 +6820,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22966
+  favorite_count = 22962
   id = 1546126992168439808
   retweet_count = 4935
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -27332,7 +27332,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37074
+  favorite_count = 37079
   id = 1367166556501925891
   retweet_count = 2922
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33540,7 +33540,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 810
+  favorite_count = 813
   id = 1322224591750766594
   retweet_count = 311
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33603,7 +33603,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2165
+  favorite_count = 2168
   id = 1319740736372355072
   retweet_count = 796
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36536,7 +36536,7 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1847
+  favorite_count = 1852
   id = 1299086851484061699
   retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
@@ -59310,7 +59310,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 449
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60822,7 +60822,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5492
+  favorite_count = 5501
   id = 1076899899348799488
   retweet_count = 1565
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63778,7 +63778,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2722
+  favorite_count = 2728
   id = 1039472133481615360
   retweet_count = 1030
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -70576,7 +70576,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 301
+  favorite_count = 304
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70685,7 +70685,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stevevance"
-      user_id = 30399127
+      user_id = 1604988493607878658
 
     [[tweets.entities.user_mentions]]
       user = "pathoverlap"
