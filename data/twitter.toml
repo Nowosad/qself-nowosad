@@ -3294,9 +3294,9 @@
 
 [[tweets]]
   created_at = 2022-09-22T13:19:04Z
-  favorite_count = 77
+  favorite_count = 74
   id = 1572938533110779910
-  retweet_count = 11
+  retweet_count = 10
   text = "Recently, I noticed a new review of Geocomputation with R on Amazon -- https://t.co/fPJa8ceOL5.\n\nThank you a lot, Lawrence. You just made my day!\n\n#rspatial #geocompr #gischat https://t.co/tzBaBk6QWD"
 
   [tweets.entities]
@@ -6820,7 +6820,7 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22962
+  favorite_count = 22965
   id = 1546126992168439808
   retweet_count = 4935
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
@@ -7773,7 +7773,7 @@
 
 [[tweets]]
   created_at = 2022-06-09T19:58:32Z
-  favorite_count = 161
+  favorite_count = 158
   id = 1534988333440323584
   retweet_count = 31
   text = "{tmap} version 4 will bring many improvements.\n\nRead about some of them at https://t.co/JXC7fK9TBH.\n\nTry it by yourself using the v4 branch - https://t.co/ovgX0g1hzH.\n\n#rstats #rspatial #tmap https://t.co/Vqr27YBIlS"
@@ -8383,7 +8383,7 @@
 
 [[tweets]]
   created_at = 2022-05-29T12:46:35Z
-  favorite_count = 225
+  favorite_count = 222
   id = 1530893366275235840
   retweet_count = 18
   text = "RT @robinlovelace: Taking baby steps towards learning how to make maps with #Python. I feel like a baby elephant (or panda 🐼 ) stepping out of my #RStats comfort zone. Aims: fun, learning +collaboration with people working in Python outfits. Work in progress: https://t.co/1P2aHjT10g #gischat https://t.co/4NInnJkMjT"
