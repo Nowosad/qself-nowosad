@@ -337,7 +337,7 @@
 
 [[tweets]]
   created_at = 2022-12-18T20:07:43Z
-  favorite_count = 60
+  favorite_count = 63
   id = 1604569118295851009
   retweet_count = 37
   text = "RT @foss4g: 📢 Call for Academic Papers is now open!\n\n📆  We invite you to submit abstracts for academic papers by 19 Feb 2023!\n\nFollowing the FOSS4G tradition, the papers will be published again in ISPRS.\n\n👉 https://t.co/WCx0AqusCE\n\n#FOSS4G | July 26 - June 2 \nPrizren, Kosovo\n\n#FOSS4G2023 https://t.co/Xk0NNXw5tm"
@@ -12288,9 +12288,9 @@
 
 [[tweets]]
   created_at = 2022-02-05T20:05:33Z
-  favorite_count = 3442
+  favorite_count = 3439
   id = 1490054004671496198
-  retweet_count = 584
+  retweet_count = 582
   text = "RT @xkcdComic: Sea Chase https://t.co/9qBcINGEZd https://t.co/HrKTbjzJwf https://t.co/QTgvcrKaKn"
 
   [tweets.entities]
@@ -38140,7 +38140,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 300
+  favorite_count = 303
   id = 1284853446164832256
   retweet_count = 67
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -59310,7 +59310,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 453
+  favorite_count = 449
   id = 1098697635697967105
   retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -60822,7 +60822,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5501
+  favorite_count = 5492
   id = 1076899899348799488
   retweet_count = 1565
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -70576,7 +70576,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 304
+  favorite_count = 300
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -70685,7 +70685,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stevevance"
-      user_id = 1604988493607878658
+      user_id = 30399127
 
     [[tweets.entities.user_mentions]]
       user = "pathoverlap"
