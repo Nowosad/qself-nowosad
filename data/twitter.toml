@@ -4772,9 +4772,9 @@
 
 [[tweets]]
   created_at = 2022-08-26T14:08:42Z
-  favorite_count = 69
+  favorite_count = 72
   id = 1563166551024340993
-  retweet_count = 19
+  retweet_count = 18
   text = "RT @charliejhadley: If you're doing #GIS with R (#rspatial) then your {ggplot2} code WILL break in the next release.\n\nCurrently: geom_sf(size = 3) will increase the line width of polygons in {sf} objects\n\n{ggplot2} 3.4 onwards: you will need to use geom_sf(linewidth = 3)\n\nhttps://t.co/PgV7VSISg0 https://t.co/xfUsMMAM8K"
 
   [tweets.entities]
@@ -9673,7 +9673,7 @@
 
 [[tweets]]
   created_at = 2022-04-25T15:34:45Z
-  favorite_count = 387
+  favorite_count = 384
   id = 1518614498784993282
   retweet_count = 62
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nStatistical learning, {mlr3}, {terra}, {future}, machine learning, spatial cross-validation, and many more in Chapter 12!\n\nRead it all at https://t.co/BSKKlMjvpO.\n\n#rstats #rspatial #geocompr https://t.co/g16Q1iZhca"
@@ -47956,7 +47956,7 @@
 
 [[tweets]]
   created_at = 2019-11-07T15:13:37Z
-  favorite_count = 89
+  favorite_count = 86
   id = 1192460100277018624
   retweet_count = 27
   text = "RT @jakub_nowosad: The last blog post about analyzing spatial patterns is online at https://t.co/I3awvdgxEt. I show how to extract spatial patterns, apply spatial pattern-based clustering, and work on spatiotemporal data. There are even some lines of #rstats code. #sil https://t.co/7QQKVMDhji"
@@ -51319,7 +51319,7 @@
 
 [[tweets]]
   created_at = 2019-08-23T21:17:04Z
-  favorite_count = 2893
+  favorite_count = 2889
   id = 1165010087171280896
   retweet_count = 756
   text = "RT @hadleywickham: Excited to announce that I've started work on a 3rd edition of the ggplot2 book (with help from @djnavarro) — big news for this edition is that Springer has allowed me to share it online: https://t.co/6kgkt5QCyq 📊📒🤓🎉 #rstats"
@@ -61578,9 +61578,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2291
+  favorite_count = 2288
   id = 1070309959852806144
-  retweet_count = 1330
+  retweet_count = 1329
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -63723,9 +63723,9 @@
 
 [[tweets]]
   created_at = 2018-09-16T12:56:34Z
-  favorite_count = 79
+  favorite_count = 76
   id = 1041309872908902400
-  retweet_count = 27
+  retweet_count = 26
   text = "RT @robinlovelace: How to visualise citywide travel patterns? Here's an attempt for Bristol. More walking and cycling for short trips near city centre, cars dominate in outskirts. A pattern found in cities worldwide. Reproducible #rstats code: https://t.co/q8xEc5ytEC #geocompr https://t.co/70kQ3ErRyp"
 
   [tweets.entities]
@@ -65013,7 +65013,7 @@
 
 [[tweets]]
   created_at = 2018-07-17T14:20:05Z
-  favorite_count = 67
+  favorite_count = 64
   id = 1019225230487801862
   retweet_count = 27
   text = "A third blog post in a series about the pattern-based spatial analysis is online at https://t.co/ylJw3ijbF1. It explains how to find places with similar spatial patterns. #sil https://t.co/WwwFhLDolc"
@@ -68401,9 +68401,9 @@
 
 [[tweets]]
   created_at = 2018-03-12T22:16:33Z
-  favorite_count = 240
+  favorite_count = 237
   id = 973321877706936322
-  retweet_count = 73
+  retweet_count = 72
   text = "RT @hafenstats: Finally a blog post on geofaceting and a comparison of other methods for geographic visualization. Check it out! https://t.co/7zTUhRucr5 #rstats https://t.co/69V5a3WhW9"
 
   [tweets.entities]
