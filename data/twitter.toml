@@ -69145,10 +69145,6 @@
       user_id = 438491318
 
     [[tweets.entities.user_mentions]]
-      user = "MangoTheCat"
-      user_id = 20520190
-
-    [[tweets.entities.user_mentions]]
       user = "sellorm"
       user_id = 14351134
 
