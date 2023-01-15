@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2023-01-15T15:40:19Z
+  favorite_count = 5
+  id = 1614648682460192768
+  retweet_count = 4
+  text = "Two weeks are left for applications for the OpenGeoHub Summer School 2023. https://t.co/wrbvmGiDKq"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/jakub_nowosad/…"
+      expanded_url = "https://twitter.com/jakub_nowosad/status/1603404831808712704"
+      url = "https://t.co/wrbvmGiDKq"
+
+[[tweets]]
   created_at = 2023-01-12T11:39:37Z
   favorite_count = 33
   id = 1613500945433780224
@@ -484,9 +498,9 @@
 
 [[tweets]]
   created_at = 2022-12-15T15:01:16Z
-  favorite_count = 52
+  favorite_count = 56
   id = 1603404831808712704
-  retweet_count = 23
+  retweet_count = 24
   text = "🔥OpenGeoHub Summer School 2023 will be held in Poznań, Poland🔥\n\nA whole week of #opensource spatial data analysis using #rstats, #python, and #julialang!\n\n27 August 2022 – 02 September 2023\n\nApply before February 1st -- https://t.co/u4pLV8snIQ.\n\n #rspatial #gischat https://t.co/zhpcptVPYd"
 
   [tweets.entities]
@@ -5136,9 +5150,9 @@
 
 [[tweets]]
   created_at = 2022-08-23T16:09:42Z
-  favorite_count = 504
+  favorite_count = 506
   id = 1562109835667279873
-  retweet_count = 128
+  retweet_count = 125
   text = "🔥You can find all of the materials from the \"Getting started with R and R-spatial\" #FOSS4G2022 workshop🔥 at:\n\nhttps://t.co/q0NJnn0VdM\n\n#rstats #rspatial #geocompr #gischat https://t.co/3SGHrtyLzt"
 
   [tweets.entities]
@@ -6835,9 +6849,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22963
+  favorite_count = 22962
   id = 1546126992168439808
-  retweet_count = 4932
+  retweet_count = 4935
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -56193,9 +56207,9 @@
 
 [[tweets]]
   created_at = 2019-05-24T14:48:19Z
-  favorite_count = 30
+  favorite_count = 29
   id = 1131934960003297280
-  retweet_count = 13
+  retweet_count = 12
   text = "RT @appelmar: @edzerpebesma A tutorial how to process Sentinel 2 🛰️time series with gdalcubes is available at https://t.co/eaWkcCIirU"
 
   [tweets.entities]
@@ -56208,10 +56222,6 @@
     [[tweets.entities.user_mentions]]
       user = "appelmar"
       user_id = 730722167760031744
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1131882235639095296
@@ -73088,6 +73098,10 @@
       user = "zevross"
       user_id = 1909185565
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 894641383084085249
     user = "zevross"
@@ -76426,6 +76440,10 @@
       user = "dirk_sch"
       user_id = 500162083
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 786904724851138562
     user = "mdsumner"
@@ -76650,10 +76668,6 @@
     [[tweets.entities.user_mentions]]
       user = "bhaskar_vk"
       user_id = 577250082
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 784174213640970241
