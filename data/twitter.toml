@@ -5185,10 +5185,6 @@
       user_id = 877607959165108224
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "RoelandtN42"
       user_id = 831398755920445440
 
@@ -6843,9 +6839,9 @@
 
 [[tweets]]
   created_at = 2022-07-10T13:39:35Z
-  favorite_count = 22962
+  favorite_count = 22963
   id = 1546126992168439808
-  retweet_count = 4935
+  retweet_count = 4932
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -12802,10 +12798,6 @@
       user_id = 84618490
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -12943,7 +12935,7 @@
 
 [[tweets]]
   created_at = 2022-01-27T15:31:57Z
-  favorite_count = 168
+  favorite_count = 165
   id = 1486723661432115206
   retweet_count = 50
   text = "‼️Geocomputation with R, ed.2: progress report‼️\n\nWe wrote a blog post summarizing our recent book improvements. You can read it at https://t.co/BQSRpHzqJz.\n\n#rstats #rspatial #geocompr https://t.co/AwaCctIjME"
@@ -21338,7 +21330,7 @@
 
 [[tweets]]
   created_at = 2021-07-16T10:42:14Z
-  favorite_count = 2
+  favorite_count = 1
   id = 1415985116594282497
   retweet_count = 1
   text = "@abdelkrim_bsr @edzerpebesma I am not aware of how (easily) do it in {stars} or {terra}. Probably the simplest (?) way is to contact the {rts} authors and suggest them to consider moving to more recent packages..."
@@ -21348,10 +21340,6 @@
     [[tweets.entities.user_mentions]]
       user = "abdelkrim_bsr"
       user_id = 62768835
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 1415964143300055040
@@ -27339,7 +27327,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37066
+  favorite_count = 37061
   id = 1367166556501925891
   retweet_count = 2921
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -39124,9 +39112,9 @@
 
 [[tweets]]
   created_at = 2020-06-18T06:43:17Z
-  favorite_count = 195
+  favorite_count = 197
   id = 1273506554130640896
-  retweet_count = 57
+  retweet_count = 54
   text = "RT @toeb18: Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7"
 
   [tweets.entities]
@@ -42544,9 +42532,9 @@
 
 [[tweets]]
   created_at = 2020-03-25T19:23:24Z
-  favorite_count = 31
+  favorite_count = 29
   id = 1242894874489360384
-  retweet_count = 18
+  retweet_count = 17
   text = "RT @_davecooley: I encourage #rspatial users to read the blog that comes with this update. It's important to understand how the proj and crs objects are changing, and will probably impact your code\n\n#rstats\n\nhttps://t.co/BmpS6wj2mq https://t.co/e7FtfUbHuk"
 
   [tweets.entities]
@@ -42557,8 +42545,8 @@
       url = "https://t.co/BmpS6wj2mq"
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/edzerpebesma/s…"
-      expanded_url = "https://twitter.com/edzerpebesma/status/1242550145964806145"
+      display_url = "t.co/e7FtfUbHuk"
+      expanded_url = "https://t.co/e7FtfUbHuk"
       url = "https://t.co/e7FtfUbHuk"
 
     [[tweets.entities.user_mentions]]
@@ -43441,7 +43429,7 @@
 
 [[tweets]]
   created_at = 2020-02-27T10:08:00Z
-  favorite_count = 25
+  favorite_count = 23
   id = 1232970630099763200
   retweet_count = 6
   text = "RT @RogerBivand: @ficaryl @edzerpebesma @hadleywickham Good that rgeos and rgdal served well for many years. sf also interfaces GEOS, GDAL and PROJ, like rgeos and rgdal, and the R packages mostly benefit from the hard work and foresight of GEOS, GDAL and PROJ developers. #rspatial #rstats"
@@ -43455,10 +43443,6 @@
     [[tweets.entities.user_mentions]]
       user = "ficaryl"
       user_id = 130999289
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -56896,10 +56880,6 @@
       user_id = 1909185565
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "CivicAngela"
       user_id = 742379544309567489
 
@@ -63469,9 +63449,9 @@
 
 [[tweets]]
   created_at = 2018-10-02T19:35:20Z
-  favorite_count = 207
+  favorite_count = 206
   id = 1047208431080394755
-  retweet_count = 49
+  retweet_count = 46
   text = "RT @zevross: A detailed new blog post to help you navigate what I consider the most underrated #rstats package, tmap. Colors, layouts, scale bars, interactivity and more. Complete with data collection code using tidycensus | https://t.co/Ns3HeelIuG https://t.co/HqLUocWWGQ"
 
   [tweets.entities]
@@ -66982,7 +66962,7 @@
   created_at = 2018-04-16T12:36:14Z
   favorite_count = 34
   id = 985859409308925952
-  retweet_count = 28
+  retweet_count = 25
   text = "RT @erum2020_conf: The final program of #erum2018 is now online at https://t.co/4WB1vzQa2d\n\nThe recent updates include all the #rstats keynote, invited, regular and lightning talks, also the poster and Shiny demo abstracts, detailed schedule, social program etc.\n\nRegistration closes in ~2 weeks! https://t.co/4BuQBFA87Y"
 
   [tweets.entities]
@@ -78506,9 +78486,9 @@
 
 [[tweets]]
   created_at = 2015-11-06T17:28:09Z
-  favorite_count = 73
+  favorite_count = 72
   id = 662682898856833025
-  retweet_count = 32
+  retweet_count = 29
   text = "RT @zevross: Six different ways to create a map in #rstats. A useful, detailed blog post by @ZazzValette | https://t.co/nSfhBP1pLq"
 
   [tweets.entities]
