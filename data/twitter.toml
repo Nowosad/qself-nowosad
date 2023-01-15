@@ -1399,7 +1399,7 @@
 
 [[tweets]]
   created_at = 2022-11-08T16:36:56Z
-  favorite_count = 21
+  favorite_count = 19
   id = 1590020557902422017
   retweet_count = 4
   text = "RT @krzysztof_dyba: In the dev version of {stars} there is new function `st_res()`. Now you can get the raster spatial (and not only) resolution more easily! Thanks to @edzerpebesma!\n#rspatial https://t.co/ADBMt7sDF9"
@@ -1414,10 +1414,6 @@
     [[tweets.entities.user_mentions]]
       user = "krzysztof_dyba"
       user_id = 1382325212377665537
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1589719839220068353
@@ -4672,6 +4668,10 @@
       user_id = 14399630
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "RogerBivand"
       user_id = 1560929287
 
@@ -5179,10 +5179,6 @@
     [[tweets.entities.user_mentions]]
       user = "NRatnaweera"
       user_id = 877607959165108224
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "RoelandtN42"
@@ -11692,14 +11688,14 @@
   created_at = 2022-02-20T20:04:03Z
   favorite_count = 12
   id = 1495489447126867984
-  retweet_count = 5
+  retweet_count = 6
   text = "RT @0mgould: Please pass on this opportunity, fully funded master degree in Europe. Some serious documentation is required to apply, so start now.  #geospatial #GIS https://t.co/K7L8pTP0NJ"
 
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/K7L8pTP0NJ"
-      expanded_url = "https://t.co/K7L8pTP0NJ"
+      display_url = "twitter.com/edzerpebesma/s…"
+      expanded_url = "https://twitter.com/edzerpebesma/status/1493221459552047108"
       url = "https://t.co/K7L8pTP0NJ"
 
     [[tweets.entities.user_mentions]]
@@ -12048,7 +12044,7 @@
   created_at = 2022-02-15T15:13:38Z
   favorite_count = 21
   id = 1493604421221199880
-  retweet_count = 6
+  retweet_count = 7
   text = "I finally watched @paleolimbot and @edzerpebesma talk from @foss4g 2021.\n\n\"Open source geometry on the sphere using S2 Geometry and R\" - https://t.co/yjpMQBk3KR\n\nRecommended if you want to learn more about S2 and spherical geometry in general.\n\n#rstats #rspatial #gischat"
 
   [tweets.entities]
@@ -12061,10 +12057,6 @@
     [[tweets.entities.user_mentions]]
       user = "paleolimbot"
       user_id = 17581779
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "foss4g"
@@ -12802,10 +12794,6 @@
       user_id = 84618490
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -12871,10 +12859,6 @@
     [[tweets.entities.user_mentions]]
       user = "_ColinFay"
       user_id = 84618490
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
@@ -15039,9 +15023,9 @@
 
 [[tweets]]
   created_at = 2021-11-28T10:13:39Z
-  favorite_count = 35
+  favorite_count = 33
   id = 1464900287655731206
-  retweet_count = 7
+  retweet_count = 6
   text = "RT @dhernangomez: #30DayMapChallenge Day 28: the Earth is not flat anymore in #RStats #rspatial thanks to sf+s2 (@edzerpebesma & @paleolimbot)\n\nMy honeymoon destinations\n\nMy most challenging map ever: Great Circles crossing the dateline, rasters & vector and Antarctica on Orthographic proj. https://t.co/6c2BDlN9iE"
 
   [tweets.entities]
@@ -15054,10 +15038,6 @@
     [[tweets.entities.user_mentions]]
       user = "dhernangomez"
       user_id = 121572923
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "paleolimbot"
@@ -15312,10 +15292,6 @@
       user_id = 1307060010669793280
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -15344,6 +15320,10 @@
     [[tweets.entities.user_mentions]]
       user = "shinysci"
       user_id = 1307060010669793280
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
@@ -19330,6 +19310,10 @@
       user_id = 1036979600780406784
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "TheresaRSmith"
       user_id = 501132251
 
@@ -20750,6 +20734,10 @@
       user_id = 114216916
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "RogerBivand"
       user_id = 1560929287
 
@@ -21344,10 +21332,6 @@
     [[tweets.entities.user_mentions]]
       user = "abdelkrim_bsr"
       user_id = 62768835
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 1415964143300055040
@@ -22530,7 +22514,7 @@
 
 [[tweets]]
   created_at = 2021-06-18T07:28:52Z
-  favorite_count = 2
+  favorite_count = 1
   id = 1405789594860277761
   text = "@edzerpebesma @mdsumner I have opened an issue about this at https://t.co/JrxBO9C8tk."
 
@@ -22542,17 +22526,8 @@
       url = "https://t.co/JrxBO9C8tk"
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-  [tweets.reply]
-    status_id = 1405784661209620480
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-17T14:49:54Z
@@ -22717,6 +22692,12 @@
   retweet_count = 2
   text = "@philriris How about: ArcGIS users can think of this addon as useful, get fed up with ArcGIS, and then find the {sabre} package, and move all of their work to #rstats!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "PhilRiris"
+      user_id = 1612775934502862848
+
   [tweets.reply]
     status_id = 1404107931356995585
     user = "palaeoscientist"
@@ -22772,12 +22753,6 @@
   favorite_count = 1
   id = 1404400928132943878
   text = "@edzerpebesma quick {stars} question: Is it possible to store single-dimensional information together with multidimensional one? For example, I want to create a {stars} object of 100 by 100 cells with ten satellite bands, but each cell also has a single quality value..."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-13T14:18:35Z
@@ -23046,10 +23021,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
@@ -23100,6 +23071,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
@@ -23119,10 +23094,6 @@
   text = "@edzerpebesma @southmapr @TimSalabim3 {stars} is more about spatiotemporal data (mostly rasters, spatiotemporal vector features seem to be underused). It gives an option to store many attributes together with many bands, has direct support for curvilinear rasters, and also works well with ggplot2 (geom_stars). (4/9)"
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "southmapr"
@@ -23588,6 +23559,10 @@
     [[tweets.entities.user_mentions]]
       user = "MethodsEcolEvol"
       user_id = 87706747
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1400394971774164992
@@ -26680,7 +26655,7 @@
   created_at = 2021-03-18T15:13:12Z
   favorite_count = 47
   id = 1372566766300368897
-  retweet_count = 21
+  retweet_count = 22
   text = "RT @bikesRdata: More great feedback on @rOpenSci standards for #rspatial statistical software from @edzerpebesma - Please #rstats community keep on helping improve software standards with more feedback! https://t.co/FdUM4MRD7i"
 
   [tweets.entities]
@@ -26697,6 +26672,10 @@
     [[tweets.entities.user_mentions]]
       user = "rOpenSci"
       user_id = 342250615
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1372465312495460363
@@ -27327,7 +27306,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37061
+  favorite_count = 37065
   id = 1367166556501925891
   retweet_count = 2921
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -33535,9 +33514,9 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 810
+  favorite_count = 813
   id = 1322224591750766594
-  retweet_count = 310
+  retweet_count = 309
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
 
   [tweets.entities]
@@ -33598,7 +33577,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2164
+  favorite_count = 2167
   id = 1319740736372355072
   retweet_count = 795
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -36531,9 +36510,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1847
+  favorite_count = 1852
   id = 1299086851484061699
-  retweet_count = 666
+  retweet_count = 667
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -38135,7 +38114,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 300
+  favorite_count = 303
   id = 1284853446164832256
   retweet_count = 66
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -38571,7 +38550,7 @@
 
 [[tweets]]
   created_at = 2020-07-02T10:07:09Z
-  favorite_count = 25
+  favorite_count = 23
   id = 1278631288476520448
   retweet_count = 3
   text = "RT @TimSalabim3: Learning/knowing how to code in #rstats/#Python is not enough in my opinion. #Docker and some DB skills are essential too. In industry you need to be able to make your products available to others via web APIs or similar. https://t.co/8MyAV5lVLN"
@@ -38579,8 +38558,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/edzerpebesma/s…"
-      expanded_url = "https://twitter.com/edzerpebesma/status/1278447470226411525"
+      display_url = "t.co/8MyAV5lVLN"
+      expanded_url = "https://t.co/8MyAV5lVLN"
       url = "https://t.co/8MyAV5lVLN"
 
     [[tweets.entities.user_mentions]]
@@ -42545,8 +42524,8 @@
       url = "https://t.co/BmpS6wj2mq"
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/edzerpebesma/s…"
-      expanded_url = "https://twitter.com/edzerpebesma/status/1242550145964806145"
+      display_url = "t.co/e7FtfUbHuk"
+      expanded_url = "https://t.co/e7FtfUbHuk"
       url = "https://t.co/e7FtfUbHuk"
 
     [[tweets.entities.user_mentions]]
@@ -43431,7 +43410,7 @@
   created_at = 2020-02-27T10:08:00Z
   favorite_count = 23
   id = 1232970630099763200
-  retweet_count = 5
+  retweet_count = 6
   text = "RT @RogerBivand: @ficaryl @edzerpebesma @hadleywickham Good that rgeos and rgdal served well for many years. sf also interfaces GEOS, GDAL and PROJ, like rgeos and rgdal, and the R packages mostly benefit from the hard work and foresight of GEOS, GDAL and PROJ developers. #rspatial #rstats"
 
   [tweets.entities]
@@ -43443,10 +43422,6 @@
     [[tweets.entities.user_mentions]]
       user = "ficaryl"
       user_id = 130999289
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -46008,6 +45983,10 @@
     [[tweets.entities.user_mentions]]
       user = "useR2020stl"
       user_id = 1102763906714554368
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "pycon"
@@ -49517,7 +49496,7 @@
 
 [[tweets]]
   created_at = 2019-09-26T15:25:32Z
-  favorite_count = 280
+  favorite_count = 281
   id = 1177242808564015106
   retweet_count = 83
   text = "RT @robinlovelace: Interested in spatial networks? New blog post by @LuukvanderMeer, @loreabad6 and me on the topic is finally published 🚀\nhttps://t.co/JJyUE6kTeN\n\nResults from research visit with @edzerpebesma back in January, thanks for hosting! https://t.co/cEPfNf53Dw"
@@ -49560,6 +49539,10 @@
     [[tweets.entities.user_mentions]]
       user = "loreabad6"
       user_id = 233748559
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1177206085649936384
@@ -54134,9 +54117,9 @@
 
 [[tweets]]
   created_at = 2019-07-11T05:06:42Z
-  favorite_count = 47
+  favorite_count = 48
   id = 1149183209168691201
-  retweet_count = 17
+  retweet_count = 16
   text = "RT @precariobecario: Check this tutorial on spatio-temporal data analysis with #rstats by @edzerpebesma and @RogerBivand This is gold!! https://t.co/0mQzuzvlLy"
 
   [tweets.entities]
@@ -54149,10 +54132,6 @@
     [[tweets.entities.user_mentions]]
       user = "precariobecario"
       user_id = 10737472
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "RogerBivand"
@@ -56872,10 +56851,6 @@
       user_id = 1909185565
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "CivicAngela"
       user_id = 742379544309567489
 
@@ -59285,9 +59260,9 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 449
+  favorite_count = 453
   id = 1098697635697967105
-  retweet_count = 111
+  retweet_count = 112
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
 
   [tweets.entities]
@@ -60763,7 +60738,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T18:02:04Z
-  favorite_count = 10
+  favorite_count = 9
   id = 1076900761823526913
   retweet_count = 1
   text = "RT @plzbeemyfriend: special thanks to some cool tools and resources from the #rstats community and especially to @edzerpebesma @bikesRdata @robinlovelace @jakub_nowosad  and Jannes Münchow"
@@ -60773,10 +60748,6 @@
     [[tweets.entities.user_mentions]]
       user = "plzbeemyfriend"
       user_id = 843499634517594113
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "bikesRdata"
@@ -60797,7 +60768,7 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5486
+  favorite_count = 5492
   id = 1076899899348799488
   retweet_count = 1564
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
@@ -63753,7 +63724,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2722
+  favorite_count = 2728
   id = 1039472133481615360
   retweet_count = 1028
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -67649,10 +67620,6 @@
       user_id = 144529492
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "cpsievert"
       user_id = 316842679
 
@@ -67705,10 +67672,6 @@
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
       user_id = 2810559039
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "cpsievert"
@@ -68502,15 +68465,6 @@
       expanded_url = "https://github.com/Nowosad/geopat2/blob/master/.travis.yml"
       url = "https://t.co/I49sJGlbNb"
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-  [tweets.reply]
-    status_id = 971743573447270400
-    user = "edzerpebesma"
-    user_id = 148518970
-
 [[tweets]]
   created_at = 2018-03-08T02:22:32Z
   favorite_count = 1
@@ -69077,10 +69031,6 @@
     [[tweets.entities.user_mentions]]
       user = "smarterpoland"
       user_id = 438491318
-
-    [[tweets.entities.user_mentions]]
-      user = "MangoTheCat"
-      user_id = 20520190
 
     [[tweets.entities.user_mentions]]
       user = "sellorm"
@@ -69951,6 +69901,10 @@
       user = "RogerBivand"
       user_id = 1560929287
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 951144351744348160
     user = "RogerBivand"
@@ -70538,7 +70492,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 300
+  favorite_count = 304
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -73133,10 +73087,6 @@
     [[tweets.entities.user_mentions]]
       user = "zevross"
       user_id = 1909185565
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 894641383084085249
@@ -76476,10 +76426,6 @@
       user = "dirk_sch"
       user_id = 500162083
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.reply]
     status_id = 786904724851138562
     user = "mdsumner"
@@ -76704,6 +76650,10 @@
     [[tweets.entities.user_mentions]]
       user = "bhaskar_vk"
       user_id = 577250082
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 784174213640970241
@@ -77288,9 +77238,9 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1649
+  favorite_count = 1652
   id = 777942576099893248
-  retweet_count = 906
+  retweet_count = 907
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
 
   [tweets.entities]
