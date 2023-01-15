@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-15T15:40:19Z
-  favorite_count = 5
+  favorite_count = 8
   id = 1614648682460192768
-  retweet_count = 4
+  retweet_count = 8
   text = "Two weeks are left for applications for the OpenGeoHub Summer School 2023. https://t.co/wrbvmGiDKq"
 
   [tweets.entities]
@@ -498,9 +498,9 @@
 
 [[tweets]]
   created_at = 2022-12-15T15:01:16Z
-  favorite_count = 56
+  favorite_count = 59
   id = 1603404831808712704
-  retweet_count = 24
+  retweet_count = 27
   text = "🔥OpenGeoHub Summer School 2023 will be held in Poznań, Poland🔥\n\nA whole week of #opensource spatial data analysis using #rstats, #python, and #julialang!\n\n27 August 2022 – 02 September 2023\n\nApply before February 1st -- https://t.co/u4pLV8snIQ.\n\n #rspatial #gischat https://t.co/zhpcptVPYd"
 
   [tweets.entities]
@@ -6851,7 +6851,7 @@
   created_at = 2022-07-10T13:39:35Z
   favorite_count = 22962
   id = 1546126992168439808
-  retweet_count = 4935
+  retweet_count = 4931
   text = "RT @Valen10Francois: One of my biggest pet peeves: When old historic maps overlap with modern political maps. \n\nA 🧵 https://t.co/7ejEEgeChU"
 
   [tweets.entities]
@@ -30724,9 +30724,9 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 305
+  favorite_count = 306
   id = 1339326202134343689
-  retweet_count = 63
+  retweet_count = 61
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
 
   [tweets.entities]
@@ -30743,10 +30743,6 @@
     [[tweets.entities.user_mentions]]
       user = "thomasp85"
       user_id = 611597719
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1339231102716813324
@@ -70581,7 +70577,7 @@
   created_at = 2017-12-16T22:05:09Z
   favorite_count = 46
   id = 942153651249958913
-  retweet_count = 8
+  retweet_count = 7
   text = "RT @maynardandking: Thanks to @edzerpebesma for adding st_subdivide() to the sf package! \n\nSeeing exciting speed improvements for spatial intersection operations: https://t.co/8exoqVw7hm\n\nInspired by a @stevevance blog post: https://t.co/XdHJmlgpqQ\n\n(cc @pathoverlap)\n#rstats #gistribe https://t.co/F1MrVerH8T"
 
   [tweets.entities]
@@ -70604,10 +70600,6 @@
     [[tweets.entities.user_mentions]]
       user = "maynardandking"
       user_id = 3852694092
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "stevevance"
@@ -73097,10 +73089,6 @@
     [[tweets.entities.user_mentions]]
       user = "zevross"
       user_id = 1909185565
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 894641383084085249
@@ -76440,10 +76428,6 @@
       user = "dirk_sch"
       user_id = 500162083
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.reply]
     status_id = 786904724851138562
     user = "mdsumner"
@@ -76668,6 +76652,10 @@
     [[tweets.entities.user_mentions]]
       user = "bhaskar_vk"
       user_id = 577250082
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 784174213640970241
