@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2023-01-15T15:40:19Z
-  favorite_count = 8
+  favorite_count = 12
   id = 1614648682460192768
   retweet_count = 8
   text = "Two weeks are left for applications for the OpenGeoHub Summer School 2023. https://t.co/wrbvmGiDKq"
@@ -15336,10 +15336,6 @@
       user_id = 1307060010669793280
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -19273,10 +19269,6 @@
     [[tweets.entities.user_mentions]]
       user = "opengeohub"
       user_id = 1036979600780406784
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "TheresaRSmith"
@@ -49550,10 +49542,6 @@
       user = "loreabad6"
       user_id = 233748559
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.retweet]
     status_id = 1177206085649936384
     user = "robinlovelace"
@@ -51966,10 +51954,6 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-    [[tweets.entities.user_mentions]]
-      user = "tretherington"
-      user_id = 2912292714
 
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
@@ -61505,7 +61489,7 @@
   created_at = 2018-12-05T13:32:34Z
   favorite_count = 2292
   id = 1070309959852806144
-  retweet_count = 1329
+  retweet_count = 1326
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -68476,17 +68460,6 @@
   favorite_count = 1
   id = 971571840085880834
   text = "@edzerpebesma I thought about it, but it is definitely above my head: connecting complex C code with R is one issue and enabling it to work on different platforms is another..."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-  [tweets.reply]
-    status_id = 971455468878090240
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2018-03-08T02:16:04Z
