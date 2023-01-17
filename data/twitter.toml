@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-16T18:53:01Z
-  favorite_count = 6
+  favorite_count = 10
   id = 1615059565971922945
-  retweet_count = 2
+  retweet_count = 3
   text = "RT @BranchTwigLeaf: @jakub_nowosad @robinlovelace @jannes_mu @MichaelDorman84 @underdarkGIS @mireiacamacho75 Shameless plug here! The french translation of geocomputation is here (https://t.co/sTU80zwrgq) and always welcome hands or issues (https://t.co/CWYMmPi2rR)!"
 
   [tweets.entities]
@@ -53,7 +53,7 @@
 
 [[tweets]]
   created_at = 2023-01-16T15:30:14Z
-  favorite_count = 3
+  favorite_count = 8
   id = 1615008534088785921
   retweet_count = 1
   text = "Also, 1: It is still a beta version, so let us know what you think and how we can improve it!\n\nAlso, 2: Visit also our related websites: https://t.co/07Hbwel8Sv, https://t.co/DGyaoiA6O5, https://t.co/vjGP2HGtSm, and https://t.co/YbRq8VVMin!\n\n#openscience #opensourse"
@@ -87,9 +87,9 @@
 
 [[tweets]]
   created_at = 2023-01-16T15:29:38Z
-  favorite_count = 390
+  favorite_count = 600
   id = 1615008381089054720
-  retweet_count = 124
+  retweet_count = 168
   text = "🔥Major Announcement🔥\n\nWe created a new home for all of our resources on reproducible geographic data analysis, modeling, and visualization with open source software!\n\nVisit https://t.co/fRkwrYntsd.\n\n#rstats #rspatial #python #geopython #geocompx https://t.co/oswVtR9faS"
 
   [tweets.entities]
@@ -1551,7 +1551,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T21:50:01Z
-  favorite_count = 6457
+  favorite_count = 6454
   id = 1589374569260933120
   retweet_count = 1018
   text = "RT @AcademicChatter: To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing."
@@ -4721,7 +4721,7 @@
 
 [[tweets]]
   created_at = 2022-08-26T18:56:24Z
-  favorite_count = 17
+  favorite_count = 16
   id = 1563238953397862400
   retweet_count = 4
   text = "RT @RoelandtN42: How do \"open scientists\" work ?\n\nGreat question by @edzerpebesma \n\n#FOSS4G #FOSS4G2022\n#OpenScience @EOdatascience https://t.co/uIQ7VmzwdX"
@@ -4741,10 +4741,6 @@
     [[tweets.entities.user_mentions]]
       user = "RoelandtN42"
       user_id = 831398755920445440
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "EOdatascience"
@@ -6675,10 +6671,6 @@
     [[tweets.entities.user_mentions]]
       user = "hanna123987"
       user_id = 720884657328246785
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "jannes_mu"
@@ -9983,6 +9975,10 @@
       user = "cmilagarc"
       user_id = 810440592631234560
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.retweet]
     status_id = 1514540260948168704
     user = "hanna123987"
@@ -11819,8 +11815,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "t.co/K7L8pTP0NJ"
-      expanded_url = "https://t.co/K7L8pTP0NJ"
+      display_url = "twitter.com/edzerpebesma/s…"
+      expanded_url = "https://twitter.com/edzerpebesma/status/1493221459552047108"
       url = "https://t.co/K7L8pTP0NJ"
 
     [[tweets.entities.user_mentions]]
@@ -12182,10 +12178,6 @@
     [[tweets.entities.user_mentions]]
       user = "paleolimbot"
       user_id = 17581779
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "foss4g"
@@ -12580,6 +12572,10 @@
       user_id = 103516223
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "RogerBivand"
       user_id = 1560929287
 
@@ -12919,10 +12915,6 @@
       user_id = 84618490
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "rgeomatic"
       user_id = 844109224598818816
 
@@ -12988,10 +12980,6 @@
     [[tweets.entities.user_mentions]]
       user = "_ColinFay"
       user_id = 84618490
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
@@ -14318,6 +14306,10 @@
       user_id = 266073710
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
 
@@ -15169,10 +15161,6 @@
       user_id = 121572923
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "paleolimbot"
       user_id = 17581779
 
@@ -15914,9 +15902,9 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5131
+  favorite_count = 5135
   id = 1458689506627014657
-  retweet_count = 358
+  retweet_count = 356
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
 
   [tweets.entities]
@@ -22622,17 +22610,8 @@
       url = "https://t.co/JrxBO9C8tk"
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-  [tweets.reply]
-    status_id = 1405784661209620480
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-17T14:49:54Z
@@ -22797,6 +22776,12 @@
   retweet_count = 2
   text = "@philriris How about: ArcGIS users can think of this addon as useful, get fed up with ArcGIS, and then find the {sabre} package, and move all of their work to #rstats!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "PhilRiris"
+      user_id = 1612775934502862848
+
   [tweets.reply]
     status_id = 1404107931356995585
     user = "palaeoscientist"
@@ -22832,32 +22817,14 @@
 
 [[tweets]]
   created_at = 2021-06-14T11:47:25Z
-  favorite_count = 1
   id = 1404405111221362690
   text = "@edzerpebesma Thanks! It confirms my understanding."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-  [tweets.reply]
-    status_id = 1404403045891555328
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-14T11:30:48Z
   favorite_count = 1
   id = 1404400928132943878
   text = "@edzerpebesma quick {stars} question: Is it possible to store single-dimensional information together with multidimensional one? For example, I want to create a {stars} object of 100 by 100 cells with ten satellite bands, but each cell also has a single quality value..."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-13T14:18:35Z
@@ -23102,6 +23069,10 @@
       url = "https://t.co/xE1ZU5GXvp"
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
@@ -23193,10 +23164,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
@@ -23240,10 +23207,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
@@ -23266,12 +23229,21 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "southmapr"
       user_id = 1127867966
 
     [[tweets.entities.user_mentions]]
       user = "TimSalabim3"
       user_id = 712203030079414272
+
+  [tweets.reply]
+    status_id = 1401918491293368322
+    user = "edzerpebesma"
+    user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-10T05:45:22Z
@@ -23647,6 +23619,10 @@
     [[tweets.entities.user_mentions]]
       user = "MethodsEcolEvol"
       user_id = 87706747
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1400394971774164992
@@ -24167,6 +24143,10 @@
     [[tweets.entities.user_mentions]]
       user = "RogerBivand"
       user_id = 1560929287
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1397157063676022787
@@ -24717,6 +24697,10 @@
     [[tweets.entities.user_mentions]]
       user = "kyle_e_walker"
       user_id = 144529492
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "MartijnTennekes"
@@ -26749,6 +26733,10 @@
       user = "rOpenSci"
       user_id = 342250615
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.retweet]
     status_id = 1372465312495460363
     user = "bikesRdata"
@@ -27378,9 +27366,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37058
+  favorite_count = 37061
   id = 1367166556501925891
-  retweet_count = 2914
+  retweet_count = 2915
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -29860,7 +29848,7 @@
 
 [[tweets]]
   created_at = 2021-01-18T18:40:14Z
-  favorite_count = 309
+  favorite_count = 308
   id = 1351237980711755778
   retweet_count = 63
   text = "RT @_useRconf: Confirmed keynote! We are happy to announce that Edzer Pebesma (@edzerpebesma) will give a keynote at #useR2021. His contributions to spatial/spatio-temporal data analysis using #RStats are amazing! We know you are excited and looking forward to his talk! https://t.co/PGwcx2SPsS"
@@ -29875,6 +29863,10 @@
     [[tweets.entities.user_mentions]]
       user = "_useRconf"
       user_id = 1280779280579022848
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1351214015746342914
@@ -30778,7 +30770,7 @@
 
 [[tweets]]
   created_at = 2020-12-16T21:47:04Z
-  favorite_count = 303
+  favorite_count = 306
   id = 1339326202134343689
   retweet_count = 61
   text = "RT @LuukvanderMeer: R 📦 {sfnetworks} is maturing! v0.4 'Hiltrup' released with lots of changes + new features. It connects {tidygraph} @thomasp85 and {sf} @edzerpebesma to make geospatial network analysis in R easier. See thread for details 👇 Hopefully soon on CRAN! #rspatial #rstats #gischat https://t.co/TpJfceor6c"
@@ -30797,10 +30789,6 @@
     [[tweets.entities.user_mentions]]
       user = "thomasp85"
       user_id = 611597719
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1339231102716813324
@@ -33582,7 +33570,7 @@
 
 [[tweets]]
   created_at = 2020-10-30T17:11:23Z
-  favorite_count = 810
+  favorite_count = 813
   id = 1322224591750766594
   retweet_count = 309
   text = "RT @tjukanov: #30DayMapChallenge 2020 categories are here. Starting November 1st! 🎉🎉\n\nPublish a map each day with the following themes. No restriction on tools or data, but all maps should be made by you. Doing less than 30 is fine too.\n\nMore info:: https://t.co/OmTLB6u2cL https://t.co/3yvftgv4K1"
@@ -33645,7 +33633,7 @@
 
 [[tweets]]
   created_at = 2020-10-23T20:41:25Z
-  favorite_count = 2163
+  favorite_count = 2166
   id = 1319740736372355072
   retweet_count = 795
   text = "RT @neilrkaye: I decided to make an updated and improved animating Mercator animation after @simongerman600 tweeted original. \nThis new one now transforms the countries to the correct shape as well as size and also colours them based on size to give paler expanding balloon effect.\n#dataviz https://t.co/hr4MPiF2i2"
@@ -35508,7 +35496,7 @@
 
 [[tweets]]
   created_at = 2020-09-16T17:30:03Z
-  favorite_count = 4
+  favorite_count = 3
   id = 1306284225327439873
   text = "@zevross @edzerpebesma @RogerBivand You can reproduce my findings with https://t.co/LlxT9YcskP ;)"
 
@@ -35522,10 +35510,6 @@
     [[tweets.entities.user_mentions]]
       user = "zevross"
       user_id = 1909185565
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "RogerBivand"
@@ -36578,9 +36562,9 @@
 
 [[tweets]]
   created_at = 2020-08-27T20:50:15Z
-  favorite_count = 1847
+  favorite_count = 1852
   id = 1299086851484061699
-  retweet_count = 664
+  retweet_count = 665
   text = "RT @OscarBaruffa: Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP"
 
   [tweets.entities]
@@ -38182,7 +38166,7 @@
 
 [[tweets]]
   created_at = 2020-07-19T14:11:47Z
-  favorite_count = 300
+  favorite_count = 303
   id = 1284853446164832256
   retweet_count = 66
   text = "Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW"
@@ -38626,8 +38610,8 @@
   [tweets.entities]
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/edzerpebesma/s…"
-      expanded_url = "https://twitter.com/edzerpebesma/status/1278447470226411525"
+      display_url = "t.co/8MyAV5lVLN"
+      expanded_url = "https://t.co/8MyAV5lVLN"
       url = "https://t.co/8MyAV5lVLN"
 
     [[tweets.entities.user_mentions]]
@@ -40782,6 +40766,10 @@
       url = "https://t.co/KzDvLPMWBU"
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "paleolimbot"
       user_id = 17581779
 
@@ -42588,8 +42576,8 @@
       url = "https://t.co/BmpS6wj2mq"
 
     [[tweets.entities.urls]]
-      display_url = "twitter.com/edzerpebesma/s…"
-      expanded_url = "https://twitter.com/edzerpebesma/status/1242550145964806145"
+      display_url = "t.co/e7FtfUbHuk"
+      expanded_url = "https://t.co/e7FtfUbHuk"
       url = "https://t.co/e7FtfUbHuk"
 
     [[tweets.entities.user_mentions]]
@@ -43486,10 +43474,6 @@
     [[tweets.entities.user_mentions]]
       user = "ficaryl"
       user_id = 130999289
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "hadleywickham"
@@ -46051,6 +46035,10 @@
     [[tweets.entities.user_mentions]]
       user = "useR2020stl"
       user_id = 1102763906714554368
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "pycon"
@@ -48633,6 +48621,10 @@
       url = "https://t.co/b4c8XHYm0y"
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
 
@@ -48803,6 +48795,10 @@
       user = "whyRconf"
       user_id = 805539526890373120
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 1182010715818864641
     user = "nkasongi"
@@ -48826,6 +48822,10 @@
     [[tweets.entities.user_mentions]]
       user = "whyRconf"
       user_id = 805539526890373120
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 1182009132477538313
@@ -51070,10 +51070,6 @@
       user = "robinlovelace"
       user_id = 80250475
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.retweet]
     status_id = 1166628966410719232
     user = "robinlovelace"
@@ -52008,10 +52004,6 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-    [[tweets.entities.user_mentions]]
-      user = "tretherington"
-      user_id = 2912292714
 
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
@@ -58999,7 +58991,7 @@
 
 [[tweets]]
   created_at = 2019-03-06T18:10:35Z
-  favorite_count = 20
+  favorite_count = 19
   id = 1103357221319118849
   retweet_count = 3
   text = "RT @geospacedman: Bug in #rstats sf package reported and fixed in a couple of hours. Another @edzerpebesma epic performance. https://t.co/nh9HcMGDp8"
@@ -59014,10 +59006,6 @@
     [[tweets.entities.user_mentions]]
       user = "geospacedman"
       user_id = 88731801
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1103297526000742400
@@ -59146,7 +59134,7 @@
 
 [[tweets]]
   created_at = 2019-02-27T21:17:03Z
-  favorite_count = 16
+  favorite_count = 15
   id = 1100867431726223373
   retweet_count = 2
   text = "RT @zevross: @thomas_mock There's the geocomputation with R book (@jakub_nowosad, @robinlovelace, https://t.co/6cKBudwJUq), good resources at https://t.co/8KZuhfoA4Y (@edzerpebesma). I have a DataCamp course https://t.co/wPWdh93rmU. Good resources from @CivicAngela, https://t.co/6AYtrN9TUo"
@@ -59188,10 +59176,6 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "CivicAngela"
@@ -59308,7 +59292,7 @@
 
 [[tweets]]
   created_at = 2019-02-21T21:35:03Z
-  favorite_count = 449
+  favorite_count = 453
   id = 1098697635697967105
   retweet_count = 111
   text = "RT @grrrck: THIS IS SO COOL!!!\n\nInstantaneous #xaringan #rstats slide previews! 🤩 @xieyihui, you rock! https://t.co/MEGhQCuq7e https://t.co/yYG5zIRM0C"
@@ -59561,9 +59545,9 @@
 
 [[tweets]]
   created_at = 2019-02-14T21:27:07Z
-  favorite_count = 391
+  favorite_count = 392
   id = 1096158922161967105
-  retweet_count = 167
+  retweet_count = 164
   text = "RT @andrewzm: Our @CRCpress book Spatio-Temporal Statistics with R is now published and available online at https://t.co/FetuGb7idp #rstats #rspatial https://t.co/TQZBV4yVLa https://t.co/Ky3dxc6x9J"
 
   [tweets.entities]
@@ -59623,6 +59607,10 @@
     [[tweets.entities.user_mentions]]
       user = "RogerBivand"
       user_id = 1560929287
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "CivicAngela"
@@ -59960,6 +59948,10 @@
       user = "robinlovelace"
       user_id = 80250475
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.retweet]
     status_id = 1092429735236435968
     user = "robinlovelace"
@@ -59990,7 +59982,7 @@
 
 [[tweets]]
   created_at = 2019-02-02T18:53:34Z
-  favorite_count = 3
+  favorite_count = 2
   id = 1091771626637672450
   text = "@CivicAngela I also like that resource a lot. (I am just a minor contributor there though. I think @edzerpebesma created the guide)."
 
@@ -59999,10 +59991,6 @@
     [[tweets.entities.user_mentions]]
       user = "CivicAngela"
       user_id = 742379544309567489
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 1091443807349035009
@@ -60804,9 +60792,9 @@
 
 [[tweets]]
   created_at = 2018-12-23T17:58:38Z
-  favorite_count = 5484
+  favorite_count = 5494
   id = 1076899899348799488
-  retweet_count = 1560
+  retweet_count = 1559
   text = "RT @PDLComics: enough https://t.co/HTkUMvaTID"
 
   [tweets.entities]
@@ -62175,6 +62163,10 @@
     [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 1066076928312979456
@@ -63752,9 +63744,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2722
+  favorite_count = 2727
   id = 1039472133481615360
-  retweet_count = 1024
+  retweet_count = 1025
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
 
   [tweets.entities]
@@ -65182,7 +65174,7 @@
 
 [[tweets]]
   created_at = 2018-07-12T13:06:29Z
-  favorite_count = 6
+  favorite_count = 5
   id = 1017394765715951618
   retweet_count = 1
   text = "RT @TimSalabim3: @UrbanDemog @robinlovelace @dshkol @jakub_nowosad @symbolixAU @kyle_e_walker @ikashnitsky @KenSteif @edzerpebesma Posted a workaround https://t.co/dwL67OsI2j"
@@ -65229,10 +65221,6 @@
     [[tweets.entities.user_mentions]]
       user = "KenSteif"
       user_id = 1905250434
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.retweet]
     status_id = 1017314788278439936
@@ -67092,10 +67080,6 @@
       user = "robinlovelace"
       user_id = 80250475
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.reply]
     status_id = 985669855721422850
     user = "jhollist"
@@ -67159,6 +67143,10 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 984881836034854913
@@ -67235,10 +67223,6 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 984866556193763329
@@ -67644,10 +67628,6 @@
       user_id = 144529492
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "cpsievert"
       user_id = 316842679
 
@@ -67702,10 +67682,6 @@
       user_id = 2810559039
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "cpsievert"
       user_id = 316842679
 
@@ -67754,6 +67730,10 @@
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
       user_id = 2810559039
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "cpsievert"
@@ -68498,17 +68478,6 @@
   favorite_count = 1
   id = 971571840085880834
   text = "@edzerpebesma I thought about it, but it is definitely above my head: connecting complex C code with R is one issue and enabling it to work on different platforms is another..."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-  [tweets.reply]
-    status_id = 971455468878090240
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2018-03-08T02:16:04Z
@@ -69929,6 +69898,10 @@
       user = "RogerBivand"
       user_id = 1560929287
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 951144351744348160
     user = "RogerBivand"
@@ -70241,6 +70214,10 @@
       user_id = 1560929287
 
     [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
+    [[tweets.entities.user_mentions]]
       user = "geospacedman"
       user_id = 88731801
 
@@ -70512,7 +70489,7 @@
 
 [[tweets]]
   created_at = 2017-12-19T15:23:00Z
-  favorite_count = 300
+  favorite_count = 306
   id = 943139611584417792
   retweet_count = 243
   text = "RT @pedromics: Trickle down academics \n(@Sci_Hub it) https://t.co/cMb10XYTe5"
@@ -71523,9 +71500,9 @@
 
 [[tweets]]
   created_at = 2017-11-06T13:14:54Z
-  favorite_count = 73
+  favorite_count = 72
   id = 927524693640384513
-  retweet_count = 24
+  retweet_count = 21
   text = "rcartocolor - implementation of the CARTOcolor palette in R - is on  CRAN https://t.co/6Gj8U9vCBc 🗺️ #rstats #geocompr @CARTO https://t.co/m2JqJ1Y9Ym"
 
   [tweets.entities]
@@ -71733,7 +71710,7 @@
   created_at = 2017-10-30T18:17:44Z
   favorite_count = 141
   id = 925064189114245121
-  retweet_count = 74
+  retweet_count = 71
   text = "RT @kelsosCorner: #naturalearth version 4 is live! Read the release notes & big thanks to the 50+ people who helped along the way :) https://t.co/rzw8bkCnZb"
 
   [tweets.entities]
@@ -72336,19 +72313,6 @@
       display_url = "ucblueash.edu/now/2017/09/14…"
       expanded_url = "http://www.ucblueash.edu/now/2017/09/14/tournees2017/"
       url = "https://t.co/AbEVWx8mlV"
-
-    [[tweets.entities.user_mentions]]
-      user = "Bill_Felix"
-      user_id = 40157524
-
-    [[tweets.entities.user_mentions]]
-      user = "Bill_Felix"
-      user_id = 40157524
-
-  [tweets.reply]
-    status_id = 915977193284550658
-    user = "Bill_Felix"
-    user_id = 40157524
 
 [[tweets]]
   created_at = 2017-10-04T21:33:44Z
@@ -73103,10 +73067,6 @@
     [[tweets.entities.user_mentions]]
       user = "zevross"
       user_id = 1909185565
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 894641383084085249
@@ -74174,6 +74134,10 @@
     [[tweets.entities.user_mentions]]
       user = "LeahAWasser"
       user_id = 517921400
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 875810539577978883
@@ -76400,6 +76364,10 @@
       user = "mdsumner"
       user_id = 103516223
 
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
+
   [tweets.reply]
     status_id = 786904724851138562
     user = "mdsumner"
@@ -76428,10 +76396,6 @@
     [[tweets.entities.user_mentions]]
       user = "dirk_sch"
       user_id = 500162083
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 786904724851138562
@@ -76657,6 +76621,10 @@
     [[tweets.entities.user_mentions]]
       user = "bhaskar_vk"
       user_id = 577250082
+
+    [[tweets.entities.user_mentions]]
+      user = "edzerpebesma"
+      user_id = 148518970
 
   [tweets.reply]
     status_id = 784174213640970241
@@ -77241,7 +77209,7 @@
 
 [[tweets]]
   created_at = 2016-09-19T18:48:58Z
-  favorite_count = 1647
+  favorite_count = 1652
   id = 777942576099893248
   retweet_count = 906
   text = "RT @EricRWeinstein: We went way too far teaching \"correlation doesn't imply causation\" that we now have educated people for whom *nothing* will imply causation."
@@ -78884,9 +78852,9 @@
 
 [[tweets]]
   created_at = 2015-03-18T19:34:40Z
-  favorite_count = 2393
+  favorite_count = 2392
   id = 578278362667458560
-  retweet_count = 4158
+  retweet_count = 4162
   text = "RT @shaunm: USB Type-C will replace DisplayPort, which replaced HDMI, which replaced DVI, which replaced VGA, which is what every projector still uses."
 
   [tweets.entities]
