@@ -87,9 +87,9 @@
 
 [[tweets]]
   created_at = 2023-01-16T15:29:38Z
-  favorite_count = 605
+  favorite_count = 622
   id = 1615008381089054720
-  retweet_count = 171
+  retweet_count = 176
   text = "🔥Major Announcement🔥\n\nWe created a new home for all of our resources on reproducible geographic data analysis, modeling, and visualization with open source software!\n\nVisit https://t.co/fRkwrYntsd.\n\n#rstats #rspatial #python #geopython #geocompx https://t.co/oswVtR9faS"
 
   [tweets.entities]
@@ -25716,7 +25716,7 @@
 
 [[tweets]]
   created_at = 2021-04-20T19:35:17Z
-  favorite_count = 159
+  favorite_count = 156
   id = 1384591520116924417
   retweet_count = 11
   text = "RT @ClausWilke: Source.\nhttps://t.co/2gZcq1w1YH"
@@ -27373,7 +27373,7 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37051
+  favorite_count = 37055
   id = 1367166556501925891
   retweet_count = 2913
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
@@ -51061,10 +51061,6 @@
       user = "robinlovelace"
       user_id = 80250475
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.retweet]
     status_id = 1166628966410719232
     user = "robinlovelace"
@@ -61520,9 +61516,9 @@
 
 [[tweets]]
   created_at = 2018-12-05T13:32:34Z
-  favorite_count = 2292
+  favorite_count = 2290
   id = 1070309959852806144
-  retweet_count = 1326
+  retweet_count = 1323
   text = "RT @StatGarrett: Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme https://t.co/HKs1eKybBw"
 
   [tweets.entities]
@@ -67016,10 +67012,6 @@
     [[tweets.entities.user_mentions]]
       user = "robinlovelace"
       user_id = 80250475
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "EarthLabCU"
@@ -73104,9 +73096,9 @@
 
 [[tweets]]
   created_at = 2017-08-06T18:19:11Z
-  favorite_count = 57
+  favorite_count = 55
   id = 894261586315161600
-  retweet_count = 19
+  retweet_count = 16
   text = "We wrote a short history of spatial capabilities in R - https://t.co/011PdJxwH1. \nComments/PRs welcome! #rstats #geocompr https://t.co/fKUgncFrUS"
 
   [tweets.entities]
