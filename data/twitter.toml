@@ -1,9 +1,37 @@
 
 [[tweets]]
+  created_at = 2023-01-19T16:22:53Z
+  favorite_count = 32
+  id = 1616108947181649935
+  retweet_count = 8
+  text = "RT @opengeohub: [Summer School 2023]\n\nFor our yearly appointment, let's meet at the Faculty of Geo Sciences of Adam Mickiewicz University in Poznan!\n\nOn the agenda: lectures, but also data challenge competitions, visits & excursions🌠\n\n🚩Applications: until 01.02.23!\n\n🔎 https://t.co/2G85bqbbzd https://t.co/MzgQJwR5ic"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1615997527253258240
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fm0tMGnXEAAFY0T.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "opengeohub.org/summer-school/…"
+      expanded_url = "https://opengeohub.org/summer-school/opengeohub-summer-school-poznan-2023/"
+      url = "https://t.co/2G85bqbbzd"
+
+    [[tweets.entities.user_mentions]]
+      user = "opengeohub"
+      user_id = 1036979600780406784
+
+  [tweets.retweet]
+    status_id = 1615997532097712128
+    user = "opengeohub"
+    user_id = 1036979600780406784
+
+[[tweets]]
   created_at = 2023-01-18T15:11:37Z
-  favorite_count = 649
+  favorite_count = 651
   id = 1615728626279882752
-  retweet_count = 181
+  retweet_count = 186
   text = "RT @jakub_nowosad: 🔥Major Announcement🔥\n\nWe created a new home for all of our resources on reproducible geographic data analysis, modeling, and visualization with open source software!\n\nVisit https://t.co/fRkwrYntsd.\n\n#rstats #rspatial #python #geopython #geocompx https://t.co/oswVtR9faS"
 
   [tweets.entities]
@@ -125,9 +153,9 @@
 
 [[tweets]]
   created_at = 2023-01-16T15:29:38Z
-  favorite_count = 649
+  favorite_count = 651
   id = 1615008381089054720
-  retweet_count = 181
+  retweet_count = 186
   text = "🔥Major Announcement🔥\n\nWe created a new home for all of our resources on reproducible geographic data analysis, modeling, and visualization with open source software!\n\nVisit https://t.co/fRkwrYntsd.\n\n#rstats #rspatial #python #geopython #geocompx https://t.co/oswVtR9faS"
 
   [tweets.entities]
@@ -4779,10 +4807,6 @@
     [[tweets.entities.user_mentions]]
       user = "RoelandtN42"
       user_id = 831398755920445440
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "EOdatascience"
@@ -11036,10 +11060,6 @@
       user = "hanna123987"
       user_id = 720884657328246785
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.retweet]
     status_id = 1504473445999939584
     user = "hanna123987"
@@ -13022,10 +13042,6 @@
     [[tweets.entities.user_mentions]]
       user = "_ColinFay"
       user_id = 84618490
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "jakub_nowosad"
@@ -15948,7 +15964,7 @@
 
 [[tweets]]
   created_at = 2021-11-11T06:54:14Z
-  favorite_count = 5135
+  favorite_count = 5132
   id = 1458689506627014657
   retweet_count = 356
   text = "RT @jenheemstra: No matter how long I’m in academia:\n-the rejections still sting\n-giving a talk still makes me nervous\n-getting everything done still feels overwhelming\n\nThe challenges don’t go away with time, but over time I can keep getting better at managing them."
@@ -22656,17 +22672,8 @@
       url = "https://t.co/JrxBO9C8tk"
 
     [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
-    [[tweets.entities.user_mentions]]
       user = "mdsumner"
       user_id = 103516223
-
-  [tweets.reply]
-    status_id = 1405784661209620480
-    user = "edzerpebesma"
-    user_id = 148518970
 
 [[tweets]]
   created_at = 2021-06-17T14:49:54Z
@@ -23098,10 +23105,6 @@
       display_url = "rspatial.github.io/terra/referenc…"
       expanded_url = "https://rspatial.github.io/terra/reference/terra-package.html"
       url = "https://t.co/YSwMT6Aopi"
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
     [[tweets.entities.user_mentions]]
       user = "southmapr"
@@ -27401,9 +27404,9 @@
 
 [[tweets]]
   created_at = 2021-03-03T17:34:42Z
-  favorite_count = 37052
+  favorite_count = 37040
   id = 1367166556501925891
-  retweet_count = 2912
+  retweet_count = 2911
   text = "RT @krisknisely: Student (via email): \"I'm v sorry to have to ask for a copy of your article. I wasn't able to find it at my library & I can't afford to buy it.\"\n\nNo, sweet, sweet student, please do not ever be sorry. You have made my whole day. Ask me for all the PDFs.\n\n* attaches PDF *\n* send *"
 
   [tweets.entities]
@@ -45030,7 +45033,7 @@
   created_at = 2020-01-23T21:13:56Z
   favorite_count = 39
   id = 1220454641542094872
-  retweet_count = 23
+  retweet_count = 20
   text = "RT @RConsortium: R Consortium’s R User Group and Small Conference Support Program for 2020 has been announced - Apply for a RUG or Small conference grant now! https://t.co/khj7wMoCeC"
 
   [tweets.entities]
@@ -59018,10 +59021,6 @@
       user = "geospacedman"
       user_id = 88731801
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.retweet]
     status_id = 1103297526000742400
     user = "geospacedman"
@@ -60002,10 +60001,6 @@
     [[tweets.entities.user_mentions]]
       user = "CivicAngela"
       user_id = 742379544309567489
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 1091443807349035009
@@ -63755,7 +63750,7 @@
 
 [[tweets]]
   created_at = 2018-09-11T11:14:03Z
-  favorite_count = 2722
+  favorite_count = 2719
   id = 1039472133481615360
   retweet_count = 1023
   text = "RT @xkcdComic: Sandboxing Cycle https://t.co/cEZmOj3HHw https://t.co/v65PH9XkMr https://t.co/lTfmjhtmbT"
@@ -65279,7 +65274,7 @@
 
 [[tweets]]
   created_at = 2018-07-06T21:46:58Z
-  favorite_count = 2
+  favorite_count = 1
   id = 1015351424933298176
   text = "@geospacedman @TimSalabim3 @edzerpebesma You can find it here - https://t.co/f1BA9cwGE5."
 
@@ -65297,10 +65292,6 @@
     [[tweets.entities.user_mentions]]
       user = "TimSalabim3"
       user_id = 712203030079414272
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 1015345374540820480
@@ -67235,10 +67226,6 @@
       user = "robinlovelace"
       user_id = 80250475
 
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
-
   [tweets.reply]
     status_id = 984866556193763329
     user = "noamross"
@@ -67987,10 +67974,6 @@
     [[tweets.entities.user_mentions]]
       user = "TimSalabim3"
       user_id = 712203030079414272
-
-    [[tweets.entities.user_mentions]]
-      user = "edzerpebesma"
-      user_id = 148518970
 
   [tweets.reply]
     status_id = 977268536275030016
@@ -72371,7 +72354,7 @@
 
 [[tweets]]
   created_at = 2017-10-04T01:16:43Z
-  favorite_count = 6
+  favorite_count = 5
   id = 915385159725326336
   text = "CinDay #rstats user group meetup with @neilberg and @Bill_Felix. ScaleR, waffle, and purrr. Thanks! https://t.co/vabMxzBZnn"
 
@@ -72390,10 +72373,6 @@
     [[tweets.entities.user_mentions]]
       user = "neilberg"
       user_id = 28556425
-
-    [[tweets.entities.user_mentions]]
-      user = "Bill_Felix"
-      user_id = 40157524
 
 [[tweets]]
   created_at = 2017-09-12T11:54:55Z
